@@ -1,0 +1,68 @@
+1
+00:00:00,000 --> 00:00:11,688
+Bienvenido. Antes de empezar el curso, vamos a recorrer en pocos minutos el camino completo que haremos durante muchas lecciones: de un sistema de ecuaciones a su solución.
+
+2
+00:00:12,683 --> 00:00:25,379
+Buscamos dos números, equis y ye, que cumplan las dos igualdades a la vez: equis más ye igual a tres, y equis menos ye igual a uno. Eso es un sistema de ecuaciones.
+
+3
+00:00:25,366 --> 00:00:39,502
+Delante de equis hay un uno que no se escribe, y delante de menos ye hay un menos uno. Esos números que multiplican a las incógnitas se llaman coeficientes. El signo menos pertenece al coeficiente.
+
+4
+00:00:39,500 --> 00:00:46,436
+Si solo guardamos los números, en el mismo orden, obtenemos una tabla: la matriz aumentada.
+
+5
+00:00:46,433 --> 00:00:54,305
+En azul, los coeficientes. Detrás de la barra, en naranja, los términos independientes.
+
+6
+00:00:54,300 --> 00:01:04,308
+Cada fila de la matriz es exactamente una ecuación del sistema. No hemos perdido información: solo hemos dejado de escribir las letras.
+
+7
+00:01:05,300 --> 00:01:10,652
+Ahora, a la segunda fila le restamos la primera, número a número.
+
+8
+00:01:10,650 --> 00:01:20,034
+Uno menos uno, cero. Menos uno menos uno, menos dos. Y uno menos tres, menos dos.
+
+9
+00:01:20,033 --> 00:01:24,353
+A la izquierda vemos el mismo cambio hecho en las ecuaciones.
+
+10
+00:01:24,350 --> 00:01:35,150
+El objetivo era ese cero: la equis desaparece de la segunda ecuación. Por qué esta operación no cambia las soluciones lo demostraremos en la lección veinticuatro.
+
+11
+00:01:37,150 --> 00:01:44,182
+La segunda ecuación ya solo tiene ye: dividimos entre menos dos, y obtenemos ye igual a uno.
+
+12
+00:01:44,166 --> 00:01:50,550
+Lo sustituimos en la primera: equis más uno igual a tres, luego equis igual a dos.
+
+13
+00:01:50,550 --> 00:01:54,510
+La solución del sistema es el par dos, uno.
+
+14
+00:01:55,550 --> 00:01:59,750
+Cada ecuación con dos incógnitas es una recta del plano.
+
+15
+00:02:02,550 --> 00:02:09,126
+Resolver el sistema es encontrar el punto que está en las dos rectas a la vez: el dos, uno.
+
+16
+00:02:09,116 --> 00:02:21,476
+Y nunca terminamos sin comprobar: sustituimos en el sistema original. Dos más uno es tres, y dos menos uno es uno. Las dos igualdades se cumplen.
+
+17
+00:02:22,466 --> 00:02:30,914
+Si ves este video, tu entorno está listo. Empezamos de verdad en la lección uno, con los números reales.
+

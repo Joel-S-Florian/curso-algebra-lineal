@@ -1,0 +1,52 @@
+1
+00:00:01,000 --> 00:00:06,928
+Lección 6 , Parte 1: Resolver una ecuación lineal con una incógnita
+
+2
+00:00:09,916 --> 00:00:28,708
+Resolvamos tres equis más cuatro igual a diez, justificando cada paso. Restamos cuatro en ambos lados: regla uno. Queda tres equis igual a seis. Dividimos entre tres, que no es cero: regla dos. Equis igual a dos.
+
+3
+00:00:28,700 --> 00:00:35,252
+Y verificamos: tres por dos, más cuatro, diez. Correcto.
+
+4
+00:00:35,250 --> 00:00:42,450
+Cada paso se puede deshacer, así que la ecuación final tiene exactamente las mismas soluciones que la inicial.
+
+5
+00:00:44,450 --> 00:01:09,266
+Esta es la receta para cualquier ecuación lineal con una incógnita. Uno: quitar paréntesis y denominadores. Dos: las equis a un lado y los números al otro. Tres: agrupar, hasta llegar a a equis igual a be. Cuatro: si a no es cero, dividir entre a. Y cinco: verificar en la ecuación original.
+
+6
+00:01:09,250 --> 00:01:19,570
+Fíjate en el paso cuatro: solo se puede dividir entre a si a no es cero. ¿Y si a vale cero? Lo veremos en el siguiente video.
+
+7
+00:01:21,566 --> 00:01:41,630
+Con fracciones: dos tercios de equis menos uno, igual a equis medios más un tercio. Multiplicamos ambos lados por seis, y desaparecen todos los denominadores: cuatro equis menos seis igual a tres equis más dos. Restamos tres equis y sumamos seis: equis igual a ocho.
+
+8
+00:01:41,616 --> 00:01:46,200
+Verificamos: los dos lados valen trece tercios.
+
+9
+00:01:46,200 --> 00:01:51,264
+¿Por qué seis? Porque es múltiplo de tres y de dos.
+
+10
+00:01:53,250 --> 00:02:18,810
+Con paréntesis, cuidado con los signos. Cinco menos dos por equis menos tres: el menos dos multiplica a equis y a menos tres, y menos dos por menos tres es más seis. Queda once menos dos equis igual a tres equis más uno. Sumamos dos equis y restamos uno: diez igual a cinco equis. Dividimos entre cinco: equis igual a dos.
+
+11
+00:02:18,800 --> 00:02:22,856
+Verificamos: los dos lados valen siete.
+
+12
+00:02:24,800 --> 00:02:33,344
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+13
+00:02:40,333 --> 00:03:02,149
+En resumen: toda ecuación lineal con una incógnita se lleva a la forma a equis igual a be. Cada paso usa la regla uno o la regla dos de la lección dos. Si a no es cero, la única solución es be entre a. Y siempre se verifica en la ecuación original. Siguiente: qué pasa cuando a es cero.
+

@@ -1,0 +1,52 @@
+1
+00:00:01,000 --> 00:00:04,624
+Cuarta parte: rectas coincidentes.
+
+2
+00:00:07,616 --> 00:00:13,640
+Ahora: equis más ye igual a cinco, y dos equis más dos ye igual a diez.
+
+3
+00:00:13,633 --> 00:00:18,841
+Al dibujar la segunda recta, cae exactamente encima de la primera.
+
+4
+00:00:18,833 --> 00:00:25,913
+La segunda ecuación entera, coeficientes y término independiente, es la primera multiplicada por dos.
+
+5
+00:00:25,900 --> 00:00:30,172
+No añade ninguna condición nueva: es redundante.
+
+6
+00:00:30,166 --> 00:00:42,814
+Cualquier punto de la recta es solución. Si llamamos te al valor de ye, equis vale cinco menos te: las soluciones son cinco menos te, coma, te, para cualquier número te.
+
+7
+00:00:42,800 --> 00:00:49,832
+Todos los puntos de la recta son solución: hay infinitas soluciones, descritas con un parámetro.
+
+8
+00:00:52,816 --> 00:00:56,368
+Si las rectas se cortan: una solución.
+
+9
+00:00:56,366 --> 00:00:59,390
+Si son paralelas: ninguna.
+
+10
+00:00:59,383 --> 00:01:02,551
+Si coinciden: infinitas.
+
+11
+00:01:02,550 --> 00:01:09,318
+Y nunca hay exactamente dos soluciones: dos rectas distintas no pueden cortarse en dos puntos.
+
+12
+00:01:12,316 --> 00:01:32,164
+Ejercicio propuesto: escribe tres sistemas. Uno con solución única dos, menos uno; otro sin solución; y otro con infinitas soluciones, todas sobre la recta equis más ye igual a tres. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+13
+00:01:37,150 --> 00:02:02,062
+En resumen: si una ecuación es múltiplo de la otra, las rectas coinciden y hay infinitas soluciones. Se cortan: una solución. Paralelas: ninguna. Coincidentes: infinitas. Y con dos incógnitas nunca hay exactamente dos soluciones. En la lección nueve pasamos a tres ecuaciones con tres incógnitas.
+

@@ -1,0 +1,44 @@
+1
+00:00:01,000 --> 00:00:05,872
+Lección 15 , Parte 1: El método de reducción
+
+2
+00:00:08,866 --> 00:00:19,450
+Tres equis más dos ye igual a siete, y cinco equis menos dos ye igual a nueve. Los coeficientes de ye son opuestos: más dos y menos dos.
+
+3
+00:00:19,450 --> 00:00:29,314
+Si sumamos las dos ecuaciones, los lados izquierdos entre sí y los derechos entre sí, la ye desaparece: queda ocho equis igual a dieciséis.
+
+4
+00:00:30,050 --> 00:00:43,058
+Equis vale dos. Sustituimos en la primera: seis más dos ye igual a siete, así que ye vale un medio. Y verificamos en la segunda: diez menos uno, nueve.
+
+5
+00:00:45,050 --> 00:00:56,498
+Ahora, dos equis más tres ye igual a ocho, y tres equis menos cuatro ye igual a menos cinco. No hay coeficientes opuestos, así que los fabricamos.
+
+6
+00:00:56,483 --> 00:01:04,427
+Multiplicamos la primera ecuación por tres y la segunda por dos, que no son cero: las dos tienen ahora seis equis.
+
+7
+00:01:04,416 --> 00:01:11,832
+Ahora restamos: seis equis menos seis equis es cero, y queda diecisiete ye igual a treinta y cuatro.
+
+8
+00:01:13,016 --> 00:01:24,680
+Ye vale dos. En la primera: dos equis más seis igual a ocho, equis vale uno. Y verificamos: tres menos ocho, menos cinco.
+
+9
+00:01:24,666 --> 00:01:28,578
+Restar es sumar después de multiplicar por menos uno.
+
+10
+00:01:30,666 --> 00:01:39,210
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+11
+00:01:46,200 --> 00:02:08,640
+En resumen: si una incógnita tiene coeficientes opuestos, sumar las ecuaciones la elimina. Si no, se multiplican las ecuaciones por números distintos de cero para fabricarlos. Después se resuelve la ecuación resultante y se sustituye en una de las originales. Siguiente: por qué reducir no cambia las soluciones.
+

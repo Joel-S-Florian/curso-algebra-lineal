@@ -1,0 +1,72 @@
+1
+00:00:01,000 --> 00:00:06,880
+Lección 2 , Parte 1: Variables, términos y coeficientes
+
+2
+00:00:09,866 --> 00:00:13,994
+Imagina una caja con un número dentro que no conoces.
+
+3
+00:00:13,983 --> 00:00:20,079
+En matemáticas, esa caja se escribe con una letra: equis, ye, zeta.
+
+4
+00:00:20,066 --> 00:00:26,594
+Como puede valer uno, dos, menos siete o un medio, decimos que es una variable.
+
+5
+00:00:26,583 --> 00:00:42,759
+Una variable es un símbolo que representa un número y puede tomar distintos valores. Cuando buscamos el valor concreto que cumple una condición, la llamamos incógnita, que significa desconocida. Y una constante es un número fijo.
+
+6
+00:00:44,750 --> 00:00:49,502
+Una expresión está formada por términos, que son los sumandos.
+
+7
+00:00:49,500 --> 00:00:56,340
+El signo que va delante pertenece al término: el tercer término no es cinco, es menos cinco.
+
+8
+00:00:56,333 --> 00:01:02,309
+El número que multiplica a cada variable es su coeficiente: aquí, tres y dos.
+
+9
+00:01:02,300 --> 00:01:10,340
+El término sin variable es el término independiente. Estos colores serán los mismos durante todo el curso.
+
+10
+00:01:10,333 --> 00:01:14,701
+El término independiente es menos cinco, con su signo.
+
+11
+00:01:15,700 --> 00:01:20,188
+En equis menos ye más cuatro, ¿cuáles son los coeficientes?
+
+12
+00:01:20,183 --> 00:01:31,079
+Cuando no se ve un número delante de la letra, el coeficiente es uno, o menos uno si hay un signo menos. Esto será fundamental al escribir matrices.
+
+13
+00:01:33,066 --> 00:01:46,842
+Evaluar es sustituir las letras por números. Con equis igual a dos y ye igual a uno: tres por dos, más dos por uno, menos cinco. Seis más dos menos cinco: tres.
+
+14
+00:01:46,833 --> 00:01:58,281
+Cuidado con los signos: equis al cuadrado con equis igual a menos tres es nueve. Sin paréntesis, escribiríamos menos tres al cuadrado, que es menos nueve.
+
+15
+00:01:58,266 --> 00:02:03,570
+Pon siempre el número entre paréntesis: así no se pierde ningún signo.
+
+16
+00:02:05,566 --> 00:02:24,358
+Solo se pueden juntar términos con la misma variable, sumando sus coeficientes: tres equis más cinco equis es ocho equis. Cuatro equis más dos menos equis más seis es tres equis más ocho. Pero dos equis más tres ye no es cinco equis ye: no se puede simplificar.
+
+17
+00:02:25,350 --> 00:02:33,894
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+18
+00:02:40,883 --> 00:03:06,155
+En resumen: una variable representa un número, y una incógnita es la variable cuyo valor buscamos. Un término es cada sumando, con su signo. El coeficiente es el número que multiplica a la variable, y el término independiente es el que no lleva variable. Solo se juntan términos con la misma variable. Siguiente: igualdades y ecuaciones.
+

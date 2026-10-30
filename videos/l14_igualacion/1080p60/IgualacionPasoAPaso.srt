@@ -1,0 +1,40 @@
+1
+00:00:01,000 --> 00:00:06,064
+Lección 14 , Parte 1: El método de igualación
+
+2
+00:00:09,050 --> 00:00:20,186
+Dos equis menos ye igual a uno, y equis más tres ye igual a once. En el método de igualación, despejamos la misma incógnita en las dos ecuaciones.
+
+3
+00:00:20,183 --> 00:00:28,751
+Primero, despejamos ye en cada ecuación: ye es dos equis menos uno, y ye es once menos equis, entre tres.
+
+4
+00:00:28,750 --> 00:00:35,590
+Segundo: si ye es igual a las dos expresiones, las dos expresiones son iguales entre sí.
+
+5
+00:00:35,583 --> 00:00:52,695
+Tercero: ya tenemos una ecuación con una sola incógnita. La resolvemos: equis vale dos. Con cualquiera de los despejes, ye vale tres; los dos deben coincidir, y eso sirve de control. Y verificamos.
+
+6
+00:00:52,683 --> 00:00:55,851
+La solución es dos, tres.
+
+7
+00:00:58,683 --> 00:01:14,379
+¿Por qué es válido? Dos cantidades iguales a una tercera son iguales entre sí. Y al revés: con la igualdad y uno de los despejes, recuperamos el otro. Así que el sistema no cambia de soluciones.
+
+8
+00:01:14,366 --> 00:01:21,134
+La igualación es una sustitución disfrazada: sustituimos ye igual a a en la ecuación ye igual a be.
+
+9
+00:01:22,133 --> 00:01:30,677
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+10
+00:01:37,666 --> 00:01:57,922
+En resumen: en el método de igualación, despejamos la misma incógnita en las dos ecuaciones e igualamos las expresiones. Queda una ecuación con una incógnita. Los dos despejes deben dar el mismo valor, y eso sirve de control. Siguiente: igualar es buscar la misma altura.
+

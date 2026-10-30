@@ -1,0 +1,64 @@
+1
+00:00:01,000 --> 00:00:05,872
+Lección 1 , Parte 1: Los conjuntos numéricos
+
+2
+00:00:08,872 --> 00:00:22,144
+Los primeros números que aprendemos sirven para contar: uno, dos, tres. Se llaman números naturales, y los representamos como puntos de una recta, separados siempre la misma distancia.
+
+3
+00:00:22,138 --> 00:00:26,506
+Algunos libros también incluyen el cero entre los naturales.
+
+4
+00:00:28,138 --> 00:00:35,986
+Pero con ellos no siempre se puede restar. Si a tres le quito cinco, me salgo por la izquierda del uno.
+
+5
+00:00:35,972 --> 00:00:46,724
+Para que la resta siempre tenga respuesta, reflejamos los naturales al otro lado del cero: aparecen los negativos. Tres menos cinco es menos dos.
+
+6
+00:00:46,722 --> 00:00:51,618
+Naturales, cero y negativos forman los números enteros.
+
+7
+00:00:53,722 --> 00:00:59,410
+Con los enteros tampoco se puede dividir siempre: uno entre dos no es un entero.
+
+8
+00:00:59,405 --> 00:01:08,933
+Las fracciones de enteros, con denominador distinto de cero, son los números racionales. Llenan muchísimos huecos de la recta.
+
+9
+00:01:08,922 --> 00:01:19,290
+Su expresión decimal termina, como un medio, que es cero coma cinco; o se repite sin fin, como un tercio, que es cero coma tres tres tres.
+
+10
+00:01:20,288 --> 00:01:29,096
+Pero no todos los huecos. La diagonal de un cuadrado de lado uno mide raíz de dos, por el teorema de Pitágoras.
+
+11
+00:01:29,088 --> 00:01:36,480
+Si la giramos hasta la recta, marca un punto. Ese punto no corresponde a ninguna fracción.
+
+12
+00:01:36,472 --> 00:01:47,944
+Lo mismo pasa con pi. El dibujo nos dice dónde está raíz de dos; que no es una fracción lo demostraremos en la lección cuatro, porque un dibujo no es una demostración.
+
+13
+00:01:49,938 --> 00:01:59,922
+Juntando racionales e irracionales obtenemos los números reales: todos los puntos de la recta. Cada conjunto está contenido en el siguiente.
+
+14
+00:01:59,922 --> 00:02:06,042
+En este curso, los coeficientes y las soluciones de los sistemas serán números reales.
+
+15
+00:02:07,039 --> 00:02:15,583
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+16
+00:02:22,583 --> 00:02:47,759
+En resumen. Naturales para contar, enteros para poder restar, racionales para poder dividir (nunca entre 0). Hay números que no son fracciones: los irracionales (raíz de 2, pi). Los reales son todos los puntos de la recta. Cada conjunto está contenido en el siguiente. Siguiente: cómo se opera con signos.
+

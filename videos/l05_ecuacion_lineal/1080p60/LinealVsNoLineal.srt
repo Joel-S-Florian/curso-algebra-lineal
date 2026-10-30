@@ -1,0 +1,36 @@
+1
+00:00:01,000 --> 00:00:05,632
+Lección 5 , Parte 2: Lineal o no lineal
+
+2
+00:00:07,632 --> 00:00:11,160
+Clasifiquemos: ¿lineal o no lineal?
+
+3
+00:00:11,148 --> 00:00:45,612
+Equis más ye igual a uno: lineal. Equis al cuadrado más ye: no lineal, hay una potencia. Equis por ye: no lineal, es un producto de incógnitas. Equis tercios menos dos ye: sí, porque dividir entre tres es multiplicar por un tercio. Uno entre equis: no, la incógnita está en un denominador. Raíz de equis: no. Raíz de dos por equis: sí, raíz de dos es solo un número. Y seno de equis: no.
+
+4
+00:00:45,598 --> 00:00:51,814
+Fíjate: dividir entre un número es lineal; dividir entre la incógnita no lo es.
+
+5
+00:00:53,798 --> 00:00:56,390
+Las gráficas lo delatan.
+
+6
+00:00:56,382 --> 00:01:01,182
+La ecuación lineal da una recta; las otras, curvas.
+
+7
+00:01:01,382 --> 00:01:08,702
+Esa regularidad es la que hará posible un método que resuelve cualquier sistema lineal: la eliminación de Gauss.
+
+8
+00:01:09,698 --> 00:01:18,242
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+9
+00:01:25,232 --> 00:01:49,880
+En resumen: no es lineal si hay potencias, productos de incógnitas, o incógnitas en denominadores o dentro de raíces y funciones. Dividir entre un número sí es lineal: equis tercios es un tercio por equis. Y las gráficas de las ecuaciones lineales son rectas o planos; las de las no lineales, curvas. Siguiente: trampas frecuentes.
+

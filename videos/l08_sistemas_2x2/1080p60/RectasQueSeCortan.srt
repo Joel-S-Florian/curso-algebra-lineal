@@ -1,0 +1,56 @@
+1
+00:00:01,000 --> 00:00:04,648
+Segunda parte: rectas que se cortan.
+
+2
+00:00:07,633 --> 00:00:14,305
+Tomemos el sistema: dos equis menos ye igual a uno, y equis más tres ye igual a once.
+
+3
+00:00:14,300 --> 00:00:20,564
+Cada ecuación es una recta, y estas dos se cortan en un punto: el dos, tres.
+
+4
+00:00:20,550 --> 00:00:25,086
+Despejando ye, la primera recta tiene pendiente dos.
+
+5
+00:00:25,083 --> 00:00:28,635
+La segunda tiene pendiente menos un tercio.
+
+6
+00:00:28,633 --> 00:00:38,401
+Verificamos el punto dos, tres en las dos ecuaciones: cuatro menos tres es uno, y dos más nueve es once. Correcto.
+
+7
+00:00:38,400 --> 00:00:45,840
+Dos rectas con pendientes distintas se cortan exactamente en un punto: el sistema tiene una única solución.
+
+8
+00:00:46,833 --> 00:00:56,649
+Giremos la segunda recta alrededor del punto. Mientras su pendiente sea distinta de la de la primera, el punto de corte sigue siendo único.
+
+9
+00:00:59,633 --> 00:01:04,985
+En general, escribimos el sistema con coeficientes a, be y ce.
+
+10
+00:01:04,983 --> 00:01:11,943
+Las pendientes son distintas exactamente cuando los pares de coeficientes de las incógnitas no son proporcionales.
+
+11
+00:01:11,933 --> 00:01:19,541
+En nuestro ejemplo, ningún número ka multiplicado por el par dos, menos uno, da el par uno, tres.
+
+12
+00:01:19,533 --> 00:01:27,093
+Proporcionales quiere decir que uno es un múltiplo del otro. Este criterio no necesita dibujar.
+
+13
+00:01:30,083 --> 00:01:45,587
+Ejercicio propuesto: sin resolver, decide si estas rectas se cortan en un único punto. En el caso be, halla el punto y verifícalo. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+14
+00:01:50,583 --> 00:02:10,503
+En resumen: rectas con pendientes distintas tienen un único punto común, y el sistema tiene una solución. El criterio: los pares de coeficientes no son proporcionales. Y toda solución se verifica en las dos ecuaciones. En el siguiente video: rectas paralelas.
+

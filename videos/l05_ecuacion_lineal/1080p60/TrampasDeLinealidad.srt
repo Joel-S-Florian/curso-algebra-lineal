@@ -1,0 +1,52 @@
+1
+00:00:01,000 --> 00:00:05,872
+Lección 5 , Parte 3: Trampas: ¿lineal o no?
+
+2
+00:00:08,866 --> 00:00:12,754
+Esta ecuación parece no lineal por los cuadrados.
+
+3
+00:00:12,750 --> 00:00:20,886
+Pero al desarrollar el cuadrado y restar equis al cuadrado y uno en los dos lados, se cancelan: queda dos equis igual a dos.
+
+4
+00:00:20,883 --> 00:00:24,867
+Es lineal: se decide después de simplificar.
+
+5
+00:00:27,883 --> 00:00:42,283
+Esta parece lineal, pero ye está en un denominador. Si multiplicamos por ye, obtenemos equis igual a dos ye, que admite el punto cero, cero, donde la ecuación original ni siquiera está definida.
+
+6
+00:00:42,266 --> 00:00:47,042
+No es lineal, y multiplicar por la incógnita la ha cambiado.
+
+7
+00:00:50,266 --> 00:01:06,226
+¿Es lineal a equis más tres ye igual a cinco? Depende de quién sea incógnita. Si a es un número fijo, un parámetro, sí. Si también fuera incógnita, a por equis sería un producto de incógnitas.
+
+8
+00:01:06,216 --> 00:01:15,312
+Lineal siempre se dice respecto de unas incógnitas concretas. Los parámetros, en verde, son números fijos.
+
+9
+00:01:17,300 --> 00:01:22,796
+Cuando todos los coeficientes son cero, la ecuación dice cero igual a algo.
+
+10
+00:01:22,783 --> 00:01:32,527
+Si ese algo no es cero, como cero igual a cinco, no hay ninguna solución. Si es cero, todos los pares son solución.
+
+11
+00:01:32,783 --> 00:01:37,847
+Volveremos a encontrar estas ecuaciones al final de la eliminación de Gauss.
+
+12
+00:01:39,783 --> 00:01:48,327
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+13
+00:01:55,316 --> 00:02:22,940
+En resumen: decide si es lineal después de simplificar con pasos válidos. Una incógnita en un denominador hace la ecuación no lineal. La linealidad depende de qué letras son incógnitas y cuáles parámetros. Y cero igual a cinco, sin solución, y cero igual a cero, con todas, son casos degenerados. Siguiente: lección seis, ecuaciones lineales con una incógnita.
+

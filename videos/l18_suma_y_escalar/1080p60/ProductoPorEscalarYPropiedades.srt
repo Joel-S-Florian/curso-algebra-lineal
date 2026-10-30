@@ -1,0 +1,40 @@
+1
+00:00:01,000 --> 00:00:06,808
+Lección 18 , Parte 2: Producto por un escalar y propiedades
+
+2
+00:00:09,808 --> 00:00:20,032
+Multiplicar una matriz por un número es multiplicar cada elemento por ese número: tres por uno, tres; tres por menos dos, menos seis; y así.
+
+3
+00:00:20,024 --> 00:00:25,208
+En general, el elemento i jota de ce por a es ce por a i jota.
+
+4
+00:00:25,208 --> 00:00:28,664
+Con menos uno obtenemos la matriz opuesta.
+
+5
+00:00:28,658 --> 00:00:32,930
+Y restar es sumar la opuesta, igual que con los números.
+
+6
+00:00:36,658 --> 00:00:49,594
+Estas operaciones cumplen las mismas propiedades que los números: conmutativa, asociativa, neutro y opuesto, y las distributivas. Es así porque se hacen posición a posición.
+
+7
+00:00:53,658 --> 00:01:12,090
+Para demostrar la conmutativa miramos una posición cualquiera, i jota. Por la definición de suma, es a i jota más be i jota. Por la conmutativa de los números reales, es be i jota más a i jota. Y eso es el elemento i jota de be más a.
+
+8
+00:01:12,074 --> 00:01:20,738
+Como vale en todas las posiciones, las dos matrices son iguales. Así se demuestran todas las propiedades.
+
+9
+00:01:21,724 --> 00:01:30,268
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+10
+00:01:37,268 --> 00:01:59,324
+En resumen: ce por a multiplica cada elemento por ce. Menos a es la opuesta, y a menos be es a más menos uno por be. La suma y el producto por un escalar cumplen las propiedades de los números, porque se calculan posición a posición. Siguiente: lección diecinueve, multiplicar una matriz por un vector.
+

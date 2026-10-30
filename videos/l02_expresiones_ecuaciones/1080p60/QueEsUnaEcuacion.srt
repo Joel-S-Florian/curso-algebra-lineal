@@ -1,0 +1,40 @@
+1
+00:00:01,000 --> 00:00:06,016
+Lección 2 , Parte 2: Igualdades y ecuaciones
+
+2
+00:00:09,016 --> 00:00:19,792
+Una igualdad es como una balanza en equilibrio: afirma que lo de la izquierda pesa lo mismo que lo de la derecha. Aquí, dos equis más uno igual a siete.
+
+3
+00:00:19,782 --> 00:00:33,054
+Si equis vale uno, la izquierda pesa tres, y la balanza cae hacia la derecha. Con cinco, pesa once, y cae hacia la izquierda. Solo con tres se equilibra.
+
+4
+00:00:33,049 --> 00:00:36,097
+Equis igual a tres es la solución.
+
+5
+00:00:39,049 --> 00:00:53,521
+Una ecuación es una igualdad con incógnitas. Solución es el valor que la hace verdadera. Resolver es encontrar todas las soluciones, y verificar es sustituir y comprobar que los dos lados coinciden.
+
+6
+00:00:55,521 --> 00:00:59,001
+No todas las ecuaciones se comportan igual.
+
+7
+00:00:59,001 --> 00:01:21,993
+Dos equis más uno igual a siete tiene una sola solución: tres. Dos por equis más uno igual a dos equis más dos se cumple para cualquier valor: es una identidad, infinitas soluciones. Y equis más uno igual a equis más dos no se cumple nunca: restando equis queda uno igual a dos, falso. Ninguna solución.
+
+8
+00:01:21,984 --> 00:01:28,416
+Una, infinitas o ninguna: estos tres casos son la columna vertebral de todo el curso.
+
+9
+00:01:29,401 --> 00:01:37,945
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+10
+00:01:44,945 --> 00:02:05,417
+En resumen. Una ecuación es una igualdad con incógnitas. Solución: valor que la hace verdadera. Se comprueba sustituyendo. Puede haber una solución, infinitas o ninguna. Siguiente: cómo transformar una ecuación sin cambiar sus soluciones.
+

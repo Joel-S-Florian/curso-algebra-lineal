@@ -1,0 +1,32 @@
+1
+00:00:01,000 --> 00:00:06,424
+Lección 12 , Parte 2: Menos ecuaciones que incógnitas
+
+2
+00:00:09,416 --> 00:00:14,432
+Dos ecuaciones con tres incógnitas: dos planos en el espacio.
+
+3
+00:00:14,416 --> 00:00:17,920
+Si se cortan, lo hacen en una recta.
+
+4
+00:00:17,916 --> 00:00:26,220
+Todos los puntos de esa recta son solución: dos menos te, uno, te. Infinitas soluciones.
+
+5
+00:00:26,216 --> 00:00:33,704
+Si los planos son paralelos, como equis más ye más zeta igual a uno y a tres, no hay ninguna solución.
+
+6
+00:00:36,700 --> 00:00:55,588
+Lo que nunca puede pasar es que dos planos se corten en un solo punto. Con menos ecuaciones que incógnitas, el sistema es indeterminado o incompatible, nunca determinado: si hay solución, siempre queda al menos una incógnita libre. La prueba completa la daremos con el rango.
+
+7
+00:00:56,583 --> 00:01:05,127
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+8
+00:01:12,116 --> 00:01:34,172
+En resumen. Menos ecuaciones que incógnitas: SCI o SI, nunca una única solución. Dos planos: se cortan en una recta, coinciden o son paralelos. La justificación completa llega con el rango (Lección 40). Siguiente: errores frecuentes del Bloque I.
+

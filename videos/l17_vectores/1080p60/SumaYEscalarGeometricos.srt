@@ -1,0 +1,44 @@
+1
+00:00:01,000 --> 00:00:07,192
+Lección 17 , Parte 2: Sumar vectores y multiplicarlos por un número
+
+2
+00:00:11,192 --> 00:00:14,360
+Tomemos dos vectores, u y uve.
+
+3
+00:00:14,360 --> 00:00:19,448
+Para sumarlos, se suman las componentes que ocupan la misma posición.
+
+4
+00:00:19,448 --> 00:00:25,808
+En el dibujo, es un desplazamiento tras otro: ponemos la cola de uve en la punta de u.
+
+5
+00:00:25,808 --> 00:00:33,440
+En el otro orden se llega al mismo punto: se forma un paralelogramo, y u más uve es igual a uve más u.
+
+6
+00:00:35,440 --> 00:00:42,208
+Multiplicar un vector por un número, un escalar, es multiplicar cada componente por ese número.
+
+7
+00:00:42,206 --> 00:00:55,550
+Multiplicar por un número mayor que uno estira la flecha; por un número entre cero y uno, la encoge; con un número negativo, la da la vuelta. Y con cero, se reduce al vector nulo.
+
+8
+00:00:59,206 --> 00:01:04,294
+Todos los múltiplos de u quedan sobre la misma recta que pasa por el origen.
+
+9
+00:01:06,290 --> 00:01:21,266
+Restar es sumar el opuesto: u menos uve es u más menos uno por uve. El vector nulo, con todas sus componentes cero, es el neutro de la suma. Y solo se suman vectores con el mismo número de componentes.
+
+10
+00:01:22,266 --> 00:01:30,810
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+11
+00:01:37,810 --> 00:02:03,178
+En resumen: para sumar vectores se suman sus componentes; en el dibujo, se pone la punta de uno en la cola del otro, y se forma un paralelogramo. Multiplicar por un número multiplica cada componente: estira, encoge o invierte el vector. Restar es sumar el opuesto, y el vector nulo es el neutro de la suma. Siguiente: combinar vectores.
+

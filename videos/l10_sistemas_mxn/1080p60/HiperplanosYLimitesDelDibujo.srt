@@ -1,0 +1,28 @@
+1
+00:00:01,000 --> 00:00:06,568
+Lección 10 , Parte 2: Rectas, planos e hiperplanos
+
+2
+00:00:09,568 --> 00:00:24,256
+Una ecuación lineal con una incógnita fija un punto; con dos, una recta, con una incógnita libre; con tres, un plano, con dos libres. Con cuatro, un hiperplano, que ya no podemos dibujar.
+
+3
+00:00:24,251 --> 00:00:28,091
+Cada incógnita más añade un grado de libertad.
+
+4
+00:00:33,251 --> 00:00:49,523
+En el espacio, una ecuación deja un plano; dos ecuaciones, normalmente una recta; tres, normalmente un punto. Normalmente significa: si cada ecuación aporta algo nuevo. Lo precisaremos con el rango.
+
+5
+00:00:51,523 --> 00:01:07,507
+Los dibujos dan intuición en dos y tres incógnitas, pero no sirven en dimensión alta, ni dan soluciones exactas, ni demuestran nada. Por eso necesitamos métodos algebraicos, como el de Gauss, que funcionen en cualquier dimensión.
+
+6
+00:01:08,507 --> 00:01:17,051
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+7
+00:01:24,051 --> 00:01:48,555
+En resumen: con ene incógnitas, una ecuación lineal no degenerada es un hiperplano, con ene menos uno incógnitas libres. Con dos incógnitas es una recta; con tres, un plano; con cuatro o más, no se puede dibujar. Y cada ecuación que aporta información nueva quita un grado de libertad. Siguiente: los sistemas homogéneos.
+

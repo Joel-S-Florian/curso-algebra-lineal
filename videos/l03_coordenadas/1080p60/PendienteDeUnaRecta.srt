@@ -1,0 +1,60 @@
+1
+00:00:01,000 --> 00:00:06,376
+Lección 3 , Parte 3: Pendiente y ordenada en el origen
+
+2
+00:00:08,366 --> 00:00:12,230
+Veamos la recta ye igual a eme equis más ene.
+
+3
+00:00:12,216 --> 00:00:23,040
+El número ene es la altura a la que la recta corta al eje vertical: la ordenada en el origen. Si cambiamos ene, la recta se desplaza sin girar.
+
+4
+00:00:23,033 --> 00:00:30,449
+El número eme dice cuánto sube la recta cuando avanzamos una unidad a la derecha. Es la pendiente.
+
+5
+00:00:33,933 --> 00:00:41,277
+Con eme positiva, la recta sube; con eme cero, es horizontal; con eme negativa, baja.
+
+6
+00:00:43,266 --> 00:00:49,554
+Si conocemos dos puntos de la recta, la pendiente es lo que sube dividido entre lo que avanza.
+
+7
+00:00:49,550 --> 00:00:53,414
+Diferencia de alturas entre diferencia de abscisas.
+
+8
+00:00:53,550 --> 00:00:58,422
+Luego, sustituyendo uno de los puntos, obtenemos ene.
+
+9
+00:01:00,550 --> 00:01:11,158
+Una recta vertical no avanza: tendríamos que dividir entre cero. No tiene pendiente, y no se puede escribir como ye igual a eme equis más ene.
+
+10
+00:01:15,550 --> 00:01:25,438
+Pero sí se puede escribir en la forma a equis más be ye igual a ce, que sirve para todas las rectas. Será la que usemos en los sistemas.
+
+11
+00:01:25,433 --> 00:01:34,673
+Si be es distinto de cero, se puede despejar ye: la pendiente es menos a entre be, y la ordenada en el origen, ce entre be.
+
+12
+00:01:36,666 --> 00:01:43,050
+Dos rectas con la misma pendiente y distinta altura nunca se cortan: son paralelas.
+
+13
+00:01:43,050 --> 00:01:49,362
+Recuérdalo: en la lección ocho descubriremos que eso significa un sistema sin solución.
+
+14
+00:01:50,350 --> 00:01:58,894
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+15
+00:02:05,883 --> 00:02:34,515
+En resumen: en ye igual a eme equis más ene, eme es la pendiente y ene la ordenada en el origen. Con dos puntos, la pendiente es la diferencia de alturas entre la diferencia de abscisas. Las rectas verticales no tienen pendiente; la forma a equis más be ye igual a ce sirve para todas. Y misma pendiente con distinta ene: rectas paralelas. Siguiente: el espacio de tres coordenadas.
+

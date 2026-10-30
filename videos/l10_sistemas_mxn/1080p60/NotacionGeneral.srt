@@ -1,0 +1,44 @@
+1
+00:00:01,000 --> 00:00:07,096
+Lección 10 , Parte 1: Sistemas de m ecuaciones con n incógnitas
+
+2
+00:00:09,096 --> 00:00:12,312
+Así se escribe un sistema cualquiera.
+
+3
+00:00:12,296 --> 00:00:18,944
+Tiene eme ecuaciones, una por fila, y ene incógnitas, de equis uno a equis ene.
+
+4
+00:00:18,929 --> 00:00:27,185
+a sub i jota es el coeficiente de la incógnita jota en la ecuación i. Este, por ejemplo, es a dos dos.
+
+5
+00:00:29,179 --> 00:00:45,715
+Con el sumatorio cabe en una línea: para cada ecuación i, la suma de a i jota por equis jota vale be i. Una solución es una lista de ene números reales que cumple las eme ecuaciones a la vez. Y eme y ene pueden ser distintos.
+
+6
+00:00:47,715 --> 00:00:51,891
+Un ejemplo con dos ecuaciones y tres incógnitas.
+
+7
+00:00:51,882 --> 00:00:59,610
+Aquí, a uno dos vale dos, a dos tres vale dos, a dos uno vale tres, y be dos vale cero.
+
+8
+00:00:59,598 --> 00:01:10,254
+Uno, uno, menos uno cumple las dos ecuaciones. Dos, uno, cero cumple la primera, pero en la segunda da cinco, no cero.
+
+9
+00:01:10,248 --> 00:01:17,064
+Así que uno, uno, menos uno es solución, y dos, uno, cero no lo es.
+
+10
+00:01:18,048 --> 00:01:26,592
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+11
+00:01:33,582 --> 00:01:58,398
+En resumen: un sistema de eme por ene tiene eme ecuaciones y ene incógnitas, y a i jota es el coeficiente de equis jota en la ecuación i. En forma compacta: para cada ecuación i, la suma de a i jota por equis jota vale be i. Y una solución es una lista de ene números que cumple las eme ecuaciones. Siguiente: qué se puede, y qué no, dibujar.
+

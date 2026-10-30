@@ -1,0 +1,52 @@
+1
+00:00:01,000 --> 00:00:05,560
+Lección 15 , Parte 3: ¿Qué método elegir?
+
+2
+00:00:08,560 --> 00:00:11,416
+Comparemos los tres métodos.
+
+3
+00:00:11,410 --> 00:00:29,914
+La sustitución conviene cuando una incógnita tiene coeficiente uno o menos uno. La igualación, cuando la misma incógnita ya está despejada en las dos ecuaciones. Y la reducción, cuando hay coeficientes opuestos o múltiplos fáciles; es la base del método de Gauss.
+
+4
+00:00:29,910 --> 00:00:37,398
+Los tres métodos llegan a la misma solución. Elegir bien solo ahorra cuentas, y errores.
+
+5
+00:00:39,393 --> 00:00:43,761
+Con tres incógnitas, la reducción es la más práctica.
+
+6
+00:00:43,761 --> 00:00:51,849
+Usamos la primera ecuación para eliminar equis de las otras dos: a la segunda le restamos la primera, y a la tercera también.
+
+7
+00:00:51,844 --> 00:00:55,564
+Cada ecuación queda con una incógnita menos.
+
+8
+00:00:55,561 --> 00:01:02,257
+Ye vale dos, zeta vale tres, y equis, seis menos dos menos tres: uno.
+
+9
+00:01:02,244 --> 00:01:10,260
+Hacer esto de forma ordenada, ecuación a ecuación, es exactamente la eliminación de Gauss, de la unidad cuatro.
+
+10
+00:01:12,244 --> 00:01:16,132
+Y fíjate: las letras solo ocupan sitio.
+
+11
+00:01:16,128 --> 00:01:27,312
+Las operaciones de reducción solo cambian los números. Si guardamos solo los números en una tabla, obtenemos una matriz: es lo que estudia la unidad tres.
+
+12
+00:01:28,311 --> 00:01:36,855
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+13
+00:01:43,844 --> 00:02:11,588
+En resumen: la sustitución conviene si hay un coeficiente uno o menos uno, y la igualación, si ya hay despejes. La reducción es el método más general: con tres o más incógnitas es el único práctico. La reducción ordenada se llama eliminación de Gauss. Y solo importan los números: matrices. Siguiente: unidad tres, lección dieciséis, ¿qué es una matriz?
+

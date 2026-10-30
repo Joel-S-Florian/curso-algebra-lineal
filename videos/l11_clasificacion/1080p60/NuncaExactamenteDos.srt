@@ -1,0 +1,44 @@
+1
+00:00:01,000 --> 00:00:06,616
+Lección 11 , Parte 2: ¿Por qué nunca exactamente dos soluciones?
+
+2
+00:00:09,616 --> 00:00:14,440
+Supongamos que un sistema lineal tiene dos soluciones distintas.
+
+3
+00:00:14,432 --> 00:00:20,408
+Llamémoslas pe, el uno, dos, y cu, el tres, uno.
+
+4
+00:00:20,399 --> 00:00:26,087
+Construimos erre de te: uno menos te, por pe, más te por cu.
+
+5
+00:00:26,082 --> 00:00:37,026
+Con te igual a cero es pe; con te igual a uno, es cu; y con cualquier otro te, otro punto de la recta que los une. Todos son soluciones.
+
+6
+00:00:41,582 --> 00:00:47,870
+Teorema: si un sistema lineal tiene dos soluciones distintas, tiene infinitas.
+
+7
+00:00:47,866 --> 00:01:13,594
+¿Por qué? Sustituimos erre en la ecuación i. Como las incógnitas aparecen de forma lineal, podemos sacar uno menos te y te fuera de las sumas. Queda uno menos te por be i, más te por be i: be i. Así que erre es solución para todo te. Además, valores distintos de te dan puntos distintos. Hay infinitas soluciones.
+
+8
+00:01:13,582 --> 00:01:21,718
+El paso clave, sacar uno menos te y te fuera de la suma, solo funciona porque las incógnitas aparecen de forma lineal.
+
+9
+00:01:23,716 --> 00:01:36,004
+Si la ecuación no es lineal, el argumento falla: equis al cuadrado igual a uno tiene exactamente dos soluciones, menos uno y uno, y su punto medio, cero, no es solución.
+
+10
+00:01:36,999 --> 00:01:45,543
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+11
+00:01:52,532 --> 00:02:19,436
+En resumen: un sistema lineal tiene cero, una o infinitas soluciones; nunca dos, ni tres. Si pe y cu son soluciones, uno menos te por pe, más te por cu, también lo es, para todo te. La demostración usa la linealidad; con equis al cuadrado igual a uno, falla. Siguiente: lección doce, casos especiales y errores frecuentes.
+

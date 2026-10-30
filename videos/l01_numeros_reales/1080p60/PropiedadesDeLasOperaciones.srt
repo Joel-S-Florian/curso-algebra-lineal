@@ -1,0 +1,60 @@
+1
+00:00:01,000 --> 00:00:06,256
+Lección 1 , Parte 4: Propiedades de las operaciones
+
+2
+00:00:09,250 --> 00:00:15,226
+En la suma y en el producto, el orden no importa, y tampoco cómo agrupemos.
+
+3
+00:00:18,050 --> 00:00:28,994
+En la resta y en la división sí importa: cinco menos dos no es dos menos cinco. Más adelante veremos que el producto de matrices tampoco es conmutativo.
+
+4
+00:00:30,983 --> 00:00:38,423
+La propiedad distributiva tiene una imagen sencilla: un rectángulo de altura dos, y base tres más dos.
+
+5
+00:00:38,416 --> 00:00:48,544
+El área del rectángulo entero es dos por cinco, diez. Y es la suma de las áreas de sus dos partes: seis más cuatro, diez.
+
+6
+00:00:48,533 --> 00:00:55,181
+Leída al revés, es sacar factor común: tres equis más cinco equis es ocho equis.
+
+7
+00:00:58,533 --> 00:01:08,637
+El cero no cambia una suma; el uno no cambia un producto. Todo número tiene opuesto, y todo número distinto de cero tiene inverso.
+
+8
+00:01:08,633 --> 00:01:20,321
+El cero no: cero por cualquier cosa da cero, nunca uno. Por eso dividir entre a, que es multiplicar por su inverso, exige que a sea distinto de cero.
+
+9
+00:01:22,316 --> 00:01:28,868
+Por último, el orden de las operaciones. ¿Cuánto es dos más tres por cuatro?
+
+10
+00:01:28,866 --> 00:01:33,090
+Si sumamos primero, sale veinte: está mal.
+
+11
+00:01:33,083 --> 00:01:39,155
+Primero se multiplica: tres por cuatro es doce, y dos más doce, catorce.
+
+12
+00:01:39,150 --> 00:01:51,030
+El orden es: paréntesis; potencias; multiplicaciones y divisiones; y al final, sumas y restas. Cuando hay empate, de izquierda a derecha.
+
+13
+00:01:51,016 --> 00:02:03,256
+Por ejemplo: dieciocho menos seis entre dos por tres. De izquierda a derecha: seis entre dos es tres, por tres es nueve, y dieciocho menos nueve es nueve.
+
+14
+00:02:04,250 --> 00:02:12,794
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+15
+00:02:19,783 --> 00:02:54,847
+En resumen: la suma y el producto son conmutativos y asociativos; la resta y la división, no. Propiedad distributiva: a por be más ce es a be más a ce; sacar factor común es leerla al revés. El cero es el neutro de la suma, y el uno, del producto; el cero no tiene inverso. Y el orden: paréntesis, potencias, multiplicaciones y divisiones, y al final sumas y restas. Siguiente: lección dos, expresiones, igualdades y ecuaciones.
+

@@ -1,0 +1,32 @@
+1
+00:00:01,000 --> 00:00:05,704
+Lección 4 , Parte 4: ¿Cómo se demuestra algo?
+
+2
+00:00:08,700 --> 00:00:20,628
+Esta fórmula, ene al cuadrado más ene más cuarenta y uno, da números primos para ene igual a cero, uno, dos, y así hasta treinta y nueve. Parece una ley.
+
+3
+00:00:22,100 --> 00:00:33,284
+Pero para ene igual a cuarenta da mil seiscientos ochenta y uno, que es cuarenta y uno al cuadrado. Los ejemplos, por muchos que sean, no demuestran un para todo.
+
+4
+00:00:35,283 --> 00:00:51,579
+Una demostración directa parte de las definiciones: un número es par si es dos por un entero. Escribimos a y be así, sumamos, sacamos factor común, y obtenemos dos por un entero. Cada paso tiene una justificación.
+
+5
+00:00:58,283 --> 00:01:24,107
+En la reducción al absurdo suponemos lo contrario de lo que queremos probar. Si raíz de dos fuera una fracción irreducible, pe entre cu, al elevar al cuadrado, pe al cuadrado sería el doble de cu al cuadrado, luego pe sería par. Sustituyendo, cu también sería par. Pero entonces la fracción no era irreducible: contradicción. Luego raíz de dos no es una fracción.
+
+6
+00:01:31,283 --> 00:01:46,667
+En la lección uno, un dibujo nos dijo dónde está raíz de dos. Hoy hemos demostrado que no es una fracción. En este curso, las animaciones ayudan a entender; las demostraciones van aparte, con sus hipótesis.
+
+7
+00:01:47,666 --> 00:01:56,210
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+8
+00:02:03,200 --> 00:02:29,624
+En resumen: los ejemplos no demuestran un para todo, pero un contraejemplo sí lo refuta. La demostración directa va de las hipótesis a la conclusión, paso a paso. La reducción al absurdo supone lo contrario y llega a una contradicción. Y una animación es intuición, no demostración. Siguiente: unidad uno, lección cinco: ¿qué es una ecuación lineal?
+

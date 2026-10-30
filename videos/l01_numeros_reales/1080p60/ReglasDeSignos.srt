@@ -1,0 +1,52 @@
+1
+00:00:01,000 --> 00:00:07,240
+Lección 1 , Parte 2: Signos: opuestos, sumas y productos
+
+2
+00:00:11,233 --> 00:00:18,793
+El signo menos delante de un número significa: el opuesto. Es su reflejo respecto del cero.
+
+3
+00:00:18,783 --> 00:00:25,455
+Reflejar dos veces nos devuelve al punto de partida; por eso, menos menos tres es tres.
+
+4
+00:00:28,283 --> 00:00:37,595
+Sumar es desplazarse por la recta. Tres más menos cinco: avanzo tres, retrocedo cinco, y llego a menos dos.
+
+5
+00:00:37,583 --> 00:00:43,871
+Y restar cinco es exactamente lo mismo que sumar menos cinco: toda resta es una suma.
+
+6
+00:00:45,866 --> 00:00:51,578
+¿Por qué menos por menos es más? Mira la tabla del menos tres.
+
+7
+00:00:51,566 --> 00:00:57,158
+Cada vez que el segundo factor baja una unidad, el resultado sube tres.
+
+8
+00:00:57,150 --> 00:01:08,166
+Si el patrón sigue, menos tres por cero es cero, y menos tres por menos uno tiene que ser tres. Cualquier otra regla rompería la propiedad distributiva.
+
+9
+00:01:08,150 --> 00:01:14,054
+En resumen: signos iguales dan positivo, y signos distintos dan negativo.
+
+10
+00:01:14,050 --> 00:01:17,842
+Para dividir valen las mismas reglas de signos.
+
+11
+00:01:23,050 --> 00:01:45,154
+Dos errores muy frecuentes. Primero: la potencia actúa antes que el signo, así que menos tres al cuadrado es menos nueve. Si queremos elevar el menos tres, hay que escribir paréntesis. Segundo: un signo menos delante de un paréntesis cambia el signo de todos los términos de dentro, no solo del primero.
+
+12
+00:01:46,150 --> 00:01:54,694
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+13
+00:02:01,683 --> 00:02:25,683
+En resumen: el opuesto de un número es su reflejo respecto del cero. Restar es sumar el opuesto. Signos iguales dan positivo y signos distintos dan negativo, en productos y en divisiones. Y menos tres al cuadrado es menos nueve, pero el cuadrado de menos tres, entre paréntesis, es nueve. Siguiente: fracciones.
+

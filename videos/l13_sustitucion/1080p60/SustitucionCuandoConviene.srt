@@ -1,0 +1,40 @@
+1
+00:00:01,000 --> 00:00:05,848
+Lección 13 , Parte 2: ¿Cuándo conviene sustituir?
+
+2
+00:00:08,848 --> 00:00:14,872
+Dos equis más tres ye igual a siete, y cinco equis menos cuatro ye igual a seis.
+
+3
+00:00:14,864 --> 00:00:23,792
+Ningún coeficiente es uno o menos uno: cualquier despeje trae fracciones. Se puede igual, con más cuidado.
+
+4
+00:00:23,781 --> 00:00:44,133
+Despejamos equis en la primera: siete menos tres ye, entre dos. Lo sustituimos en la segunda, y multiplicamos por dos para quitar el denominador. Treinta y cinco menos quince ye menos ocho ye, igual a doce. Menos veintitrés ye igual a menos veintitrés: ye vale uno.
+
+5
+00:00:44,131 --> 00:00:53,155
+Entonces equis vale siete menos tres, entre dos: dos. Y la verificación confirma las dos ecuaciones.
+
+6
+00:00:55,148 --> 00:00:58,364
+Con tres incógnitas también funciona.
+
+7
+00:00:58,364 --> 00:01:10,268
+Despejamos una incógnita, la sustituimos en las otras dos ecuaciones, y repetimos con el sistema más pequeño que queda. Pero cada sustitución alarga las expresiones.
+
+8
+00:01:12,564 --> 00:01:18,948
+Con cinco o diez incógnitas sería inmanejable: necesitaremos un método más ordenado.
+
+9
+00:01:20,564 --> 00:01:29,108
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+10
+00:01:36,108 --> 00:01:57,780
+En resumen: conviene despejar la incógnita con coeficiente uno o menos uno. Si no lo hay, se puede igual, multiplicando para quitar denominadores. Y con tres incógnitas funciona, pero se alarga: hará falta un método más ordenado. Siguiente: qué pasa cuando la incógnita desaparece.
+

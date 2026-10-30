@@ -1,0 +1,48 @@
+1
+00:00:01,000 --> 00:00:07,024
+Lección 19 , Parte 1: Matriz por vector: fila por columna
+
+2
+00:00:10,016 --> 00:00:13,976
+Empecemos por multiplicar una fila por una columna.
+
+3
+00:00:13,966 --> 00:00:19,414
+Emparejamos primero con primero, segundo con segundo y tercero con tercero.
+
+4
+00:00:19,400 --> 00:00:27,992
+Multiplicamos cada pareja y sumamos: uno por dos, más dos por uno, más cero por menos uno. Cuatro.
+
+5
+00:00:27,983 --> 00:00:39,719
+El resultado es un solo número. Exige que la fila y la columna tengan la misma longitud. Y fíjate: es el lado izquierdo de una ecuación lineal.
+
+6
+00:00:41,716 --> 00:00:48,076
+Para multiplicar una matriz por un vector, cada fila de la matriz se multiplica por el vector.
+
+7
+00:00:48,066 --> 00:00:58,362
+La fila uno por equis da la primera componente: cuatro. La fila dos por equis, la segunda: seis menos uno menos cuatro, uno.
+
+8
+00:00:59,066 --> 00:01:05,954
+Una matriz de dos por tres, por un vector de tres componentes, da un vector de dos componentes.
+
+9
+00:01:05,950 --> 00:01:11,134
+En general, la componente i de a equis es la fila i de a por equis.
+
+10
+00:01:13,133 --> 00:01:26,069
+El número de columnas de a debe coincidir con el número de componentes de equis, y el resultado tiene tantas componentes como filas tiene a. Si no coinciden, el producto no está definido.
+
+11
+00:01:27,066 --> 00:01:35,610
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+12
+00:01:42,600 --> 00:02:06,360
+En resumen: fila por columna se multiplica posición a posición y se suma, y da un número. En a por equis, cada fila de a por equis da una componente del resultado. Y una matriz de eme por ene, por un vector de ene componentes, da un vector de eme componentes. Siguiente: la segunda mirada, combinación de columnas.
+

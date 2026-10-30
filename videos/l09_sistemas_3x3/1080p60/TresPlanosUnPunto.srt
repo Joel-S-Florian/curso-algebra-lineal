@@ -1,0 +1,40 @@
+1
+00:00:01,000 --> 00:00:06,304
+Lección 9 , Parte 1: Tres planos que se cortan en un punto
+
+2
+00:00:09,300 --> 00:00:18,180
+Con tres incógnitas, cada ecuación es un plano. Este sistema tiene tres ecuaciones: tres planos en el espacio.
+
+3
+00:00:18,166 --> 00:00:21,046
+Dibujemos los dos primeros.
+
+4
+00:00:22,166 --> 00:00:27,110
+Dos planos que no son paralelos se cortan en una recta: la blanca.
+
+5
+00:00:27,100 --> 00:00:29,548
+Ahora el tercer plano.
+
+6
+00:00:29,533 --> 00:00:38,677
+El tercer plano atraviesa esa recta en un único punto: uno, dos, tres. Es la única solución del sistema.
+
+7
+00:00:38,666 --> 00:00:49,346
+Y la verificamos en las tres ecuaciones: uno más dos más tres, seis; uno menos dos más tres, dos; uno más dos menos tres, cero.
+
+8
+00:00:52,333 --> 00:01:08,269
+Girando la cámara se entiende mejor, pero leer coordenadas exactas en un dibujo tridimensional es casi imposible. El dibujo sugiere cuántas soluciones hay; para la solución exacta están los métodos algebraicos, de las lecciones trece a quince.
+
+9
+00:01:09,266 --> 00:01:17,810
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+10
+00:01:24,800 --> 00:01:46,928
+En resumen: un sistema de tres ecuaciones con tres incógnitas son tres planos en el espacio. Dos planos no paralelos se cortan en una recta, y el tercero puede cortarla en un punto. Ese punto es la única solución, y hay que verificarla en las tres ecuaciones. Siguiente: tres planos que comparten una recta.
+

@@ -1,0 +1,32 @@
+1
+00:00:01,000 --> 00:00:05,704
+Lección 16 , Parte 2: Tipos de matrices
+
+2
+00:00:08,700 --> 00:00:16,188
+Si una matriz tiene tantas filas como columnas, es cuadrada. Si no, es rectangular.
+
+3
+00:00:16,183 --> 00:00:25,495
+En una matriz cuadrada, los elementos con fila igual a columna, a uno uno, a dos dos, y así, forman la diagonal principal.
+
+4
+00:00:27,483 --> 00:00:47,931
+Hay matrices especiales. La matriz nula tiene todo ceros. La identidad, unos en la diagonal y ceros fuera. Una matriz diagonal solo puede tener números distintos de cero en la diagonal. Una triangular superior tiene ceros debajo de la diagonal; una inferior, encima.
+
+5
+00:00:47,916 --> 00:00:51,804
+Fíjate en dónde están los ceros de cada triangular.
+
+6
+00:00:57,916 --> 00:01:06,292
+Una misma matriz puede pertenecer a varios tipos a la vez: la identidad es diagonal, triangular superior y triangular inferior.
+
+7
+00:01:08,516 --> 00:01:17,060
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+8
+00:01:24,050 --> 00:01:50,906
+En resumen: una matriz es cuadrada si tiene tantas filas como columnas, y si no, rectangular. Su diagonal principal la forman a uno uno, a dos dos, y así. Las matrices especiales son la nula, la identidad, la diagonal y las triangulares superior e inferior. Y una matriz puede pertenecer a varios tipos. Siguiente: lección diecisiete, vectores.
+

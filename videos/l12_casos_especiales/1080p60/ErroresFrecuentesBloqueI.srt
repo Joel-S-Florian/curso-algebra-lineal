@@ -1,0 +1,40 @@
+1
+00:00:01,000 --> 00:00:05,632
+Lección 12 , Parte 3: Errores frecuentes
+
+2
+00:00:08,632 --> 00:00:20,368
+Falso: tantas ecuaciones como incógnitas no asegura una solución. Equis más ye igual a uno, y dos equis más dos ye igual a dos, tiene infinitas.
+
+3
+00:00:20,365 --> 00:00:29,749
+Falso: con más ecuaciones que incógnitas puede haber solución. Este sistema de tres ecuaciones tiene la solución uno, uno.
+
+4
+00:00:29,748 --> 00:00:38,076
+Falso: con menos ecuaciones que incógnitas puede no haber ninguna. Dos planos paralelos no se cortan.
+
+5
+00:00:38,248 --> 00:00:47,224
+Falso: un punto que cumple una sola ecuación no es solución. Cuatro, uno cumple la primera, pero no la segunda.
+
+6
+00:00:47,215 --> 00:01:00,679
+Falso: llegar a cero igual a cero no significa que no haya solución. Es siempre cierto: la ecuación sobraba. Lo que indica un sistema incompatible es algo como cero igual a cinco.
+
+7
+00:01:00,665 --> 00:01:08,009
+Falso: un sistema homogéneo siempre tiene solución: la trivial, con todas las incógnitas a cero.
+
+8
+00:01:09,165 --> 00:01:18,309
+Moraleja: contar ecuaciones e incógnitas no basta para clasificar un sistema. Hace falta analizar las ecuaciones.
+
+9
+00:01:19,298 --> 00:01:27,842
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+10
+00:01:34,842 --> 00:02:01,146
+En resumen: contar ecuaciones e incógnitas no basta para clasificar. Una solución debe cumplir todas las ecuaciones. Cero igual a cero indica una ecuación que sobraba; cero igual a un número distinto de cero, un sistema incompatible. Y los sistemas homogéneos siempre son compatibles. Siguiente: unidad dos, lección trece, el método de sustitución.
+

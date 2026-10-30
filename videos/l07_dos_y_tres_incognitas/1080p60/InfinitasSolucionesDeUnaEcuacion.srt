@@ -1,0 +1,36 @@
+1
+00:00:01,000 --> 00:00:07,720
+Lección 7 , Parte 1: Una ecuación con dos incógnitas: infinitas soluciones
+
+2
+00:00:10,716 --> 00:00:20,220
+Tomemos equis más dos ye igual a cuatro. Si elegimos el valor de ye, despejamos equis: equis es cuatro menos dos ye.
+
+3
+00:00:20,216 --> 00:00:36,728
+Elegimos ye cero: equis vale cuatro. Ye uno: equis vale dos. Ye dos: equis vale cero. Ye menos uno: equis vale seis. Y ye un medio: equis vale tres.
+
+4
+00:00:36,716 --> 00:00:43,964
+Cada valor de ye da un único equis, así que hay tantas soluciones como valores de ye: infinitas.
+
+5
+00:00:43,950 --> 00:00:46,902
+Todas juntas forman una recta.
+
+6
+00:00:51,916 --> 00:00:58,540
+Siempre que a o be no sean cero, podemos elegir una incógnita libremente y despejar la otra.
+
+7
+00:01:03,916 --> 00:01:12,772
+Una sola ecuación con dos incógnitas nunca fija un único punto: para eso harán falta más ecuaciones, es decir, un sistema.
+
+8
+00:01:13,766 --> 00:01:22,310
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+9
+00:01:29,300 --> 00:01:49,796
+En resumen. Una ecuación lineal con dos incógnitas (no degenerada) tiene infinitas soluciones. Se obtienen eligiendo una incógnita libre y despejando la otra. Todas esas soluciones forman una recta. Siguiente: la recta, con sus cortes con los ejes.
+

@@ -1,0 +1,48 @@
+1
+00:00:01,000 --> 00:00:06,760
+Lección 15 , Parte 2: ¿Por qué reducir no cambia las soluciones?
+
+2
+00:00:09,750 --> 00:00:33,630
+Cambiamos la segunda ecuación por ella misma más ka veces la primera, y conservamos la primera. Toda solución del sistema cumple la combinación, porque sumamos igualdades ciertas. Y al revés: restando ka veces la primera, recuperamos la segunda. El paso se deshace, así que los dos sistemas tienen exactamente las mismas soluciones.
+
+3
+00:00:33,616 --> 00:00:39,712
+La clave es que la primera ecuación se conserva: gracias a ella podemos volver atrás.
+
+4
+00:00:41,700 --> 00:00:49,956
+Veámoslo en el dibujo: equis más ye igual a tres, y equis menos ye igual a uno, que se cortan en dos, uno.
+
+5
+00:00:49,950 --> 00:00:55,758
+La recta violeta es la combinación: la segunda ecuación más ka veces la primera.
+
+6
+00:00:55,750 --> 00:01:05,110
+Al cambiar ka, la recta combinada gira alrededor de la solución, sin despegarse de ella. Por eso la solución no cambia.
+
+7
+00:01:06,750 --> 00:01:16,710
+Con ka igual a uno, sumar, queda dos equis igual a cuatro: una recta vertical. Se lee directamente equis igual a dos.
+
+8
+00:01:16,700 --> 00:01:26,612
+Con ka igual a menos uno, restar, queda menos dos ye igual a menos dos: una recta horizontal. Se lee ye igual a uno.
+
+9
+00:01:26,600 --> 00:01:33,224
+Reducir es girar una recta alrededor de la solución, hasta que la respuesta se lea directamente.
+
+10
+00:01:35,216 --> 00:01:58,328
+Un error frecuente: cambiar las dos ecuaciones a la vez. Si las dos se convierten en la primera más la segunda, nos quedamos con dos copias de la misma información, y el sistema nuevo admite soluciones falsas, como dos, siete. La regla: se cambia una ecuación usando otra que se conserva. Y nunca se multiplica por cero.
+
+11
+00:01:59,316 --> 00:02:07,860
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+12
+00:02:14,850 --> 00:02:38,658
+En resumen: cambiar la segunda ecuación por ella misma más ka veces la primera, conservando la primera, no cambia las soluciones, porque se puede deshacer. Geométricamente, la nueva recta gira alrededor de la solución. Y no se cambian las dos ecuaciones a la vez, ni se multiplica por cero. Siguiente: comparar los tres métodos.
+

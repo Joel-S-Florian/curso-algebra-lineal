@@ -1,0 +1,36 @@
+1
+00:00:01,000 --> 00:00:06,352
+Lección 9 , Parte 2: Tres planos que comparten una recta
+
+2
+00:00:09,350 --> 00:00:12,446
+Ahora, un sistema distinto.
+
+3
+00:00:12,433 --> 00:00:15,169
+Dibujamos los tres planos.
+
+4
+00:00:18,433 --> 00:00:23,689
+Los tres comparten la misma recta, como las páginas de un libro abierto.
+
+5
+00:00:23,683 --> 00:00:32,971
+Todos los puntos de la recta son solución: dos menos te, uno, te. Infinitas soluciones, con un parámetro.
+
+6
+00:00:37,683 --> 00:00:59,643
+¿Por qué? Sumando las dos primeras ecuaciones, obtenemos dos equis más dos zeta igual a cuatro; dividiendo entre dos, equis más zeta igual a dos: la tercera. La tercera no aporta información nueva: es redundante. Quedan en realidad dos ecuaciones independientes con tres incógnitas: una recta.
+
+7
+00:01:01,633 --> 00:01:14,593
+Hay otras formas de tener infinitas soluciones: dos planos iguales y un tercero que los corta dan una recta; y si los tres planos son iguales, las soluciones forman todo un plano, con dos parámetros.
+
+8
+00:01:15,583 --> 00:01:24,127
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+9
+00:01:31,116 --> 00:01:51,324
+En resumen. Tres planos pueden compartir una recta: infinitas soluciones (un parámetro). Ocurre cuando una ecuación se obtiene combinando las otras. Si los tres planos son el mismo, las soluciones forman un plano. Siguiente: tres planos sin ningún punto común.
+
