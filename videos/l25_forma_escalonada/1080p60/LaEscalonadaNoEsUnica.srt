@@ -1,0 +1,44 @@
+1
+00:00:01,000 --> 00:00:06,664
+Lección 25 , Parte 2: La forma escalonada no es única
+
+2
+00:00:09,650 --> 00:00:13,826
+Desde la misma matriz, dos caminos distintos.
+
+3
+00:00:13,816 --> 00:00:19,048
+Camino a: a la fila dos le restamos tres medios de la fila uno.
+
+4
+00:00:19,033 --> 00:00:26,641
+Camino be: primero intercambiamos las filas, y luego a la fila dos le restamos dos tercios de la fila uno.
+
+5
+00:00:29,033 --> 00:00:38,705
+Llegamos a dos matrices escalonadas distintas, las dos equivalentes a la de partida. Los pivotes están en las mismas posiciones.
+
+6
+00:00:38,700 --> 00:00:43,020
+Las dos dan ye igual a dos, y equis igual a uno.
+
+7
+00:00:46,700 --> 00:01:02,492
+Cambian los números, y lo cómodas que son las cuentas. No cambia el conjunto solución, porque todas son equivalentes. Y tampoco cambian las posiciones de los pivotes ni cuántos hay; lo demostraremos en la lección treinta y uno.
+
+8
+00:01:02,483 --> 00:01:10,547
+El camino be trajo fracciones. Elegir bien el pivote ahorra trabajo, pero no cambia el resultado.
+
+9
+00:01:12,533 --> 00:01:28,013
+Errores frecuentes: creer que el otro se equivocó porque su escalonada es distinta, cuando hay que comparar pivotes y soluciones; hablar de la forma escalonada, cuando hay muchas; y redondear fracciones a decimales, que arrastra errores.
+
+10
+00:01:29,000 --> 00:01:37,544
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+11
+00:01:44,533 --> 00:02:08,557
+En resumen: una matriz tiene muchas formas escalonadas, según las operaciones elegidas. Todas tienen las mismas soluciones, y los pivotes en las mismas posiciones. Elegir pivotes cómodos ahorra fracciones, pero no cambia el resultado. Siguiente: lección veintiséis, eliminación hacia adelante y sustitución hacia atrás.
+

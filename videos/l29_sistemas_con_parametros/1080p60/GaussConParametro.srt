@@ -1,0 +1,56 @@
+1
+00:00:01,000 --> 00:00:05,944
+Lección 29 , Parte 1: Gauss con un parámetro
+
+2
+00:00:08,933 --> 00:00:21,845
+Equis más ye igual a uno, y dos equis más a ye igual a tres. Aquí a es un parámetro: un número fijo, pero desconocido. Hay que responder para cada valor de a.
+
+3
+00:00:21,833 --> 00:00:30,905
+Eliminamos como siempre: a la fila dos le restamos dos veces la fila uno. Queda a menos dos en el lugar del pivote.
+
+4
+00:00:30,900 --> 00:00:45,156
+¿Es a menos dos un pivote? Solo si no vale cero. Si a es dos, ese hueco vale cero. Así que no se puede despejar ye dividiendo entre a menos dos sin separar antes ese caso.
+
+5
+00:00:47,150 --> 00:00:49,814
+Discutimos por casos.
+
+6
+00:00:49,800 --> 00:01:01,320
+Si a es distinto de dos, a menos dos es un pivote: solución única. Ye vale uno entre a menos dos, y equis, a menos tres entre a menos dos.
+
+7
+00:01:01,316 --> 00:01:10,028
+Si a vale dos, sustituimos en toda la matriz: la última fila dice cero igual a uno. Sin solución.
+
+8
+00:01:10,016 --> 00:01:17,216
+En el caso especial se sustituye el valor en toda la matriz, también en be, y se mira qué fila queda.
+
+9
+00:01:19,216 --> 00:01:33,664
+Verificamos: al sumar, a menos dos entre a menos dos es uno; y la segunda ecuación da tres. Por ejemplo, con a igual a tres, la solución es cero, uno, y cumple las dos ecuaciones.
+
+10
+00:01:33,650 --> 00:01:40,754
+Simplificar a menos dos entre a menos dos es legítimo aquí, porque estamos en el caso a distinto de dos.
+
+11
+00:01:42,750 --> 00:02:00,438
+¿Qué operaciones son seguras con parámetros? Sumar a una fila un múltiplo de otra, siempre, aunque el múltiplo dependa de a. Intercambiar filas, también. Pero multiplicar o dividir una fila por a menos dos, solo si a es distinto de dos.
+
+12
+00:02:02,433 --> 00:02:15,945
+Errores frecuentes: escribir ye igual a uno entre a menos dos sin decir que a es distinto de dos; multiplicar o dividir por una expresión sin discutir; y estudiar el caso especial sustituyendo solo en a y no en be.
+
+13
+00:02:16,933 --> 00:02:25,477
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+14
+00:02:32,466 --> 00:02:55,002
+En resumen: con parámetros se elimina igual, pero cada candidato a pivote puede valer cero. Antes de dividir entre una expresión, se separa el caso en que vale cero. Y en cada caso especial se sustituye el valor en toda la matriz, y se clasifica. Siguiente: discutir por casos un sistema de tres por tres.
+

@@ -1,0 +1,72 @@
+1
+00:00:01,000 --> 00:00:06,856
+Lección 27 , Parte 2: Filas nulas y ecuaciones redundantes
+
+2
+00:00:09,850 --> 00:00:18,898
+Tres ecuaciones con dos incógnitas: equis más ye igual a tres, equis menos ye igual a uno, y tres equis más ye igual a siete.
+
+3
+00:00:18,883 --> 00:00:26,419
+Eliminamos en la columna uno: restamos la fila uno a la dos, y tres veces la fila uno a la tres.
+
+4
+00:00:35,883 --> 00:00:40,875
+Y en la columna dos, a la fila tres le restamos la fila dos.
+
+5
+00:00:44,383 --> 00:00:49,399
+Queda una fila de ceros, también en be: cero igual a cero.
+
+6
+00:00:49,383 --> 00:00:55,335
+Esa ecuación la cumple cualquier par: no aporta información, y se puede quitar.
+
+7
+00:00:55,383 --> 00:01:03,999
+Menos dos ye igual a menos dos: ye vale uno. Y equis más uno igual a tres: equis vale dos.
+
+8
+00:01:03,983 --> 00:01:15,239
+Solución única: dos, uno. Hay dos pivotes para dos incógnitas. Lo que cuenta no es el número de ecuaciones, sino el de pivotes.
+
+9
+00:01:17,233 --> 00:01:30,025
+¿Qué ecuación sobraba? La fila tres final es la tres, menos dos veces la uno, menos la dos. Así que la tercera ecuación es dos veces la primera más la segunda.
+
+10
+00:01:30,016 --> 00:01:39,760
+La tercera ecuación es combinación de las otras dos: es redundante. Toda solución de las dos primeras cumple automáticamente la tercera.
+
+11
+00:01:41,750 --> 00:01:44,726
+En el plano: tres rectas.
+
+12
+00:01:45,750 --> 00:01:52,086
+La tercera recta pasa por el punto donde ya se cortaban las otras dos: el dos, uno.
+
+13
+00:01:54,083 --> 00:01:57,155
+¿Y si la fila nula no llega hasta be?
+
+14
+00:01:57,150 --> 00:02:06,918
+Si la tercera ecuación fuera tres equis más ye igual a ocho, la última fila sería cero, cero, uno: cero igual a uno, imposible.
+
+15
+00:02:06,916 --> 00:02:15,868
+Solo es redundante si la fila es nula entera, columna de be incluida. Si no, el sistema no tiene solución.
+
+16
+00:02:17,866 --> 00:02:31,234
+Errores frecuentes: leer una fila nula como que no hay solución, cuando cero igual a cero siempre se cumple; tachar la fila sin mirar la columna de be; y clasificar contando ecuaciones en lugar de pivotes.
+
+17
+00:02:32,233 --> 00:02:40,777
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+18
+00:02:47,766 --> 00:03:11,022
+En resumen: una fila de ceros, también en be, es la ecuación cero igual a cero: redundante, y se puede quitar. Indica que una ecuación era combinación de las demás. Y lo que decide es el número de pivotes, no el de ecuaciones. Siguiente: lección veintiocho, sistemas sin solución y con infinitas soluciones.
+

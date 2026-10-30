@@ -1,0 +1,60 @@
+1
+00:00:01,000 --> 00:00:06,904
+Lección 28 , Parte 2: Variables libres y solución paramétrica
+
+2
+00:00:09,900 --> 00:00:14,244
+El mismo sistema, pero con un siete en lugar del ocho.
+
+3
+00:00:37,400 --> 00:00:47,312
+Ahora la última fila es entera de ceros: redundante. No hay contradicción, pero quedan dos pivotes para tres incógnitas.
+
+4
+00:00:49,300 --> 00:00:52,924
+Las columnas de equis y de ye tienen pivote.
+
+5
+00:00:52,916 --> 00:01:02,684
+La columna de zeta no tiene pivote: zeta es una variable libre. Puede valer cualquier número; la llamamos te, un parámetro.
+
+6
+00:01:04,683 --> 00:01:08,451
+Sustitución hacia atrás, con el parámetro.
+
+7
+00:01:08,450 --> 00:01:20,426
+Zeta es te. De la segunda fila, ye más dos te igual a tres: ye vale tres menos dos te. Y de la primera, equis vale menos uno más te.
+
+8
+00:01:20,416 --> 00:01:28,816
+Hay una solución para cada valor de te: infinitas soluciones. Es la recta en que se cortan los tres planos.
+
+9
+00:01:30,816 --> 00:01:46,224
+Para verificar, sustituimos con te general: los términos con te se cancelan en cada ecuación. Por ejemplo, con te igual a cero sale menos uno, tres, cero; y con te igual a uno, cero, uno, uno.
+
+10
+00:01:46,216 --> 00:01:54,304
+Por eso valen todos los te. Y la cuenta: tres incógnitas menos dos pivotes, una variable libre.
+
+11
+00:01:56,300 --> 00:02:03,452
+Un caso con dos variables libres: una sola ecuación, equis más dos ye menos zeta igual a tres.
+
+12
+00:02:03,450 --> 00:02:16,698
+Ye y zeta son libres: ese y te. Equis vale tres menos dos ese más te. Tres incógnitas menos un pivote, dos libres: es un plano, con dos parámetros.
+
+13
+00:02:18,683 --> 00:02:33,659
+Errores frecuentes: darle a la libre un valor, como zeta igual a cero, y decir que la solución es única; tomar como libre una variable pivote, cuando libres son las columnas sin pivote; y olvidar que equis e ye dependen de te.
+
+14
+00:02:34,650 --> 00:02:43,194
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+15
+00:02:50,183 --> 00:03:14,519
+En resumen: las columnas sin pivote dan las variables libres, que reciben parámetros como te y ese. Las variables pivote se despejan hacia atrás en función de los parámetros. Y si no hay una fila imposible: con variables libres, infinitas soluciones; sin libres, una sola. Siguiente: lección veintinueve, sistemas con parámetros.
+

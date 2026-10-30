@@ -1,0 +1,44 @@
+1
+00:00:01,000 --> 00:00:06,160
+Lección 20 , Parte 1: El producto de dos matrices
+
+2
+00:00:09,160 --> 00:00:16,264
+¿Cuándo se pueden multiplicar dos matrices? Una de eme por ene, y otra de ene por pe.
+
+3
+00:00:16,260 --> 00:00:22,812
+Los números de dentro deben coincidir: las columnas de la primera, con las filas de la segunda.
+
+4
+00:00:22,810 --> 00:00:28,834
+Los de fuera dan la dimensión del resultado: filas de la primera por columnas de la segunda.
+
+5
+00:00:28,826 --> 00:00:42,482
+Dos por tres, por tres por dos, da dos por dos. Tres por dos, por dos por tres, da tres por tres. Y dos por tres, por dos por tres, no está definido.
+
+6
+00:00:44,476 --> 00:00:46,588
+¿Cómo se calcula?
+
+7
+00:00:46,588 --> 00:00:54,604
+El elemento i jota del producto es la fila i de a por la columna jota de be. Así, entrada a entrada.
+
+8
+00:01:07,388 --> 00:01:11,444
+En fórmula: la suma de a i ka por be ka jota.
+
+9
+00:01:13,438 --> 00:01:21,238
+Otra forma de verlo: cada columna del producto es a por la columna correspondiente de be, como en la lección diecinueve.
+
+10
+00:01:24,038 --> 00:01:32,582
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+11
+00:01:39,572 --> 00:02:04,484
+En resumen: una matriz de eme por ene, por otra de ene por pe, da una de eme por pe: las columnas de la primera deben coincidir con las filas de la segunda. El elemento i jota del producto es la fila i de a por la columna jota de be. Y la columna jota de a be es a por la columna jota de be. Siguiente: propiedades, lo que cambia respecto de los números.
+

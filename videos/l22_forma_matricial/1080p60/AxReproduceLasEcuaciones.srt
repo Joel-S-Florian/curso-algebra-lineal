@@ -1,0 +1,40 @@
+1
+00:00:01,000 --> 00:00:06,832
+Lección 22 , Parte 2: ¿Por qué Ax = b ES el sistema?
+
+2
+00:00:09,816 --> 00:00:13,416
+Multipliquemos a por el vector de incógnitas.
+
+3
+00:00:13,400 --> 00:00:26,528
+Cada fila de a por equis produce exactamente el lado izquierdo de una ecuación, término por término: dos equis más ye menos zeta; equis menos tres ye más dos zeta; cuatro equis más cero ye más zeta.
+
+4
+00:00:30,000 --> 00:00:32,712
+Igualamos ese vector a be.
+
+5
+00:00:32,700 --> 00:00:40,068
+Dos vectores son iguales si lo son componente a componente: a equis igual a be son las tres ecuaciones a la vez.
+
+6
+00:00:42,066 --> 00:00:49,650
+Por columnas: equis por la primera columna, más ye por la segunda, más zeta por la tercera, igual a be.
+
+7
+00:00:49,650 --> 00:00:56,970
+Resolver el sistema es encontrar los pesos equis, ye, zeta que combinan las columnas de a para obtener be.
+
+8
+00:00:58,966 --> 00:01:13,702
+Y comprobar una solución es multiplicar: a por uno, uno, uno da dos, cero, cinco, que es be. En cambio, a por uno, cero, uno da uno, tres, cinco: no es be.
+
+9
+00:01:14,700 --> 00:01:23,244
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+10
+00:01:30,233 --> 00:01:55,433
+En resumen: la fila i de a por equis es el lado izquierdo de la ecuación i. A equis igual a be es el sistema completo: una igualdad de vectores. Por columnas, be debe ser una combinación de las columnas de a con pesos equis. Y verificar una solución es calcular a equis y compararlo con be. Siguiente: lección veintitrés, la matriz aumentada.
+

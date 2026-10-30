@@ -1,0 +1,68 @@
+1
+00:00:01,000 --> 00:00:06,592
+Lección 26 , Parte 1: Gauss en un sistema 2 × 2
+
+2
+00:00:09,583 --> 00:00:31,351
+La eliminación de Gauss tiene dos fases. Primera, eliminación hacia adelante: con operaciones elementales, ceros debajo de cada pivote, columna a columna, hasta la forma escalonada. Segunda, sustitución hacia atrás: se resuelve la última ecuación, y se sube sustituyendo lo ya conocido.
+
+3
+00:00:31,350 --> 00:00:42,318
+Para anular una entrada, a su fila le restamos eme veces la fila del pivote. El multiplicador eme es la entrada que queremos anular dividida entre el pivote.
+
+4
+00:00:44,316 --> 00:00:52,572
+Veámoslo en un sistema de dos por dos: dos equis más tres ye igual a ocho, y cuatro equis menos ye igual a dos.
+
+5
+00:00:52,566 --> 00:00:56,478
+El multiplicador es cuatro entre dos: dos.
+
+6
+00:00:56,566 --> 00:01:00,646
+A la fila dos le restamos dos veces la fila uno.
+
+7
+00:01:05,066 --> 00:01:12,050
+En el sistema, la equis desaparece de la segunda ecuación: menos siete ye igual a menos catorce.
+
+8
+00:01:19,066 --> 00:01:31,474
+Ahora, sustitución hacia atrás. Primero la última ecuación: ye vale dos. Arriba, dos equis más seis igual a ocho: equis vale uno.
+
+9
+00:01:33,466 --> 00:01:40,498
+Y comprobamos en el sistema original: dos más seis, ocho; cuatro menos dos, dos.
+
+10
+00:01:40,483 --> 00:01:48,907
+Se comprueba en el original, no en el escalonado: un error de cuentas al eliminar no se detecta en el sistema ya transformado.
+
+11
+00:01:50,900 --> 00:01:55,076
+Si el multiplicador es una fracción, no pasa nada.
+
+12
+00:01:55,066 --> 00:01:59,938
+Aquí eme es tres medios: se opera con fracciones exactas.
+
+13
+00:02:04,566 --> 00:02:11,742
+Menos siete medios por ye igual a menos siete: ye vale dos. Y equis vale uno.
+
+14
+00:02:11,733 --> 00:02:20,709
+Dos más seis, ocho; tres más dos, cinco. También se puede escalar primero, para evitar las fracciones.
+
+15
+00:02:22,700 --> 00:02:37,340
+Errores frecuentes: equivocar el signo, porque sumar dos veces la fila uno da ocho, no cero; invertir el cociente; olvidar la columna de be al restar; y verificar en el sistema escalonado en lugar del original.
+
+16
+00:02:38,333 --> 00:02:46,877
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+17
+00:02:53,866 --> 00:03:16,618
+En resumen: hacia adelante, se hacen ceros debajo de cada pivote restando eme veces su fila, con eme igual a la entrada entre el pivote. Hacia atrás, se resuelve primero la última ecuación y se sube sustituyendo. Y siempre se verifica en el sistema original. Siguiente: Gauss completo en un sistema de tres por tres.
+

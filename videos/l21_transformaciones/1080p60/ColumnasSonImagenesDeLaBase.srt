@@ -1,0 +1,40 @@
+1
+00:00:01,000 --> 00:00:06,616
+Lección 21 , Parte 2: Las columnas dicen adónde van e₁ y e₂
+
+2
+00:00:10,100 --> 00:00:14,276
+Los vectores e uno y e dos forman la base del plano.
+
+3
+00:00:14,266 --> 00:00:21,538
+Todo vector se escribe con e uno y e dos: uno, dos es un paso por e uno y dos pasos por e dos.
+
+4
+00:00:21,533 --> 00:00:26,813
+Ahora transformamos con la matriz dos, menos uno; uno, uno.
+
+5
+00:00:26,800 --> 00:00:33,592
+Después de transformar, e uno ha ido a dos, uno, y e dos, a menos uno, uno.
+
+6
+00:00:33,583 --> 00:00:40,159
+¡Son la primera y la segunda columna de a! Las columnas son las imágenes de la base.
+
+7
+00:00:40,150 --> 00:00:49,870
+Y el camino se transforma igual: un paso por a e uno, y dos pasos por a e dos. Es a por equis como combinación de columnas.
+
+8
+00:00:49,866 --> 00:00:55,002
+Para conocer una matriz, basta saber adónde van e uno y e dos.
+
+9
+00:00:57,866 --> 00:01:06,410
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+10
+00:01:13,400 --> 00:01:35,912
+En resumen: la columna uno de a es a por e uno, y la columna dos es a por e dos. Como equis es equis uno por e uno más equis dos por e dos, a por equis es equis uno por a e uno más equis dos por a e dos. Para describir a basta saber adónde van e uno y e dos. Siguiente: qué significa exactamente lineal.
+

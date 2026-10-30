@@ -1,0 +1,56 @@
+1
+00:00:01,000 --> 00:00:06,328
+Lección 23 , Parte 1: La matriz aumentada [A | b]
+
+2
+00:00:09,316 --> 00:00:12,772
+Todo el sistema cabe en una sola tabla.
+
+3
+00:00:13,316 --> 00:00:20,588
+Cada ecuación se convierte en una fila: los coeficientes, y tras la barra, el término independiente.
+
+4
+00:00:20,583 --> 00:00:27,423
+A la izquierda de la barra está a; a la derecha, be. Es la matriz aumentada.
+
+5
+00:00:27,416 --> 00:00:34,064
+Con tres ecuaciones y tres incógnitas, es de tres por cuatro: tiene una columna más que a.
+
+6
+00:00:36,416 --> 00:00:40,856
+También se puede leer al revés: de la matriz al sistema.
+
+7
+00:00:40,850 --> 00:00:45,626
+Cada columna es una incógnita: equis, ye, zeta.
+
+8
+00:00:45,616 --> 00:00:57,568
+La primera fila dice equis más dos zeta igual a tres; la segunda, ye menos zeta igual a cuatro. Un cero significa que esa incógnita no aparece en esa ecuación.
+
+9
+00:00:59,566 --> 00:01:03,670
+Este sistema tiene la solución uno, uno, uno.
+
+10
+00:01:03,666 --> 00:01:11,946
+Este otro tiene la misma matriz a, pero be es cero: es homogéneo, y cero, cero, cero es solución.
+
+11
+00:01:11,933 --> 00:01:18,029
+Misma matriz a, distintas soluciones: a sola no basta, hace falta be.
+
+12
+00:01:20,933 --> 00:01:34,589
+Errores frecuentes: olvidar los ceros de las incógnitas que faltan; escribir be antes de pasar todos los términos con incógnitas a la izquierda; y confundir dimensiones: la aumentada tiene una columna más que a.
+
+13
+00:01:35,583 --> 00:01:44,127
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+14
+00:01:51,116 --> 00:02:14,012
+En resumen: la matriz aumentada es la matriz de coeficientes con be como última columna, y tiene una columna más que a. Cada fila es una ecuación, y cada columna, una incógnita, salvo la última, que es be. Y a sola no determina las soluciones: hace falta be. Siguiente: sistemas equivalentes.
+

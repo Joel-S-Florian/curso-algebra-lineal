@@ -1,0 +1,56 @@
+1
+00:00:01,000 --> 00:00:05,872
+Lección 29 , Parte 2: Discutir por casos
+
+2
+00:00:08,866 --> 00:00:12,538
+Un sistema de tres por tres con un parámetro a.
+
+3
+00:00:12,533 --> 00:00:17,573
+Eliminamos hasta que el parámetro quede en el último candidato a pivote.
+
+4
+00:00:38,033 --> 00:00:43,505
+Ese candidato es a al cuadrado menos uno, que es a menos uno por a más uno.
+
+5
+00:00:43,500 --> 00:00:49,836
+Se anula en a igual a uno y en a igual a menos uno: son los valores que hay que estudiar aparte.
+
+6
+00:00:52,833 --> 00:01:15,321
+Si a es distinto de uno y de menos uno, hay tres pivotes: una solución, con zeta igual a uno entre a más uno, ye igual a a entre a más uno, y equis igual a cero. Si a vale uno, la última fila se anula entera: infinitas soluciones. Y si a vale menos uno, queda cero igual a menos dos: ninguna.
+
+7
+00:01:15,316 --> 00:01:21,724
+Simplificar entre a menos uno es correcto en el primer caso, porque ahí a es distinto de uno.
+
+8
+00:01:23,716 --> 00:01:27,556
+La trampa: simplificar antes de discutir.
+
+9
+00:01:27,550 --> 00:01:35,758
+Así parece que solo a igual a menos uno da problemas, y se pierde el caso a igual a uno, que tiene infinitas soluciones.
+
+10
+00:01:37,750 --> 00:01:41,470
+Comprobamos cada caso en el sistema original.
+
+11
+00:01:41,466 --> 00:01:57,954
+Con a distinto de más y menos uno, la tercera ecuación da a más uno. Con a igual a cero, la solución es cero, cero, uno. Y con a igual a uno, cero, uno menos te, te, cumple la tercera para todo te.
+
+12
+00:01:59,966 --> 00:02:14,414
+Errores frecuentes: simplificar una fracción con parámetro antes de separar los casos; olvidar un valor crítico, cuando hay que hallar todas las raíces del pivote; y clasificar el caso especial sin sustituir el valor en la columna de be.
+
+13
+00:02:15,400 --> 00:02:23,944
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+14
+00:02:30,933 --> 00:02:52,485
+En resumen: se elimina hasta que el parámetro quede en los candidatos a pivote. Se hallan todos los valores que anulan cada candidato, y se estudian por separado. Y nunca se divide ni se simplifica por una expresión que puede valer cero. Siguiente: lección treinta, errores frecuentes y cómo verificar.
+

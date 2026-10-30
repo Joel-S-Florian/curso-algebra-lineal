@@ -1,0 +1,52 @@
+1
+00:00:01,000 --> 00:00:06,064
+Lección 21 , Parte 3: ¿Qué significa «lineal»?
+
+2
+00:00:08,550 --> 00:00:17,790
+Lineal significa dos cosas: la imagen de una suma es la suma de las imágenes, y la imagen de un múltiplo es el múltiplo de la imagen.
+
+3
+00:00:17,783 --> 00:00:20,951
+Tomemos dos vectores, u y uve.
+
+4
+00:00:20,950 --> 00:00:24,982
+Su suma es la diagonal del paralelogramo que forman.
+
+5
+00:00:24,966 --> 00:00:32,886
+Después de transformar, sigue siendo un paralelogramo: la imagen de u más uve es la imagen de u más la imagen de uve.
+
+6
+00:00:32,966 --> 00:00:41,390
+Y el doble de u se transforma en el doble de su imagen. Una transformación con estas dos propiedades es lineal.
+
+7
+00:00:42,383 --> 00:00:45,911
+Esto, en cambio, no es lineal.
+
+8
+00:00:45,900 --> 00:00:48,324
+Las rectas se curvan.
+
+9
+00:00:53,900 --> 00:00:56,852
+Y trasladar tampoco es lineal…
+
+10
+00:00:56,850 --> 00:01:02,682
+…porque el origen se mueve, y una transformación lineal siempre deja fijo el origen.
+
+11
+00:01:06,850 --> 00:01:17,626
+Que multiplicar por una matriz es lineal se demuestra con la propiedad distributiva de los números: a por u más uve es a por u más a por uve, y a por ce u es ce por a u.
+
+12
+00:01:21,850 --> 00:01:30,394
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+13
+00:01:37,383 --> 00:02:02,247
+En resumen: una transformación es lineal si la imagen de una suma es la suma de las imágenes, y la imagen de ce por u es ce por la imagen de u. Toda matriz a define una transformación lineal: equis se transforma en a por equis. Y curvar rectas o mover el origen no es lineal. Siguiente: lección veintidós, escribir un sistema como a equis igual a be.
+
