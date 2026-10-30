@@ -1,0 +1,36 @@
+1
+00:00:01,000 --> 00:00:06,688
+Lección 52 , Problema 4: Una parábola por tres puntos
+
+2
+00:00:09,683 --> 00:00:28,667
+Cuarto problema. Queremos la parábola y igual a ce cero más ce uno equis más ce dos equis cuadrado que pasa por los puntos menos uno, seis; uno, cero; y dos, tres. Aquí las incógnitas no son equis ni y, sino los coeficientes de la parábola.
+
+3
+00:00:28,666 --> 00:00:46,666
+Cada punto da una ecuación. Sustituimos: en menos uno, ce cero menos ce uno más ce dos igual a seis; en uno, ce cero más ce uno más ce dos igual a cero; y en dos, ce cero más dos ce uno más cuatro ce dos igual a tres.
+
+4
+00:00:47,666 --> 00:00:53,954
+Escalonamos con dos operaciones: a las filas dos y tres les restamos la fila uno.
+
+5
+00:01:05,666 --> 00:01:22,586
+La segunda fila dice dos ce uno igual a menos seis: ce uno vale menos tres. La tercera, tres ce uno más tres ce dos igual a menos tres: ce dos vale dos. Y la primera da ce cero igual a uno.
+
+6
+00:01:22,583 --> 00:01:38,039
+La parábola es y igual a uno menos tres equis más dos equis cuadrado. Comprobamos los tres puntos. Y factorizando, dos equis menos uno por equis menos uno, vemos que corta el eje equis en un medio y en uno.
+
+7
+00:01:41,033 --> 00:01:53,561
+Dibujada, la parábola pasa por los tres puntos. Tres puntos con abscisas distintas determinan una única parábola, porque la matriz del sistema, de Vandermonde, es invertible.
+
+8
+00:01:54,550 --> 00:02:07,294
+Ejercicio propuesto: halla la parábola del ejercicio del banco, con otros tres puntos pero el mismo planteamiento. Pausa el video e inténtalo; la solución está en el solucionario.
+
+9
+00:02:14,283 --> 00:02:32,715
+En resumen: en interpolación, las incógnitas son los coeficientes. Cada punto da una ecuación lineal en ellos. Y con tres abscisas distintas el sistema es compatible determinado. Siguiente: lección cincuenta y tres, parámetros y estructura.
+

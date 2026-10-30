@@ -1,0 +1,24 @@
+1
+00:00:01,000 --> 00:00:07,552
+Lección 54 , Parte 1: Dos soluciones, infinitas soluciones
+
+2
+00:00:10,550 --> 00:00:25,934
+Vamos a demostrar que un sistema lineal solo puede tener cero, una o infinitas soluciones; en particular, nunca exactamente dos. Supongamos dos soluciones distintas, equis e i griega, de a por equis igual a be.
+
+3
+00:00:25,933 --> 00:00:40,597
+Para cada número te, consideramos el vector zeta te, igual a equis más te por la diferencia i griega menos equis. Cuando te recorre los números reales, zeta te recorre toda la recta que pasa por los dos puntos.
+
+4
+00:00:42,583 --> 00:01:11,575
+Y cada zeta te es solución. Por linealidad, a por zeta te es a por equis, más te por a por i griega menos a por equis. Como las dos son soluciones, queda be más te por be menos be, que es be. Como la diferencia no es nula, los zeta te son todos distintos: hay infinitas soluciones. Por tanto, un sistema lineal tiene cero, una o infinitas soluciones, nunca exactamente dos.
+
+5
+00:01:12,566 --> 00:01:25,406
+Ejercicio propuesto: escribe tú la demostración de que un sistema con dos soluciones distintas tiene infinitas. Pausa el video e inténtalo; la demostración está en el solucionario.
+
+6
+00:01:32,400 --> 00:01:51,264
+En resumen: dos soluciones distintas generan toda una recta de soluciones; por tanto hay cero, una o infinitas, nunca exactamente dos. Y la demostración solo usa la linealidad. Siguiente: por qué las operaciones elementales no cambian las soluciones.
+

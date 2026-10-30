@@ -1,0 +1,24 @@
+1
+00:00:01,000 --> 00:00:07,792
+Lección 52 , Problema 3: La misma matriz, varios lados derechos
+
+2
+00:00:10,783 --> 00:00:29,575
+Tercer problema. Tenemos la matriz de las lecciones treinta y cinco y treinta y seis, ya factorizada como ele por u. Hay que resolver el sistema para dos lados derechos distintos. La factorización ya está hecha: cada lado derecho solo pide dos sustituciones.
+
+3
+00:00:31,566 --> 00:01:04,158
+Para el segundo lado derecho, uno, cinco, cero. Primero ele y igual a be: y uno vale uno; y dos es cinco menos dos por uno, tres; y tres es cero más uno, más tres por tres, diez. Ahora u equis igual a y, hacia atrás: diez zeta igual a diez, zeta vale uno; menos y más tres zeta igual a tres, y vale cero; y equis más dos y menos zeta igual a uno, equis vale dos. La solución es dos, cero, uno.
+
+4
+00:01:06,150 --> 00:01:37,638
+Comprobamos: a por equis da uno, cinco, cero, que es be dos. Para el primer lado derecho salió uno, menos uno, dos, con las mismas ele y u. Y el coste: factorizar cuesta del orden de ene cubo entre tres, una sola vez; cada lado derecho, solo ene cuadrado. Con mil lados derechos y una matriz de cien por cien, repetir Gauss cuesta unos trescientos treinta millones de operaciones; con ele u, unos trece millones.
+
+5
+00:01:38,633 --> 00:01:50,345
+Ejercicio propuesto: resuelve con la factorización L U un sistema del banco de ejercicios. Pausa el video e inténtalo; la solución está en el solucionario.
+
+6
+00:01:57,333 --> 00:02:15,861
+En resumen: con la misma matriz, se factoriza una vez. Cada lado derecho se resuelve con dos sustituciones, y cuesta ene cuadrado, en lugar de unas ene cubo entre tres. Siguiente: interpolación, ajustar una parábola a tres puntos.
+

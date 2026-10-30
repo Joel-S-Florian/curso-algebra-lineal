@@ -1,0 +1,36 @@
+1
+00:00:01,000 --> 00:00:06,688
+Lección 52 , Problema 1: Una mezcla de tres piensos
+
+2
+00:00:08,683 --> 00:00:27,331
+Primer problema integrador. Tres piensos aportan, por kilo, proteínas, grasas y fibra, con las cantidades de la tabla. Se quiere una mezcla con ocho unidades de proteínas, once de grasas y siete de fibra. ¿Cuántos kilos de cada pienso?
+
+3
+00:00:27,316 --> 00:00:45,772
+Se llama equis, y, zeta a los kilos de cada pienso. Cada rasgo da una ecuación: las proteínas, equis más dos y más zeta igual a ocho; las grasas, dos equis más y más tres zeta igual a once; la fibra, equis más y más dos zeta igual a siete.
+
+4
+00:00:47,766 --> 00:00:57,198
+Escalonamos la matriz aumentada. A la fila dos le restamos dos veces la fila uno, y a la fila tres, la fila uno.
+
+5
+00:01:05,766 --> 00:01:20,742
+Ahora el candidato a pivote de la columna dos, menos tres, haría fracciones. Es más cómodo intercambiar las filas dos y tres, que tiene un menos uno, y después restar a la fila tres tres veces la fila dos.
+
+6
+00:01:20,733 --> 00:01:34,725
+La última fila dice menos dos zeta igual a menos dos: zeta vale uno. La segunda, menos y más zeta igual a menos uno: y vale dos. Y la primera da equis igual a tres.
+
+7
+00:01:36,716 --> 00:01:57,140
+Verificamos en el sistema original. Las tres ecuaciones se cumplen. Hay que mezclar tres kilos del primer pienso, dos del segundo y uno del tercero. Y como las tres cantidades son positivas, la mezcla es posible; si alguna saliera negativa, el problema no tendría solución real.
+
+8
+00:01:58,133 --> 00:02:10,685
+Ejercicio propuesto: resuelve el problema de mezclas del banco, con otras cantidades pero el mismo planteamiento. Pausa el video e inténtalo; la solución está en el solucionario.
+
+9
+00:02:17,683 --> 00:02:37,915
+En resumen: una incógnita por producto y una ecuación por rasgo. Se resuelve con Gauss, intercambiando filas si así se evitan fracciones. Y se verifica, mirando también que las cantidades tengan sentido. Siguiente: un problema con infinitas soluciones, una rotonda.
+

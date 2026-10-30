@@ -1,0 +1,12 @@
+1
+00:00:01,000 --> 00:00:05,536
+Lección 55 , Parte 3: Lo que sigue
+
+2
+00:00:08,533 --> 00:00:41,629
+Lo que has aprendido es el principio del álgebra lineal. Lo que sigue usa las mismas ideas. La inversa y el determinante: una matriz cuadrada de rango ene tiene inversa, que se calcula con Gauss-Jordan sobre a e identidad. Ortogonalidad y mínimos cuadrados: cuando no hay solución, se busca la mejor aproximación. Valores y vectores propios: las direcciones que una matriz solo estira. Y más descomposiciones, que repiten la idea de la factorización L U.
+
+3
+00:00:43,616 --> 00:01:06,440
+Para terminar. Un sistema lineal puede no tener solución, tener una, o tener infinitas. Los pivotes lo deciden; el núcleo describe lo que sobra; el espacio columna, lo que se alcanza. Y en cada problema, tres verbos: resolver, verificar e interpretar. Gracias por seguir el curso.
+

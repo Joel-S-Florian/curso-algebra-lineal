@@ -1,0 +1,36 @@
+1
+00:00:01,000 --> 00:00:06,544
+Lección 53 , Problema 5: Un sistema con un parámetro
+
+2
+00:00:08,533 --> 00:00:21,685
+Quinto problema. Este sistema de tres ecuaciones con tres incógnitas tiene un parámetro, a. Hay que decir cuántas soluciones tiene según el valor de a, y resolverlo en cada caso.
+
+3
+00:00:23,683 --> 00:00:52,243
+El determinante de la matriz de coeficientes es menos a menos uno al cuadrado, por a más dos. Solo se anula si a vale uno o menos dos. Para cualquier otro valor, el rango es tres, igual al número de incógnitas, y la solución es única. Por la simetría del sistema, equis, y y zeta valen lo mismo: uno entre a más dos. Se comprueba: uno entre a más dos, por uno más uno más a, da uno.
+
+4
+00:00:54,233 --> 00:01:19,937
+Si a vale uno, las tres ecuaciones son la misma: equis más y más zeta igual a uno. Los dos rangos valen uno, menos que tres: es compatible indeterminado, con dos parámetros libres. La solución general es una solución particular, uno, cero, cero, más ese por menos uno, uno, cero, más te por menos uno, cero, uno: un plano.
+
+5
+00:01:21,933 --> 00:01:35,661
+Si a vale menos dos, escalonamos. A la fila dos le restamos la fila uno; a la fila tres le sumamos dos veces la fila uno; y después, a la fila tres le sumamos la fila dos.
+
+6
+00:01:48,433 --> 00:02:08,449
+La última fila queda cero, cero, cero, tres: la ecuación cero igual a tres, imposible. El rango de a es dos y el de la aumentada, tres: el sistema es incompatible. Se ve también sumando las tres ecuaciones: el miembro izquierdo se anula y el derecho vale tres.
+
+7
+00:02:10,433 --> 00:02:30,929
+Resumen de la discusión. Si a no es uno ni menos dos, los dos rangos valen tres: solución única. Si a es uno, los dos rangos valen uno: infinitas soluciones. Y si a es menos dos, el rango de a es dos y el de la aumentada, tres: sin solución.
+
+8
+00:02:31,916 --> 00:02:45,764
+Ejercicio propuesto: discute y resuelve el sistema con parámetro del banco, incluyendo una base del núcleo en el caso indeterminado. Pausa el video e inténtalo; la solución está en el solucionario.
+
+9
+00:02:52,750 --> 00:03:12,334
+En resumen: los valores críticos son los que anulan el determinante. En cada uno se comparan los rangos de a y de la aumentada. Y cuando hay infinitas soluciones, se escribe la solución particular más el núcleo. Siguiente: un problema completo con núcleo y espacio columna.
+

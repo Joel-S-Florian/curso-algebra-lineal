@@ -1,0 +1,32 @@
+1
+00:00:01,000 --> 00:00:06,448
+Lección 52 , Problema 2: El flujo de una rotonda
+
+2
+00:00:08,433 --> 00:00:25,545
+Segundo problema. Una rotonda tiene cuatro tramos, con equis uno, equis dos, equis tres y equis cuatro vehículos por minuto. En cada cruce se mide la suma de los dos tramos que se juntan: siete, ocho, siete y seis.
+
+3
+00:00:25,533 --> 00:00:31,869
+Cada cruce da una ecuación. Son cuatro ecuaciones con cuatro incógnitas.
+
+4
+00:00:33,866 --> 00:00:44,234
+Escalonamos. A la fila cuatro le restamos la fila uno; después le sumamos la fila dos; y por último le restamos la fila tres.
+
+5
+00:01:01,366 --> 00:01:12,430
+La cuarta fila queda de ceros: el rango es tres, con cuatro incógnitas. Equis cuatro es libre, y la rotonda tiene infinitas soluciones.
+
+6
+00:01:14,416 --> 00:01:54,904
+Despejando desde abajo: equis cuatro es ese; equis tres, siete menos ese; equis dos, uno más ese; equis uno, seis menos ese. En forma vectorial, una solución particular, seis, uno, siete, cero, más ese por el vector menos uno, uno, menos uno, uno, que genera el núcleo. Ahora el sentido físico: ningún flujo puede ser negativo, así que ese está entre cero y seis. Con ese igual a cuatro sale dos, cinco, tres, cuatro; y los extremos son seis, uno, siete, cero y cero, siete, uno, seis.
+
+7
+00:01:55,900 --> 00:02:08,428
+Ejercicio propuesto: resuelve el problema de la rotonda del banco y halla el intervalo en que puede variar el parámetro. Pausa el video e inténtalo; la solución está en el solucionario.
+
+8
+00:02:15,416 --> 00:02:38,384
+En resumen: cada nodo da una ecuación de balance. Si el rango es menor que el número de incógnitas hay infinitas soluciones, con un parámetro. Y las restricciones físicas, como que los flujos no sean negativos, acotan ese parámetro. Siguiente: varios lados derechos con la misma matriz, la factorización L U.
+
