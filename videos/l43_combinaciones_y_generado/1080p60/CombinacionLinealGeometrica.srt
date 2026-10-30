@@ -1,0 +1,32 @@
+1
+00:00:01,000 --> 00:00:06,280
+Lección 43 , Parte 1: Combinaciones lineales
+
+2
+00:00:09,266 --> 00:00:22,826
+Tenemos dos vectores del plano: u, dos y uno; y ve, menos uno y uno. Con ellos podemos hacer solo dos cosas: estirarlos, o multiplicarlos por un número; y sumarlos.
+
+3
+00:00:22,816 --> 00:00:34,096
+Estiremos u al doble, y pongamos ve a continuación. El vector que va del origen al final es dos veces u, más una vez ve: el vector tres, tres.
+
+4
+00:00:34,083 --> 00:00:45,843
+Otra combinación: una vez u, menos dos veces ve. Multiplicar por un número negativo invierte el sentido. Sale el vector cuatro, menos uno.
+
+5
+00:00:47,833 --> 00:01:10,753
+Una combinación lineal de los vectores ve uno, hasta ve ka, es cualquier suma de múltiplos suyos: ce uno por ve uno, más ce dos por ve dos, y así hasta ce ka por ve ka. Los números ce son los coeficientes, y pueden ser cualesquiera: positivos, negativos o cero. Las dos combinaciones de antes lo son.
+
+6
+00:01:12,750 --> 00:01:43,686
+Y aquí aparecen los sistemas. Preguntar si el vector tres, tres es combinación de u y ve, es buscar coeficientes ce uno y ce dos que cumplan esta igualdad. Componente a componente, es un sistema de dos ecuaciones con dos incógnitas. Tiene solución, ce uno igual a dos y ce dos igual a uno, y por eso el vector sí es combinación lineal. Preguntar si un vector es combinación lineal de otros es preguntar si un sistema tiene solución.
+
+7
+00:01:44,683 --> 00:01:58,411
+Ejercicio propuesto: decide si el vector be es combinación lineal de u y ve, y si lo es, halla los coeficientes. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+8
+00:02:05,400 --> 00:02:23,616
+En resumen: una combinación lineal es una suma de múltiplos de vectores, con coeficientes cualesquiera. Y preguntar si un vector es combinación de otros es preguntar si un sistema tiene solución. Siguiente: el espacio generado, todas las combinaciones a la vez.
+

@@ -1,0 +1,32 @@
+1
+00:00:01,000 --> 00:00:06,496
+Lección 44 , Parte 2: Cómo comprobar la independencia
+
+2
+00:00:09,483 --> 00:00:28,371
+Para decidir si unos vectores son independientes, escribimos la ecuación que define la independencia. Tomemos tres vectores de tres componentes: u, ve y uve doble. La ecuación es ce uno u, más ce dos ve, más ce tres uve doble, igual al vector nulo.
+
+3
+00:00:29,366 --> 00:00:42,854
+Es un sistema homogéneo cuya matriz tiene a los vectores por columnas. Lo escalonamos. A la fila dos le restamos dos veces la fila uno, y a la fila tres, la fila uno.
+
+4
+00:00:47,366 --> 00:00:54,782
+Ahora, a la fila tres le restamos la fila dos. La última fila queda de ceros.
+
+5
+00:00:57,866 --> 00:01:19,082
+La tercera columna no tiene pivote, así que el coeficiente ce tres es libre. Tomando ce tres igual a te, salen ce uno igual a menos te, y ce dos igual a menos dos te. Hay soluciones distintas de cero: son dependientes. Con te igual a uno, uve doble es u más dos ve.
+
+6
+00:01:21,066 --> 00:01:48,018
+Resumiendo el método. Sea ve la matriz con los vectores por columnas. Los vectores son independientes si y solo si el sistema ve por ce igual a cero solo tiene la solución trivial; esto equivale a que el rango de ve sea igual al número de vectores, es decir, que todas las columnas tengan pivote. Y si hay más vectores que componentes, el rango no puede llegar al número de vectores, así que son dependientes.
+
+7
+00:01:49,016 --> 00:02:02,720
+Ejercicio propuesto: decide si estos tres vectores son independientes, y si no, da una relación entre ellos. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+8
+00:02:09,716 --> 00:02:28,772
+En resumen: se forma la matriz con los vectores por columnas. Son independientes exactamente cuando el rango es igual al número de vectores. Y si hay una columna sin pivote, su variable libre da una relación de dependencia. Siguiente: base y dimensión.
+

@@ -1,0 +1,28 @@
+1
+00:00:01,000 --> 00:00:05,296
+Lección 40 , Parte 2: Demostración
+
+2
+00:00:08,283 --> 00:00:28,491
+La demostración usa la forma escalonada. Las operaciones por filas conservan las soluciones, y los rangos; así que basta probar el teorema con la matriz aumentada ya escalonada. En ella, el rango de a son los pivotes de las columnas de a, y el de la aumentada, los pivotes de todas las columnas.
+
+3
+00:00:30,483 --> 00:00:56,115
+Primera parte: compatible si y solo si los rangos coinciden. Si es compatible, ninguna fila es de ceros con un número distinto de cero al final, así que no hay pivote en la columna de be, y los dos rangos son iguales. Y al revés, si los rangos coinciden, no hay pivote en la columna de be, no hay ninguna ecuación imposible, y sustituyendo hacia atrás se construye una solución.
+
+4
+00:00:58,100 --> 00:01:25,772
+Segunda parte: cuántas soluciones. Las erre variables pivote se despejan hacia atrás; las otras ene menos erre son libres. Si erre es igual a ene, no hay libres, y todas las incógnitas quedan determinadas: una solución. Si erre es menor que ene, hay al menos una libre, y cada valor real que le demos da una solución distinta: infinitas, con ene menos erre parámetros.
+
+5
+00:01:27,766 --> 00:01:46,462
+Un ejemplo, con el sistema de la lección veintiocho. Al reducir, los dos rangos valen dos, y hay tres incógnitas. Es compatible, con tres menos dos, un parámetro. La solución es menos uno más te, tres menos dos te, te.
+
+6
+00:01:47,450 --> 00:02:02,546
+Ejercicio propuesto: demuestra, con la forma escalonada, que si el rango de a es menor que el de la aumentada, el sistema es incompatible. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+7
+00:02:09,533 --> 00:02:33,509
+En resumen: se escalona la matriz aumentada. Un pivote en la columna de be da una ecuación imposible, cero igual a ce: incompatible. Sin pivote en be, hay ene menos erre variables libres: una solución si ene menos erre es cero, e infinitas si no. Siguiente: las incógnitas, el rango y las variables libres.
+

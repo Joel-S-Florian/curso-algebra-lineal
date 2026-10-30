@@ -1,0 +1,28 @@
+1
+00:00:01,000 --> 00:00:06,880
+Lección 44 , Parte 1: Dependencia e independencia lineal
+
+2
+00:00:09,866 --> 00:00:28,682
+Vamos a medir si en una lista de vectores alguno sobra. Estos dos, u igual a uno, dos y ve igual a dos, cuatro, apuntan en la misma dirección. Ve es el doble de u, así que no aporta nada nuevo: dos veces u menos una vez ve da el vector nulo.
+
+3
+00:00:29,666 --> 00:00:44,642
+Estos otros dos vectores, uno, dos y dos, uno, apuntan en direcciones distintas. La única forma de combinarlos para obtener el vector nulo es con los dos coeficientes iguales a cero: son independientes.
+
+4
+00:00:46,633 --> 00:01:05,545
+Los vectores ve uno, hasta ve ka, son linealmente independientes si la única solución de esta ecuación es la trivial, todos los coeficientes cero. Si existe alguna solución con algún coeficiente distinto de cero, son dependientes, y entonces alguno de ellos es combinación lineal de los demás.
+
+5
+00:01:07,533 --> 00:01:28,005
+Tres consecuencias que conviene recordar. Un conjunto que contiene al vector nulo siempre es dependiente. Dos vectores son dependientes exactamente cuando uno es múltiplo del otro. Y más de ene vectores en el espacio de ene dimensiones siempre son dependientes; lo veremos enseguida, con rangos.
+
+6
+00:01:29,000 --> 00:01:43,520
+Ejercicio propuesto: decide si estos dos vectores son linealmente independientes, y si no lo son, da una relación entre ellos. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+7
+00:01:50,516 --> 00:02:10,772
+En resumen: son independientes si la única combinación que da el vector nulo es la trivial; son dependientes si alguno sobra. Con el vector nulo, o con más de ene vectores en el espacio de ene dimensiones, son siempre dependientes. Siguiente: cómo comprobarlo con un sistema homogéneo.
+

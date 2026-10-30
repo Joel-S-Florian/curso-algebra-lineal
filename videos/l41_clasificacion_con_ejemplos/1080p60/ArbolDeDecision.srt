@@ -1,0 +1,24 @@
+1
+00:00:01,000 --> 00:00:05,848
+Lección 41 , Parte 2: Árbol de decisión
+
+2
+00:00:08,833 --> 00:00:22,345
+El teorema se resume en un árbol de decisión. Primera pregunta: ¿el rango de a es igual al de la aumentada? Si no, el sistema es incompatible, y no hay nada más que decir.
+
+3
+00:00:22,333 --> 00:00:39,517
+Si sí, segunda pregunta: ¿el rango es igual al número de incógnitas? Si es así, compatible determinado: una solución. Y si no, compatible indeterminado: infinitas soluciones, con ene menos erre parámetros.
+
+4
+00:00:41,516 --> 00:01:10,244
+Algunos atajos. Con menos ecuaciones que incógnitas, nunca es determinado; si es compatible, tiene al menos ene menos eme parámetros. Si el rango es igual al número de ecuaciones, siempre es compatible. Un sistema homogéneo siempre es compatible, y solo tiene la solución trivial si el rango es ene. Y con tantas ecuaciones como incógnitas y rango ene, siempre es determinado, para cualquier be.
+
+5
+00:01:11,233 --> 00:01:32,065
+Ejercicio propuesto: un sistema tiene tres ecuaciones y cinco incógnitas, y otro, cinco ecuaciones y tres incógnitas. ¿Qué clasificaciones son posibles en cada caso? Da un ejemplo de cada una. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+6
+00:01:39,050 --> 00:02:09,770
+En resumen: primero, ¿el rango de a es igual al de la aumentada? Si no, incompatible. Después, ¿el rango es ene? Si es así, determinado; si no, indeterminado, con ene menos erre parámetros. Y hay atajos: con menos ecuaciones que incógnitas nunca es determinado, y si el rango es eme, siempre es compatible. Siguiente: lección cuarenta y dos, discusión con parámetros.
+

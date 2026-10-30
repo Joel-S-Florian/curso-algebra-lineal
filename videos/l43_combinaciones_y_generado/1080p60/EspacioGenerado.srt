@@ -1,0 +1,32 @@
+1
+00:00:01,000 --> 00:00:05,992
+Lección 43 , Parte 2: El espacio generado
+
+2
+00:00:08,983 --> 00:00:23,311
+Si tomamos un solo vector, u, todos sus múltiplos, c por u, forman una recta que pasa por el origen. Al conjunto de todas las combinaciones lineales de unos vectores se le llama el espacio generado por ellos.
+
+3
+00:00:23,300 --> 00:00:33,908
+Si añadimos otro vector que ya es un múltiplo del primero, como uve doble igual a dos u, no ganamos nada: el espacio generado sigue siendo la misma recta.
+
+4
+00:00:33,900 --> 00:00:44,940
+En cambio, con un segundo vector que apunta en otra dirección, ve, dos y uno, ya podemos llegar a cualquier punto del plano: el espacio generado es todo el plano.
+
+5
+00:00:46,933 --> 00:01:10,861
+El espacio generado por ve uno, hasta ve ka, es el conjunto de todas sus combinaciones lineales. En el espacio de tres dimensiones, un vector genera una recta; dos que no son múltiplos, un plano; y tres que no están en un mismo plano, todo el espacio. Siempre pasa por el origen, porque con todos los coeficientes cero se obtiene el vector nulo.
+
+6
+00:01:12,850 --> 00:01:32,434
+Para saber si be pertenece al espacio generado por unos vectores, se forma la matriz que tiene esos vectores por columnas, se le añade la columna be, y se pregunta si el sistema tiene solución. Por Rouché-Frobenius, esto ocurre justo cuando el rango de la matriz de vectores coincide con el de la matriz aumentada.
+
+7
+00:01:33,433 --> 00:01:46,825
+Ejercicio propuesto: describe geométricamente el espacio generado por cada una de estas dos parejas de vectores. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+8
+00:01:53,816 --> 00:02:16,568
+En resumen: el espacio generado es el conjunto de todas las combinaciones lineales. Un vector genera una recta, y dos que no son múltiplos, un plano. Y be está en el generado exactamente cuando el sistema correspondiente tiene solución. Siguiente: lección cuarenta y cuatro, independencia lineal, base y dimensión.
+

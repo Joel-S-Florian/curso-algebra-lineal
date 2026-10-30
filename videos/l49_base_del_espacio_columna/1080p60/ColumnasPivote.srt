@@ -1,0 +1,32 @@
+1
+00:00:01,000 --> 00:00:06,376
+Lección 49 , Parte 1: Una base del espacio columna
+
+2
+00:00:09,366 --> 00:00:20,094
+Queremos una base del espacio columna de esta matriz. Sus columnas lo generan, pero a lo mejor algunas sobran. ¿Qué columnas bastan?
+
+3
+00:00:20,083 --> 00:00:26,347
+Reducimos la matriz. Los pivotes caen en las columnas uno y tres.
+
+4
+00:00:26,333 --> 00:00:38,549
+Una base del espacio columna son las columnas de la matriz original, no de la reducida, en las posiciones donde hay pivote. Aquí, la columna uno y la columna tres de a.
+
+5
+00:00:39,533 --> 00:01:03,821
+Así, el espacio columna está generado por los vectores uno, dos, uno y cero, uno, uno, y su dimensión es dos, igual al rango. Las otras dos columnas son combinación de estas: la segunda es el doble de la primera, y la cuarta es la primera más dos veces la tercera. Esos coeficientes se leen directamente en las columnas de la forma reducida.
+
+6
+00:01:05,816 --> 00:01:30,320
+La receta, en cuatro pasos. Uno: se reduce a y se localizan las columnas con pivote. Dos: se toman esas mismas columnas, pero de la matriz original. Tres: son una base del espacio columna, y su cantidad es el rango. Cuatro: las demás columnas se escriben en función de las pivote leyendo la forma reducida.
+
+7
+00:01:31,316 --> 00:01:46,292
+Ejercicio propuesto: halla una base del espacio columna de esta matriz y su dimensión, y escribe las demás columnas como combinación de la base. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+8
+00:01:53,283 --> 00:02:10,467
+En resumen: una base del espacio columna son las columnas de a donde la reducida tiene pivote. Su dimensión es el rango. Y las otras columnas se leen de la reducida. Siguiente: por qué hay que tomar las columnas de la matriz original.
+

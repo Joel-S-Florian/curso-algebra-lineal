@@ -1,0 +1,28 @@
+1
+00:00:01,000 --> 00:00:07,264
+Lección 48 , Parte 1: A x es una combinación de las columnas
+
+2
+00:00:10,250 --> 00:00:31,082
+Recordemos, de la lección diecinueve, cómo se multiplica una matriz por un vector, pero leyendo por columnas. A por equis es equis uno por la primera columna, más equis dos por la segunda, y así hasta la última. Es una combinación lineal de las columnas de a, y los números de equis son los coeficientes.
+
+3
+00:00:32,066 --> 00:00:56,402
+Con la matriz de siempre y el vector dos, menos uno, tres, uno, el producto es dos veces la columna uno, menos la columna dos, más tres veces la columna tres, más la columna cuatro. Sumando componente a componente, sale el vector uno, siete, seis. Da igual hacerlo por filas o por columnas: el resultado es el mismo.
+
+4
+00:00:58,400 --> 00:01:20,288
+El espacio columna de a es el espacio generado por sus columnas. Y es lo mismo que el conjunto de todos los productos a por equis, con equis cualquiera, porque cada producto es una combinación de las columnas. Es un subespacio del espacio de eme dimensiones, el de las ecuaciones, mientras que el núcleo vivía en el de las incógnitas.
+
+5
+00:01:22,283 --> 00:01:40,667
+Con la matriz uno, dos; dos, cuatro, las dos columnas apuntan en la misma dirección. Cualquier producto a por equis es un múltiplo del vector uno, dos. El espacio columna es la recta y igual a dos equis, aunque la matriz tenga dos columnas.
+
+6
+00:01:41,666 --> 00:01:54,770
+Ejercicio propuesto: calcula el producto de esta matriz por este vector, como una combinación de las columnas. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+7
+00:02:01,766 --> 00:02:21,134
+En resumen: a por equis es una combinación de las columnas de a. El espacio columna es el generado por las columnas, que es lo mismo que el conjunto de todos los productos a por equis, y vive en el espacio de eme dimensiones. Siguiente: cuándo a por equis igual a be tiene solución.
+

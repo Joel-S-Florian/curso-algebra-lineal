@@ -1,0 +1,32 @@
+1
+00:00:01,000 --> 00:00:06,400
+Lección 47 , Parte 1: Una solución más el núcleo
+
+2
+00:00:09,400 --> 00:00:26,848
+Resolvamos un sistema a por equis igual a be, con la matriz de las lecciones anteriores y el vector be igual a uno, tres, dos. Tras escalonar la matriz aumentada, queda esta forma reducida: es compatible, y las columnas dos y cuatro no tienen pivote.
+
+3
+00:00:26,833 --> 00:00:37,465
+Despejando, equis uno es uno menos dos equis dos menos equis cuatro, y equis tres es uno menos dos equis cuatro. Las libres son ese y te.
+
+4
+00:00:38,450 --> 00:00:56,426
+Escribimos la solución general como vector, separando tres partes. Lo que no depende de ese ni de te es una solución concreta, equis pe: la que se obtiene con las libres iguales a cero. Lo que acompaña a ese y a te es la base del núcleo que ya conocemos.
+
+5
+00:00:58,416 --> 00:01:17,520
+Esto no es casualidad. El teorema dice: si equis pe es una solución de a por equis igual a be, el conjunto de todas las soluciones es el de los vectores equis pe más ene, con ene en el núcleo de a. Toda solución es una solución particular más una solución del sistema homogéneo.
+
+6
+00:01:19,516 --> 00:01:52,156
+La demostración tiene dos mitades. Primera: si ene está en el núcleo, a por equis pe más ene es a por equis pe más a por ene, que es be más cero, es decir, be. Así que equis pe más ene es solución. Segunda: si equis es una solución cualquiera, llamemos ene a equis menos equis pe. Entonces a por ene es a por equis menos a por equis pe, es decir, be menos be, cero. Luego ene está en el núcleo, y equis es equis pe más ene.
+
+7
+00:01:53,150 --> 00:02:07,886
+Ejercicio propuesto: resuelve este sistema y escribe la solución general como una solución particular más combinaciones de una base del núcleo. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+8
+00:02:14,883 --> 00:02:36,627
+En resumen: la solución general es una solución particular más el núcleo. Se obtiene poniendo las libres a cero, y añadiendo una base del núcleo. Y la demostración es que a por equis menos equis pe es be menos be, cero. Siguiente: cómo se ve esto geométricamente, como una recta trasladada.
+
