@@ -1,0 +1,33 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.160
+Lección 42 , Parte 1: Discutir con rangos
+
+2
+00:00:09.150 --> 00:00:28.566
+Discutir un sistema es clasificarlo para cada valor de los parámetros. Tomemos equis más ye igual a uno, y equis más a ye igual a be, con a y be parámetros. Escalonamos: a la fila dos le restamos la fila uno, y queda cero, a menos uno, be menos uno.
+
+3
+00:00:30.550 --> 00:00:42.718
+Si a es distinto de uno, a menos uno es un pivote: los dos rangos valen dos, igual que el número de incógnitas. Es compatible determinado, para cualquier be.
+
+4
+00:00:42.716 --> 00:00:54.380
+Si a vale uno, y be vale uno, la fila dos es de ceros: los dos rangos valen uno, menor que dos. Compatible indeterminado, con un parámetro.
+
+5
+00:00:54.366 --> 00:01:09.222
+Y si a vale uno, pero be es distinto de uno, la fila dos es cero, cero, be menos uno, con be menos uno distinto de cero: el rango de la aumentada es dos, y el de a, uno. Incompatible.
+
+6
+00:01:11.216 --> 00:01:34.784
+Para escribir una discusión: uno, se escalona la aumentada sin dividir por expresiones que puedan valer cero. Dos, se buscan los valores que anulan cada candidato a pivote. Tres, para cada caso, se sustituye en toda la matriz y se calculan los dos rangos. Y cuatro, se aplica Rouché-Frobenius y se escribe la conclusión.
+
+7
+00:01:35.783 --> 00:01:49.031
+Ejercicio propuesto: discute este sistema según el valor del parámetro eme, con los rangos de a y de la aumentada. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+8
+00:01:56.016 --> 00:02:17.064
+En resumen: discutir es clasificar para cada valor del parámetro. Se escalona sin dividir por lo que puede valer cero, y se estudian los valores críticos. En cada caso, se calculan los rangos y se aplica Rouché-Frobenius. Siguiente: clasificar un sistema de tres por tres sin resolverlo.

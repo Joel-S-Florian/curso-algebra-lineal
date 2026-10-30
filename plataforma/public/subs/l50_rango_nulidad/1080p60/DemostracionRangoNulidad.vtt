@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.424
+Lección 50 , Parte 2: El teorema del rango y la nulidad
+
+2
+00:00:08.416 --> 00:00:24.088
+El teorema del rango y la nulidad dice: para toda matriz a de tamaño eme por ene, el rango más la nulidad es igual a ene. Dicho con dimensiones, la dimensión del espacio columna más la dimensión del núcleo es el número de columnas.
+
+3
+00:00:26.083 --> 00:01:02.035
+La demostración junta lo que ya sabemos. Reducimos a, y sea erre el número de pivotes. Cada una de las ene columnas tiene pivote o no lo tiene: erre columnas lo tienen, y ene menos erre no, son las variables libres. Por la lección cuarenta y nueve, las erre columnas pivote son una base del espacio columna: su dimensión es erre. Por la lección cuarenta y seis, cada variable libre aporta un vector a la base del núcleo: su dimensión es ene menos erre. Sumando, erre más ene menos erre es ene.
+
+4
+00:01:04.033 --> 00:01:41.737
+Consecuencias. La transformación es inyectiva, es decir, cada vector se alcanza a lo sumo una vez, exactamente cuando el núcleo es trivial, o sea, cuando el rango es ene. Es sobreyectiva, se alcanza todo el espacio de eme dimensiones, cuando el rango es eme. Si la matriz es cuadrada, ambas condiciones coinciden: el rango es ene, el núcleo es trivial, el espacio columna es todo, y el sistema tiene solución única para cualquier lado derecho. Y no hay matrices de tres por cinco inyectivas, ni de cinco por tres sobreyectivas.
+
+5
+00:01:42.733 --> 00:02:00.085
+Ejercicio propuesto: una matriz de cinco por siete tiene rango tres. ¿Cuál es su nulidad? ¿En qué espacio vive su espacio columna, y qué dimensión tiene? Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+6
+00:02:07.083 --> 00:02:34.707
+En resumen: el rango más la nulidad es el número de columnas. La demostración cuenta las columnas con pivote, erre, y las libres, ene menos erre. Y en una matriz cuadrada, rango ene equivale a núcleo trivial y a solución única para todo lado derecho. Con esto termina la Unidad 8. Siguiente: la síntesis, elegir el método y resolver problemas integradores.

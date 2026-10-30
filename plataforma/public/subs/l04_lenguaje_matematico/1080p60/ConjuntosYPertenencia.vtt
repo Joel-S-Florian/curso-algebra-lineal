@@ -1,0 +1,57 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:05.152
+Lección 4 , Parte 1: Conjuntos
+
+2
+00:00:08.152 --> 00:00:17.296
+Un conjunto es una colección de objetos. Este conjunto, a, tiene tres elementos: uno, dos y tres.
+
+3
+00:00:17.285 --> 00:00:23.069
+Si escribimos los elementos entre llaves, describimos el conjunto por extensión.
+
+4
+00:00:23.068 --> 00:00:30.772
+El símbolo que parece una e redondeada significa: pertenece a. El dos pertenece a a.
+
+5
+00:00:30.768 --> 00:00:37.104
+Tachado significa: no pertenece a. El cinco no pertenece a a.
+
+6
+00:00:39.102 --> 00:00:43.158
+También se puede describir un conjunto con una propiedad.
+
+7
+00:00:43.158 --> 00:00:48.918
+Esto se lee: los equis reales tales que dos equis más uno es igual a siete.
+
+8
+00:00:48.908 --> 00:00:55.292
+Es exactamente el conjunto solución de la ecuación: el conjunto que contiene solo al tres.
+
+9
+00:00:57.291 --> 00:01:12.027
+Si ningún número cumple la condición, obtenemos el conjunto vacío. Si todos la cumplen, obtenemos todos los reales. Y un conjunto es subconjunto de otro si todos sus elementos están también en el otro.
+
+10
+00:01:16.291 --> 00:01:21.235
+La intersección de dos conjuntos contiene lo que está en los dos a la vez.
+
+11
+00:01:21.235 --> 00:01:28.843
+Y aquí está la conexión con los sistemas: las soluciones de un sistema son las que cumplen todas las ecuaciones a la vez.
+
+12
+00:01:28.835 --> 00:01:37.451
+Es decir, la intersección de los conjuntos solución. Geométricamente, el punto donde se cortan las rectas.
+
+13
+00:01:38.835 --> 00:01:47.379
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+14
+00:01:54.368 --> 00:02:16.832
+En resumen: un conjunto se describe por extensión, con sus elementos entre llaves, o por una propiedad. Hay que conocer la pertenencia, el conjunto vacío y los subconjuntos. Y el conjunto solución de un sistema es la intersección de los conjuntos solución de cada ecuación. Siguiente: subíndices y sumatorios.

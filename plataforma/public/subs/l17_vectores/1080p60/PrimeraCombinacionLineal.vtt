@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.088
+Lección 17 , Parte 3: Combinaciones lineales
+
+2
+00:00:10.088 --> 00:00:17.000
+Tenemos dos vectores: u, el uno, dos, y uve, el tres, menos uno.
+
+3
+00:00:17.000 --> 00:00:24.392
+Mezclándolos con dos pesos, a y be, obtenemos una combinación lineal: a por u, más be por uve.
+
+4
+00:00:24.392 --> 00:00:28.616
+Al cambiar los pesos, llegamos a puntos distintos.
+
+5
+00:00:31.392 --> 00:00:35.808
+¿Qué pesos nos llevan exactamente al punto cinco, tres?
+
+6
+00:00:35.792 --> 00:00:47.840
+Con a igual a dos y be igual a uno: dos por uno, dos, más uno por tres, menos uno, da cinco, tres. ¿Cómo encontrar los pesos sin tantear?
+
+7
+00:00:49.825 --> 00:00:53.041
+Escribimos la igualdad de vectores.
+
+8
+00:00:53.041 --> 00:00:58.801
+Dos vectores son iguales si coinciden componente a componente: dos ecuaciones.
+
+9
+00:00:58.801 --> 00:01:05.953
+Aparece un sistema de ecuaciones: a más tres be igual a cinco, y dos a menos be igual a tres.
+
+10
+00:01:05.951 --> 00:01:15.815
+Su solución es a igual a dos, be igual a uno. Resolver un sistema lineal es lo mismo que buscar los pesos de una combinación lineal.
+
+11
+00:01:16.815 --> 00:01:25.359
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+12
+00:01:32.359 --> 00:01:54.199
+En resumen: una combinación lineal de u y uve es a por u más be por uve, donde a y be son los pesos. Al variar los pesos se alcanzan distintos puntos. Y encontrar los pesos que dan un vector concreto es resolver un sistema lineal. Siguiente: lección dieciocho, suma de matrices y producto por un escalar.

@@ -1,0 +1,45 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.568
+Lección 23 , Parte 2: Sistemas equivalentes y filas
+
+2
+00:00:09.566 --> 00:00:15.998
+Dos sistemas con las mismas incógnitas son equivalentes si tienen el mismo conjunto de soluciones.
+
+3
+00:00:15.983 --> 00:00:19.127
+Partamos de esta matriz aumentada.
+
+4
+00:00:19.116 --> 00:00:26.916
+Restar la primera ecuación a la segunda es restar la primera fila a la segunda. Y lo mismo con la tercera.
+
+5
+00:00:26.916 --> 00:00:38.964
+Es la reducción de la lección quince, hecha solo con números. El símbolo de equivalencia indica que las matrices son distintas, pero los sistemas tienen las mismas soluciones.
+
+6
+00:00:38.950 --> 00:00:43.174
+Uno, dos, tres cumple los dos sistemas.
+
+7
+00:00:45.950 --> 00:00:49.982
+El sistema de la derecha se resuelve de abajo arriba.
+
+8
+00:00:49.966 --> 00:01:06.502
+La última fila dice menos dos zeta igual a menos seis: zeta vale tres. La segunda, menos dos ye igual a menos cuatro: ye vale dos. Y la primera, equis más dos más tres igual a seis: equis vale uno.
+
+9
+00:01:06.500 --> 00:01:15.212
+Se resuelve así gracias a los ceros bajo la diagonal. Llegar ahí con operaciones permitidas es la eliminación de Gauss.
+
+10
+00:01:16.200 --> 00:01:24.744
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+11
+00:01:31.733 --> 00:01:53.885
+En resumen: dos sistemas son equivalentes si tienen el mismo conjunto de soluciones. Operar con ecuaciones es operar con las filas de la matriz aumentada. Y con ceros bajo la diagonal, el sistema se resuelve de abajo arriba. Siguiente: unidad cuatro, lección veinticuatro, operaciones elementales por filas.

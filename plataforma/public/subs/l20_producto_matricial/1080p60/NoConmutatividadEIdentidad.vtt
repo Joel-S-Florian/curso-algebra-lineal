@@ -1,0 +1,53 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.832
+Lección 20 , Parte 2: AB y BA: el orden importa
+
+2
+00:00:09.816 --> 00:00:13.248
+Tomemos estas dos matrices, a y be.
+
+3
+00:00:13.233 --> 00:00:17.001
+A por be da dos, uno; uno, uno.
+
+4
+00:00:17.000 --> 00:00:28.712
+Pero be por a da uno, uno; uno, dos. Mismas matrices, distinto orden, distinto resultado: el producto de matrices no es conmutativo.
+
+5
+00:00:28.700 --> 00:00:38.924
+Y a veces ni siquiera tienen la misma dimensión: dos por tres, por tres por dos, da dos por dos; pero en el otro orden, da tres por tres.
+
+6
+00:00:40.916 --> 00:00:49.964
+Pero sí se cumplen otras propiedades: la asociativa, las distributivas, la de los escalares, y la identidad hace el papel del uno.
+
+7
+00:00:55.916 --> 00:00:58.820
+Veamos la identidad en acción.
+
+8
+00:00:58.816 --> 00:01:06.592
+Los ceros de la identidad anulan todos los términos menos uno: tres, menos dos; cinco, siete.
+
+9
+00:01:07.816 --> 00:01:12.448
+Cada fila queda igual: la identidad hace el papel del uno.
+
+10
+00:01:14.433 --> 00:01:25.857
+Cuidado con dos errores frecuentes. Un producto puede ser la matriz nula sin que ningún factor lo sea. Y el producto no se hace posición a posición.
+
+11
+00:01:25.850 --> 00:01:34.250
+Por eso, con matrices, no se puede simplificar como con números: a be igual a a ce no implica be igual a ce.
+
+12
+00:01:35.250 --> 00:01:43.794
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+13
+00:01:50.783 --> 00:02:11.519
+En resumen: en general, a be y be a son distintas: el orden importa. La asociativa y las distributivas sí se cumplen, y la identidad es el neutro. Y a be igual a cero no implica que a o be sean cero. Siguiente: lección veintiuno, la matriz como transformación del plano.

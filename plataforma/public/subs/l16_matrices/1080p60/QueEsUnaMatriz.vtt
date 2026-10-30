@@ -1,0 +1,61 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:05.728
+Lección 16 , Parte 1: ¿Qué es una matriz?
+
+2
+00:00:08.716 --> 00:00:15.508
+Una tabla de ventas de una semana: cada fila es una tienda, y cada columna, un producto.
+
+3
+00:00:15.500 --> 00:00:22.268
+Si quitamos los rótulos y nos quedamos con los números en su sitio, ordenados, tenemos una matriz.
+
+4
+00:00:24.266 --> 00:00:31.802
+Una matriz es una tabla rectangular de números. Las llamamos con letras mayúsculas, como a.
+
+5
+00:00:31.800 --> 00:00:34.728
+Las filas son horizontales.
+
+6
+00:00:34.716 --> 00:00:37.980
+Y las columnas, verticales.
+
+7
+00:00:38.216 --> 00:00:49.160
+Esta matriz tiene tres filas y cuatro columnas: es de dimensión tres por cuatro. Siempre se dice primero el número de filas, y después el de columnas.
+
+8
+00:00:51.150 --> 00:00:54.438
+Cada número de la matriz es un elemento.
+
+9
+00:00:54.433 --> 00:01:03.745
+El elemento a sub i jota está donde se cruzan la fila i y la columna jota: primero la fila, después la columna, como en la lección cuatro.
+
+10
+00:01:03.733 --> 00:01:12.661
+a dos tres vale tres. a tres dos vale cero: el orden importa. Y a uno cuatro vale siete.
+
+11
+00:01:17.233 --> 00:01:23.665
+También se escribe la matriz entera como a sub i jota, entre corchetes, indicando su dimensión.
+
+12
+00:01:25.650 --> 00:01:31.914
+Dos matrices son iguales si tienen la misma dimensión, y el mismo número en cada posición.
+
+13
+00:01:36.150 --> 00:01:42.510
+Por eso una igualdad de matrices son muchas igualdades de números a la vez: una por posición.
+
+14
+00:01:43.500 --> 00:01:52.044
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+15
+00:01:59.033 --> 00:02:23.969
+En resumen: una matriz es una tabla rectangular de números. Su dimensión, eme por ene, indica eme filas y ene columnas, primero las filas. a i jota es el elemento de la fila i y la columna jota. Y dos matrices son iguales si tienen la misma dimensión y los mismos elementos en cada posición. Siguiente: tipos de matrices.

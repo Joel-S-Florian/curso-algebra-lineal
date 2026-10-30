@@ -1,0 +1,65 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.688
+Lección 24 , Parte 2: Cada operación se puede deshacer
+
+2
+00:00:09.683 --> 00:00:15.467
+Si dos igualdades son ciertas, cualquier combinación de ellas también lo es.
+
+3
+00:00:15.466 --> 00:00:23.506
+Por eso, la solución del sistema viejo cumple las ecuaciones nuevas: se multiplican y se suman igualdades ciertas.
+
+4
+00:00:23.500 --> 00:00:28.516
+Falta la otra mitad: que lo nuevo no tenga soluciones de más.
+
+5
+00:00:31.500 --> 00:00:46.884
+Cada operación se deshace con otra del mismo tipo. Un intercambio se deshace repitiéndolo. Multiplicar por ka se deshace multiplicando por uno entre ka. Y sumar ka veces una fila se deshace restándolas.
+
+6
+00:00:46.883 --> 00:00:55.259
+La inversa existe gracias a las condiciones: uno entre ka necesita ka distinto de cero, y la fila que se suma tiene que ser otra.
+
+7
+00:00:57.250 --> 00:00:59.242
+Ida y vuelta.
+
+8
+00:00:59.233 --> 00:01:03.193
+Restamos a la fila dos tres veces la fila uno.
+
+9
+00:01:07.733 --> 00:01:12.293
+Ahora la operación inversa: sumamos lo que restamos.
+
+10
+00:01:17.233 --> 00:01:22.441
+Volvemos exactamente a la matriz de partida: no se perdió información.
+
+11
+00:01:24.433 --> 00:01:42.025
+La demostración tiene dos mitades. Primera: toda solución del sistema viejo cumple el nuevo. Segunda: toda solución del nuevo vuelve al viejo con la operación inversa. Las dos juntas dan que los conjuntos de soluciones son iguales.
+
+12
+00:01:44.433 --> 00:01:48.801
+Sin operación inversa, solo vale la primera mitad.
+
+13
+00:01:48.800 --> 00:01:54.032
+Con cero por la fila dos, el sistema gana soluciones que no tenía.
+
+14
+00:01:56.800 --> 00:02:13.864
+Errores frecuentes: probar solo la primera mitad, porque podrían aparecer soluciones que no lo eran; usar operaciones sin inversa, como multiplicar por cero o restarle a una fila ella misma; y creer que equivalente significa igual: las matrices cambian.
+
+15
+00:02:14.850 --> 00:02:23.394
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+16
+00:02:30.383 --> 00:02:56.423
+En resumen: toda solución del sistema viejo cumple el nuevo, porque se combinan igualdades ciertas. Cada operación elemental se deshace con otra elemental, así que el recíproco también vale. Por eso conservan el conjunto solución. Multiplicar por cero no tiene inversa y no está permitido. Siguiente: lección veinticinco, forma escalonada y pivotes.

@@ -1,0 +1,33 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.160
+Lección 11 , Parte 1: Clasificación de los sistemas
+
+2
+00:00:09.160 --> 00:00:12.472
+Clasifiquemos los sistemas lineales.
+
+3
+00:00:12.460 --> 00:00:20.236
+Primera pregunta: ¿tiene al menos una solución? Si no la tiene, el sistema es incompatible.
+
+4
+00:00:20.226 --> 00:00:37.746
+Si la tiene, es compatible, y hay una segunda pregunta: ¿cuántas? Si tiene una sola, es compatible determinado. Si tiene infinitas, compatible indeterminado. Nunca hay un número finito de soluciones mayor que uno.
+
+5
+00:00:37.743 --> 00:00:44.679
+Son los tres casos de rectas de la lección ocho: se cortan, coinciden, o son paralelas.
+
+6
+00:00:46.743 --> 00:01:13.935
+Por ahora los reconocemos combinando ecuaciones. Determinado: un único punto común. Indeterminado: alguna ecuación es redundante, y las soluciones llevan parámetros. Incompatible: combinando ecuaciones se llega a una igualdad falsa. Un sistema homogéneo nunca es incompatible. Y en la unidad siete aprenderemos a clasificar sin resolver, con el rango.
+
+7
+00:01:14.926 --> 00:01:23.470
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+8
+00:01:30.470 --> 00:01:52.310
+En resumen: un sistema es compatible si tiene solución, e incompatible si no tiene. Compatible determinado: una solución. Compatible indeterminado: infinitas. Y un sistema homogéneo siempre es compatible. Siguiente: por qué no hay sistemas con exactamente dos soluciones.

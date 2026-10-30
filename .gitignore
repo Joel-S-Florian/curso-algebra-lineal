@@ -1,0 +1,23 @@
+# Caché y archivos intermedios de Manim (se regeneran)
+media/
+*.wav
+*.log
+__pycache__/
+*.pyc
+
+# Videos de borrador y otras calidades: solo se guardan los de 1080p60
+videos/*/480p15/
+videos/*/720p30/
+videos/*/1440p60/
+videos/*/2160p60/
+
+# Plataforma web: dependencias y salida de compilación (se regeneran con npm install / npm run build)
+plataforma/node_modules/
+plataforma/dist/
+plataforma/*.log
+
+# Editor / sistema
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

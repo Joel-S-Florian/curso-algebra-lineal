@@ -1,0 +1,37 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:05.920
+Lección 46 , Parte 1: Una base del núcleo
+
+2
+00:00:08.916 --> 00:00:20.268
+Vamos a encontrar el núcleo de esta matriz de tres por cuatro, la misma de antes. Resolvemos el sistema homogéneo, y para eso la llevamos a su forma reducida.
+
+3
+00:00:20.266 --> 00:00:32.074
+La reducida tiene pivotes en las columnas uno y tres. Las columnas dos y cuatro no tienen pivote: sus variables, equis dos y equis cuatro, son libres.
+
+4
+00:00:32.066 --> 00:00:45.218
+Despejamos las variables básicas en función de las libres: equis uno es menos dos equis dos menos equis cuatro; equis tres es menos dos equis cuatro. Llamamos ese y te a las dos libres.
+
+5
+00:00:46.216 --> 00:01:07.864
+Escribimos la solución general como vector, y separamos lo que acompaña a ese de lo que acompaña a te. Queda ese por el vector menos dos, uno, cero, cero, más te por el vector menos uno, cero, menos dos, uno. El núcleo es el espacio generado por esos dos vectores, ene uno y ene dos.
+
+6
+00:01:09.850 --> 00:01:43.786
+¿Por qué son una base? Primero, generan el núcleo: toda solución tiene esa forma, porque así la obtuvimos. Segundo, son independientes: en las posiciones de las variables libres, la dos y la cuatro, valen uno, cero para el primero y cero, uno para el segundo. Si ese por ene uno más te por ene dos es el vector nulo, mirando esas dos componentes queda ese igual a cero y te igual a cero. Así, ene uno y ene dos forman una base, y el núcleo tiene dimensión dos.
+
+7
+00:01:45.783 --> 00:02:13.287
+Resumimos la receta. Uno: se reduce la matriz; la columna de ceros no cambia, basta reducir a. Dos: se localizan las variables libres. Tres: por cada variable libre, se pone ella igual a uno y las otras libres a cero, y se calculan las básicas; cada vector así obtenido es un elemento de la base. Cuatro: esos vectores son una base del núcleo.
+
+8
+00:02:14.283 --> 00:02:25.539
+Ejercicio propuesto: halla una base del núcleo de esta matriz y su dimensión. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+9
+00:02:32.533 --> 00:02:53.989
+En resumen: cada variable libre aporta un vector a la base del núcleo. Generan, porque así se obtuvo la solución, y son independientes, por los unos y ceros en las posiciones libres. Y la dimensión del núcleo es el número de variables libres. Siguiente: la nulidad y su relación con el rango.

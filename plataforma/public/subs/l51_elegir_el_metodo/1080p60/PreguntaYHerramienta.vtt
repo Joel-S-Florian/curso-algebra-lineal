@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.088
+Lección 51 , Parte 2: Pregunta y herramienta
+
+2
+00:00:09.083 --> 00:00:29.099
+Esta tabla pone cada pregunta junto a su herramienta. Si el sistema tiene solución: el rango de a igual al de la aumentada. Si es única: el rango igual al número de incógnitas, es decir, núcleo trivial. Cuántos parámetros libres: ene menos el rango, la nulidad.
+
+3
+00:00:29.083 --> 00:00:51.979
+La solución de un sistema con un lado derecho: Gauss y sustitución hacia atrás. Con varios lados derechos: la factorización L U. La solución general: una solución particular más el núcleo. Si be es alcanzable: si está en el espacio columna. Y cuántas ecuaciones no sobran: el rango.
+
+4
+00:00:53.966 --> 00:01:14.966
+Tres hábitos antes de dar un problema por terminado. Uno: comprobar en el sistema original. Dos: comprobar que los rangos son coherentes, que el rango más la nulidad es ene. Y tres: escribir la respuesta como la piden, un punto, una recta, un plano, o que no hay solución.
+
+5
+00:01:15.966 --> 00:01:28.446
+Ejercicio propuesto: decide si estas dos afirmaciones son verdaderas o falsas, y justifica. Pausa el video e inténtalo; en el banco tienes más ejercicios como este.
+
+6
+00:01:35.433 --> 00:01:50.433
+En resumen: cada pregunta tiene su herramienta, y hay tres hábitos al terminar: verificar, comprobar los rangos y responder en la forma pedida. Siguiente: lección cincuenta y dos, problemas integradores.

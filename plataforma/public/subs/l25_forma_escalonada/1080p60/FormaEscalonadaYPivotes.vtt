@@ -1,0 +1,61 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.448
+Lección 25 , Parte 1: Forma escalonada y pivotes
+
+2
+00:00:09.433 --> 00:00:15.961
+¿A qué forma queremos llegar? A esta, la del final de la lección veintitrés.
+
+3
+00:00:15.950 --> 00:00:25.022
+Bajo la escalera solo hay ceros, y cada fila empieza más a la derecha que la anterior. Por eso se resuelve de abajo arriba.
+
+4
+00:00:27.016 --> 00:00:46.912
+Una matriz está en forma escalonada si las filas nulas, si las hay, están abajo, y si la primera entrada no nula de cada fila está más a la derecha que la de la fila de arriba. Esa primera entrada no nula es el pivote de su fila. Y, en consecuencia, debajo de cada pivote solo hay ceros.
+
+5
+00:00:48.900 --> 00:01:08.004
+¿Escalonada o no? La primera sí: la escalera puede saltar columnas. La segunda no: hay una fila nula que no está abajo. La tercera no: debajo del dos hay un uno. Y la cuarta sí: puede empezar con una columna de ceros.
+
+6
+00:01:08.000 --> 00:01:13.136
+Los pivotes no tienen que valer uno: basta con que sean distintos de cero.
+
+7
+00:01:15.133 --> 00:01:22.453
+En esta matriz escalonada, cada columna corresponde a una incógnita: de equis uno a equis cuatro.
+
+8
+00:01:22.450 --> 00:01:26.242
+Los pivotes están en las columnas uno y tres.
+
+9
+00:01:26.233 --> 00:01:40.897
+Las columnas uno y tres son columnas pivote, y equis uno y equis tres son variables pivote. Equis dos y equis cuatro no tienen pivote: serán libres. Hay dos pivotes y cuatro incógnitas.
+
+10
+00:01:40.883 --> 00:01:45.539
+La última fila es cero igual a cero: no aporta nada.
+
+11
+00:01:48.883 --> 00:01:51.067
+Un caso aparte.
+
+12
+00:01:51.066 --> 00:02:02.346
+Esta matriz aumentada está escalonada, pero su último pivote cae en la columna de be: la ecuación dice cero igual a cinco. El sistema no tiene solución.
+
+13
+00:02:04.333 --> 00:02:20.413
+Errores frecuentes: exigir pivotes iguales a uno; pensar que la escalera baja de columna en columna, cuando puede saltar columnas; llamar pivote a cualquier entrada no nula, cuando es la primera de su fila; y olvidar que las filas nulas van al final.
+
+14
+00:02:21.400 --> 00:02:29.944
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+15
+00:02:36.933 --> 00:03:01.317
+En resumen: una matriz es escalonada si las filas nulas están abajo y cada pivote está a la derecha del de arriba, con ceros debajo. El pivote es la primera entrada no nula de una fila; basta con que sea distinto de cero. Y las columnas con pivote dan las variables pivote; las demás serán libres. Siguiente: la forma escalonada no es única.

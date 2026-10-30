@@ -1,0 +1,45 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.640
+Lección 21 , Parte 1: La matriz como transformación del plano
+
+2
+00:00:09.133 --> 00:00:18.133
+Una matriz de dos por dos mueve cada punto equis del plano al punto a por equis. Veamos qué le pasa a todo el plano a la vez.
+
+3
+00:00:18.116 --> 00:00:23.540
+Fijémonos en un vector y en los dos vectores de la base, e uno y e dos.
+
+4
+00:00:23.533 --> 00:00:27.973
+Con esta matriz, uno, uno; cero, uno…
+
+5
+00:00:27.966 --> 00:00:34.950
+…cada punto se desplaza en horizontal tanto como vale su altura: la rejilla se inclina, se cizalla.
+
+6
+00:00:34.950 --> 00:00:40.950
+La cuenta lo confirma: a por equis suma a la primera coordenada el valor de la segunda.
+
+7
+00:00:41.950 --> 00:00:44.350
+Deshacemos el cambio.
+
+8
+00:00:44.950 --> 00:00:51.766
+Con otra matriz, dos, menos uno; uno, uno, la rejilla gira y se estira.
+
+9
+00:00:51.750 --> 00:00:59.502
+Pero las rectas siguen siendo rectas, las paralelas siguen paralelas e igual de separadas, y el origen no se mueve.
+
+10
+00:01:04.750 --> 00:01:13.294
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+11
+00:01:20.283 --> 00:01:39.219
+En resumen: una matriz a de dos por dos mueve cada punto equis del plano al punto a por equis. Las rectas siguen rectas, y las paralelas siguen paralelas y equiespaciadas. Y el origen queda fijo. Siguiente: qué papel juegan las columnas de la matriz.

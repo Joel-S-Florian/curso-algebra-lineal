@@ -1,0 +1,53 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:07.000
+Lección 4 , Parte 3: Implicación, equivalencia y condiciones
+
+2
+00:00:10.000 --> 00:00:23.920
+Una proposición es una frase que es verdadera o falsa. Dos más uno es tres: verdadera. Cinco es menor que dos: falsa. Una pregunta no es una proposición.
+
+3
+00:00:25.916 --> 00:00:34.676
+La flecha doble significa: si, entonces. Si equis es dos, su cuadrado es cuatro: verdadero.
+
+4
+00:00:34.666 --> 00:00:43.474
+Al revés no: equis igual a menos dos también tiene cuadrado cuatro. Basta un contraejemplo para tumbar una implicación.
+
+5
+00:00:45.666 --> 00:00:49.026
+Ser múltiplo de cuatro implica ser par.
+
+6
+00:00:49.016 --> 00:00:56.408
+Decimos que ser múltiplo de cuatro es suficiente para ser par, y que ser par es necesario para ser múltiplo de cuatro.
+
+7
+00:01:00.516 --> 00:01:05.316
+Pero no es suficiente: seis es par y no es múltiplo de cuatro.
+
+8
+00:01:05.316 --> 00:01:11.748
+Fuera de las matemáticas: ser mayor de edad es necesario para votar, pero no suficiente.
+
+9
+00:01:13.733 --> 00:01:28.301
+Cuando la implicación vale en los dos sentidos, decimos: si y solo si. Cada afirmación es condición necesaria y suficiente para la otra. Eso es lo que significaba que dos ecuaciones fueran equivalentes.
+
+10
+00:01:28.300 --> 00:01:35.548
+Una implicación dice lo mismo que su contrarrecíproco: si un número no es par, no es múltiplo de cuatro.
+
+11
+00:01:35.533 --> 00:01:43.477
+Más adelante, el teorema de Rouché-Frobenius será justamente un si y solo si que decide si un sistema tiene solución.
+
+12
+00:01:44.466 --> 00:01:53.010
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+13
+00:02:00.000 --> 00:02:27.768
+En resumen: pe implica cu significa que, si pe es cierta, cu también; el recíproco puede fallar. En esa implicación, pe es suficiente para cu, y cu es necesaria para pe. Si y solo si significa las dos implicaciones: condición necesaria y suficiente. Y un solo contraejemplo basta para refutar una implicación. Siguiente: cómo se demuestra algo.

@@ -1,0 +1,93 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.664
+Lección 24 , Parte 1: Las tres operaciones elementales
+
+2
+00:00:09.650 --> 00:00:19.898
+En la reducción cambiábamos ecuaciones por otras más sencillas. Ahora lo hacemos con las filas de la matriz aumentada, y solo con tres movimientos.
+
+3
+00:00:19.883 --> 00:00:32.315
+Uno: intercambiar dos filas. Dos: multiplicar una fila por un número distinto de cero. Y tres: sumar a una fila un múltiplo de otra fila.
+
+4
+00:00:32.300 --> 00:00:39.260
+Erre uno, erre dos son las filas. La flecha se lee: se sustituye por.
+
+5
+00:00:41.250 --> 00:00:51.762
+Primera operación: intercambiar dos filas. Este sistema tiene un cero arriba, en la primera columna: conviene empezar por la otra ecuación.
+
+6
+00:00:51.750 --> 00:00:55.638
+Intercambiamos la fila uno y la fila dos.
+
+7
+00:00:57.750 --> 00:01:05.934
+Cambiar el orden de las ecuaciones no cambia qué pares las cumplen todas: sigue siendo ye igual a dos, equis igual a uno.
+
+8
+00:01:07.933 --> 00:01:13.285
+Segunda operación: multiplicar una fila por un número distinto de cero.
+
+9
+00:01:13.283 --> 00:01:19.619
+Multiplicar la primera fila por un medio la simplifica: equis más dos ye igual a cinco.
+
+10
+00:01:22.783 --> 00:01:29.935
+Y se puede volver atrás multiplicando por dos. Por eso el número tiene que ser distinto de cero.
+
+11
+00:01:29.933 --> 00:01:33.077
+¿Qué pasa si multiplicamos por cero?
+
+12
+00:01:33.066 --> 00:01:45.762
+La ecuación se convierte en cero igual a cero, que la cumple cualquier par. Cinco, cero cumple el sistema nuevo, pero no tres equis menos ye igual a uno: se perdió una ecuación.
+
+13
+00:01:47.750 --> 00:01:52.694
+Tercera operación: sumar a una fila un múltiplo de otra.
+
+14
+00:01:52.683 --> 00:02:00.243
+Queremos un cero debajo del pivote uno, en amarillo: a la fila dos le restamos tres veces la fila uno.
+
+15
+00:02:03.183 --> 00:02:12.399
+Es la reducción de la lección quince, hecha con números. Solo cambia la fila destino; la fila de origen se queda igual.
+
+16
+00:02:12.383 --> 00:02:16.511
+Multiplicamos la segunda fila por menos un séptimo.
+
+17
+00:02:20.883 --> 00:02:28.563
+Ya se lee la solución: ye igual a dos, y de equis más dos ye igual a cinco, equis igual a uno.
+
+18
+00:02:30.550 --> 00:02:38.278
+Cada operación produce un sistema equivalente: una cadena de matrices distintas, con las mismas soluciones.
+
+19
+00:02:38.266 --> 00:02:43.546
+Todas las matrices de la cadena tienen la misma solución: uno, dos.
+
+20
+00:02:43.533 --> 00:02:48.573
+Por eso entre ellas se escribe el símbolo de equivalencia, no un igual.
+
+21
+00:02:51.533 --> 00:03:06.653
+Errores frecuentes: operar solo los coeficientes y olvidar la columna de be; cambiar también la fila de origen; multiplicar por cero, o sumar a una fila un múltiplo de sí misma; y escribir igual entre matrices que son distintas.
+
+22
+00:03:07.650 --> 00:03:16.194
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+23
+00:03:23.183 --> 00:03:49.727
+En resumen: las operaciones elementales son tres: intercambiar dos filas, multiplicar una fila por un número distinto de cero, y sumar a una fila un múltiplo de otra. Se aplican a la fila entera, columna de be incluida, y solo cambia la fila destino. Cada una da un sistema equivalente, con las mismas soluciones. Siguiente: por qué conservan las soluciones.

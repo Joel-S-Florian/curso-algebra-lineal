@@ -1,0 +1,29 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:07.528
+Lección 36 , Parte 1: Resolver con LU: primero L y = b
+
+2
+00:00:10.516 --> 00:00:30.412
+Para resolver a equis igual a be, si a es ele por u, sustituimos: ele, u, equis, igual a be. Llamamos ye al producto u por equis. Entonces el problema se parte en dos sistemas triangulares: primero, ele ye igual a be; después, u equis igual a ye.
+
+3
+00:00:32.400 --> 00:00:49.416
+Tomemos el ele del ejemplo de la lección treinta y cinco, y be igual a menos tres, uno, dos. Como ele es triangular inferior con unos en la diagonal, sustituimos hacia adelante. La primera fila dice: ye uno es menos tres.
+
+4
+00:00:49.400 --> 00:01:06.896
+La segunda: dos ye uno más ye dos igual a uno. Ye dos vale uno menos dos por menos tres: siete. Y la tercera: menos ye uno, menos tres ye dos, más ye tres, igual a dos. Ye tres vale veinte.
+
+5
+00:01:08.883 --> 00:01:28.731
+¿Y qué es ye? Es la columna de be después de la eliminación. En la lección veintiséis, la matriz aumentada terminó con menos tres, siete, veinte en la última columna: es el mismo ye. Resolver ele ye igual a be es rehacer la eliminación sobre be, sin volver a tocar a.
+
+6
+00:01:29.716 --> 00:01:42.532
+Ejercicio propuesto: resuelve este sistema, ele ye igual a be, por sustitución hacia adelante. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+7
+00:01:49.516 --> 00:02:08.044
+En resumen: a equis igual a be, con a igual a ele u, se parte en ele ye igual a be, y u equis igual a ye. El primero se resuelve hacia adelante, y ye es la columna be después de la eliminación. Siguiente: u equis igual a ye, hacia atrás.

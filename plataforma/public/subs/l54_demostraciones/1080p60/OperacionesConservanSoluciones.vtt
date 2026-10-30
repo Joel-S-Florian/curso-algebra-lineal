@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:07.216
+Lección 54 , Parte 2: Las operaciones no cambian las soluciones
+
+2
+00:00:10.200 --> 00:00:32.280
+Primero un ejemplo. Este sistema tiene la solución equis igual a dos, y igual a uno. Restamos a la segunda ecuación la primera, y queda menos dos y igual a menos dos. Multiplicamos por menos un medio, y queda y igual a uno. En los tres sistemas, el punto dos, uno es solución.
+
+3
+00:00:34.266 --> 00:01:04.338
+Veamos cada operación. Intercambiar dos ecuaciones deja la misma lista, en otro orden. Multiplicar una ecuación por un número ce distinto de cero: se cumple la original exactamente cuando se cumple la multiplicada, porque se puede dividir por ce. Y sumar ce veces una ecuación a otra: si se cumplen las dos, se cumple la suma; y al revés, restando. Así, cada operación se deshace con otra operación elemental.
+
+4
+00:01:06.333 --> 00:01:37.005
+La demostración tiene dos inclusiones. Toda solución del sistema original cumple la ecuación nueva, porque esta es combinación de las originales. Y como la operación se deshace con otra, las ecuaciones originales son combinación de las nuevas, así que toda solución del sistema nuevo lo es del original. Los dos conjuntos coinciden, y tras varias operaciones también. Por eso Gauss y Gauss-Jordan dan siempre las mismas soluciones que el sistema de partida.
+
+5
+00:01:38.000 --> 00:01:50.816
+Ejercicio propuesto: escribe tú la demostración de que las operaciones elementales conservan el conjunto solución. Pausa el video e inténtalo; la demostración está en el solucionario.
+
+6
+00:01:57.800 --> 00:02:14.048
+En resumen: las tres operaciones son reversibles. Se prueban las dos inclusiones. Y por eso los métodos de eliminación son válidos. Siguiente: las demostraciones clave del curso, de un vistazo.

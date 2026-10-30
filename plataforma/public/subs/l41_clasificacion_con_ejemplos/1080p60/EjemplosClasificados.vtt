@@ -1,0 +1,33 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.184
+Lección 41 , Parte 1: Clasificar con ejemplos
+
+2
+00:00:09.183 --> 00:00:23.367
+Primer sistema: tres ecuaciones con tres incógnitas. Los dos rangos valen tres, y hay tres incógnitas: compatible determinado. La solución es uno, dos, tres.
+
+3
+00:00:23.366 --> 00:00:37.334
+Segundo sistema: tres ecuaciones con cuatro incógnitas. Los dos rangos valen dos: es compatible, con cuatro menos dos, dos parámetros. Compatible indeterminado.
+
+4
+00:00:37.333 --> 00:00:53.053
+Tercero: tres ecuaciones con dos incógnitas. El rango de a vale dos, pero el de la aumentada, tres: incompatible. En efecto, equis igual a uno, ye igual a uno, no cumplen la tercera.
+
+5
+00:00:53.050 --> 00:01:08.146
+Y cuarto: dos ecuaciones con tres incógnitas que se contradicen. El rango de a vale uno, y el de la aumentada, dos: incompatible. Tener menos ecuaciones que incógnitas no garantiza que haya solución.
+
+6
+00:01:10.133 --> 00:01:39.077
+Lo que enseña cada ejemplo. Primero: que haya tantas ecuaciones como incógnitas no basta para que sea determinado; lo decide el rango. Segundo: una ecuación puede sobrar, y entonces el rango es menor que el número de ecuaciones. Tercero: con más ecuaciones que incógnitas puede ser incompatible. Y cuarto: con menos ecuaciones que incógnitas, nunca hay solución única, pero puede ser incompatible.
+
+7
+00:01:40.066 --> 00:01:54.106
+Ejercicio propuesto: clasifica estos tres sistemas calculando los dos rangos y, si son compatibles, da la solución. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+8
+00:02:01.100 --> 00:02:20.900
+En resumen: se calculan los rangos de a y de la aumentada, y se comparan con ene. El número de ecuaciones por sí solo no clasifica. Con menos ecuaciones que incógnitas nunca hay solución única, y con más, puede pasar cualquier cosa. Siguiente: un árbol de decisión.

@@ -1,0 +1,4939 @@
+{
+  "totales": {
+    "unidades": 10,
+    "lecciones": 56,
+    "videos": 142
+  },
+  "unidades": [
+    {
+      "numero": 0,
+      "titulo": "Preliminares",
+      "lecciones": [
+        {
+          "id": "L01",
+          "titulo": "Números reales y sus operaciones",
+          "guion": "guiones/l01_numeros_reales.md",
+          "ejercicios": [
+            "F00"
+          ],
+          "videos": [
+            {
+              "leccion": "L01",
+              "numero": 1,
+              "titulo": "Conjuntos numéricos",
+              "ruta": "videos/l01_numeros_reales/1080p60/ConjuntosNumericos.mp4",
+              "duracion": "2:54",
+              "segundos": 174,
+              "srt": "videos/l01_numeros_reales/1080p60/ConjuntosNumericos.srt",
+              "vtt": "subs/l01_numeros_reales/1080p60/ConjuntosNumericos.vtt"
+            },
+            {
+              "leccion": "L01",
+              "numero": 2,
+              "titulo": "Reglas de los signos",
+              "ruta": "videos/l01_numeros_reales/1080p60/ReglasDeSignos.mp4",
+              "duracion": "2:32",
+              "segundos": 152,
+              "srt": "videos/l01_numeros_reales/1080p60/ReglasDeSignos.srt",
+              "vtt": "subs/l01_numeros_reales/1080p60/ReglasDeSignos.vtt"
+            },
+            {
+              "leccion": "L01",
+              "numero": 3,
+              "titulo": "Fracciones",
+              "ruta": "videos/l01_numeros_reales/1080p60/Fracciones.mp4",
+              "duracion": "2:40",
+              "segundos": 160,
+              "srt": "videos/l01_numeros_reales/1080p60/Fracciones.srt",
+              "vtt": "subs/l01_numeros_reales/1080p60/Fracciones.vtt"
+            },
+            {
+              "leccion": "L01",
+              "numero": 4,
+              "titulo": "Propiedades de las operaciones",
+              "ruta": "videos/l01_numeros_reales/1080p60/PropiedadesDeLasOperaciones.mp4",
+              "duracion": "3:01",
+              "segundos": 181,
+              "srt": "videos/l01_numeros_reales/1080p60/PropiedadesDeLasOperaciones.srt",
+              "vtt": "subs/l01_numeros_reales/1080p60/PropiedadesDeLasOperaciones.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L02",
+          "titulo": "Expresiones, igualdades y ecuaciones",
+          "guion": "guiones/l02_expresiones_ecuaciones.md",
+          "ejercicios": [
+            "F00"
+          ],
+          "videos": [
+            {
+              "leccion": "L02",
+              "numero": 1,
+              "titulo": "Variables, términos y coeficientes",
+              "ruta": "videos/l02_expresiones_ecuaciones/1080p60/VariableIncognitaCoeficiente.mp4",
+              "duracion": "3:12",
+              "segundos": 192,
+              "srt": "videos/l02_expresiones_ecuaciones/1080p60/VariableIncognitaCoeficiente.srt",
+              "vtt": "subs/l02_expresiones_ecuaciones/1080p60/VariableIncognitaCoeficiente.vtt"
+            },
+            {
+              "leccion": "L02",
+              "numero": 2,
+              "titulo": "Igualdades y ecuaciones",
+              "ruta": "videos/l02_expresiones_ecuaciones/1080p60/QueEsUnaEcuacion.mp4",
+              "duracion": "2:11",
+              "segundos": 131,
+              "srt": "videos/l02_expresiones_ecuaciones/1080p60/QueEsUnaEcuacion.srt",
+              "vtt": "subs/l02_expresiones_ecuaciones/1080p60/QueEsUnaEcuacion.vtt"
+            },
+            {
+              "leccion": "L02",
+              "numero": 3,
+              "titulo": "Transformar sin cambiar soluciones",
+              "ruta": "videos/l02_expresiones_ecuaciones/1080p60/TransformacionesQueConservanSoluciones.mp4",
+              "duracion": "2:59",
+              "segundos": 179,
+              "srt": "videos/l02_expresiones_ecuaciones/1080p60/TransformacionesQueConservanSoluciones.srt",
+              "vtt": "subs/l02_expresiones_ecuaciones/1080p60/TransformacionesQueConservanSoluciones.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L03",
+          "titulo": "Coordenadas: la recta, el plano y el espacio",
+          "guion": "guiones/l03_coordenadas.md",
+          "ejercicios": [
+            "F00"
+          ],
+          "videos": [
+            {
+              "leccion": "L03",
+              "numero": 1,
+              "titulo": "Plano cartesiano",
+              "ruta": "videos/l03_coordenadas/1080p60/ParesOrdenados.mp4",
+              "duracion": "1:55",
+              "segundos": 115,
+              "srt": "videos/l03_coordenadas/1080p60/ParesOrdenados.srt",
+              "vtt": "subs/l03_coordenadas/1080p60/ParesOrdenados.vtt"
+            },
+            {
+              "leccion": "L03",
+              "numero": 2,
+              "titulo": "La gráfica de una ecuación",
+              "ruta": "videos/l03_coordenadas/1080p60/GraficaComoConjuntoDePuntos.mp4",
+              "duracion": "1:47",
+              "segundos": 107,
+              "srt": "videos/l03_coordenadas/1080p60/GraficaComoConjuntoDePuntos.srt",
+              "vtt": "subs/l03_coordenadas/1080p60/GraficaComoConjuntoDePuntos.vtt"
+            },
+            {
+              "leccion": "L03",
+              "numero": 3,
+              "titulo": "Pendiente y forma ax + by = c",
+              "ruta": "videos/l03_coordenadas/1080p60/PendienteDeUnaRecta.mp4",
+              "duracion": "2:40",
+              "segundos": 160,
+              "srt": "videos/l03_coordenadas/1080p60/PendienteDeUnaRecta.srt",
+              "vtt": "subs/l03_coordenadas/1080p60/PendienteDeUnaRecta.vtt"
+            },
+            {
+              "leccion": "L03",
+              "numero": 4,
+              "titulo": "El espacio de tres coordenadas",
+              "ruta": "videos/l03_coordenadas/1080p60/EspacioTresCoordenadas.mp4",
+              "duracion": "1:54",
+              "segundos": 114,
+              "srt": "videos/l03_coordenadas/1080p60/EspacioTresCoordenadas.srt",
+              "vtt": "subs/l03_coordenadas/1080p60/EspacioTresCoordenadas.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L04",
+          "titulo": "Lenguaje matemático: conjuntos, subíndices, sumatorios y lógica",
+          "guion": "guiones/l04_lenguaje_matematico.md",
+          "ejercicios": [
+            "F00"
+          ],
+          "videos": [
+            {
+              "leccion": "L04",
+              "numero": 1,
+              "titulo": "Conjuntos",
+              "ruta": "videos/l04_lenguaje_matematico/1080p60/ConjuntosYPertenencia.mp4",
+              "duracion": "2:23",
+              "segundos": 143,
+              "srt": "videos/l04_lenguaje_matematico/1080p60/ConjuntosYPertenencia.srt",
+              "vtt": "subs/l04_lenguaje_matematico/1080p60/ConjuntosYPertenencia.vtt"
+            },
+            {
+              "leccion": "L04",
+              "numero": 2,
+              "titulo": "Subíndices y sumatorios",
+              "ruta": "videos/l04_lenguaje_matematico/1080p60/SubindicesYSumatorio.mp4",
+              "duracion": "2:40",
+              "segundos": 160,
+              "srt": "videos/l04_lenguaje_matematico/1080p60/SubindicesYSumatorio.srt",
+              "vtt": "subs/l04_lenguaje_matematico/1080p60/SubindicesYSumatorio.vtt"
+            },
+            {
+              "leccion": "L04",
+              "numero": 3,
+              "titulo": "Implicación y equivalencia",
+              "ruta": "videos/l04_lenguaje_matematico/1080p60/ImplicacionYEquivalencia.mp4",
+              "duracion": "2:34",
+              "segundos": 154,
+              "srt": "videos/l04_lenguaje_matematico/1080p60/ImplicacionYEquivalencia.srt",
+              "vtt": "subs/l04_lenguaje_matematico/1080p60/ImplicacionYEquivalencia.vtt"
+            },
+            {
+              "leccion": "L04",
+              "numero": 4,
+              "titulo": "¿Cómo se demuestra algo?",
+              "ruta": "videos/l04_lenguaje_matematico/1080p60/ComoSeDemuestraAlgo.mp4",
+              "duracion": "2:36",
+              "segundos": 156,
+              "srt": "videos/l04_lenguaje_matematico/1080p60/ComoSeDemuestraAlgo.srt",
+              "vtt": "subs/l04_lenguaje_matematico/1080p60/ComoSeDemuestraAlgo.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L00",
+          "titulo": "Bienvenida y prueba del entorno",
+          "guion": "guiones/l00_prueba_entorno.md",
+          "ejercicios": [],
+          "videos": [
+            {
+              "leccion": "L00",
+              "numero": 1,
+              "titulo": "Prueba del entorno",
+              "ruta": "videos/l00_prueba_entorno/1080p60/PruebaEntorno.mp4",
+              "duracion": "2:31",
+              "segundos": 151,
+              "srt": "videos/l00_prueba_entorno/1080p60/PruebaEntorno.srt",
+              "vtt": "subs/l00_prueba_entorno/1080p60/PruebaEntorno.vtt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 1,
+      "titulo": "Fundamentos de ecuaciones lineales",
+      "lecciones": [
+        {
+          "id": "L05",
+          "titulo": "¿Qué es una ecuación lineal?",
+          "guion": "guiones/l05_ecuacion_lineal.md",
+          "ejercicios": [
+            "F01"
+          ],
+          "videos": [
+            {
+              "leccion": "L05",
+              "numero": 1,
+              "titulo": "Definición de ecuación lineal",
+              "ruta": "videos/l05_ecuacion_lineal/1080p60/DefinicionEcuacionLineal.mp4",
+              "duracion": "2:12",
+              "segundos": 132,
+              "srt": "videos/l05_ecuacion_lineal/1080p60/DefinicionEcuacionLineal.srt",
+              "vtt": "subs/l05_ecuacion_lineal/1080p60/DefinicionEcuacionLineal.vtt"
+            },
+            {
+              "leccion": "L05",
+              "numero": 2,
+              "titulo": "Lineal o no lineal",
+              "ruta": "videos/l05_ecuacion_lineal/1080p60/LinealVsNoLineal.mp4",
+              "duracion": "1:56",
+              "segundos": 116,
+              "srt": "videos/l05_ecuacion_lineal/1080p60/LinealVsNoLineal.srt",
+              "vtt": "subs/l05_ecuacion_lineal/1080p60/LinealVsNoLineal.vtt"
+            },
+            {
+              "leccion": "L05",
+              "numero": 3,
+              "titulo": "Trampas de linealidad",
+              "ruta": "videos/l05_ecuacion_lineal/1080p60/TrampasDeLinealidad.mp4",
+              "duracion": "2:29",
+              "segundos": 149,
+              "srt": "videos/l05_ecuacion_lineal/1080p60/TrampasDeLinealidad.srt",
+              "vtt": "subs/l05_ecuacion_lineal/1080p60/TrampasDeLinealidad.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L06",
+          "titulo": "Ecuaciones lineales con una incógnita: $ax = b$",
+          "guion": "guiones/l06_una_incognita.md",
+          "ejercicios": [
+            "F01"
+          ],
+          "videos": [
+            {
+              "leccion": "L06",
+              "numero": 1,
+              "titulo": "Despeje justificado",
+              "ruta": "videos/l06_una_incognita/1080p60/DespejeJustificado.mp4",
+              "duracion": "3:08",
+              "segundos": 188,
+              "srt": "videos/l06_una_incognita/1080p60/DespejeJustificado.srt",
+              "vtt": "subs/l06_una_incognita/1080p60/DespejeJustificado.vtt"
+            },
+            {
+              "leccion": "L06",
+              "numero": 2,
+              "titulo": "ax = b: los tres casos",
+              "ruta": "videos/l06_una_incognita/1080p60/LosTresCasos.mp4",
+              "duracion": "2:15",
+              "segundos": 135,
+              "srt": "videos/l06_una_incognita/1080p60/LosTresCasos.srt",
+              "vtt": "subs/l06_una_incognita/1080p60/LosTresCasos.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L07",
+          "titulo": "Ecuaciones con dos y tres incógnitas: rectas, planos y parámetros",
+          "guion": "guiones/l07_dos_y_tres_incognitas.md",
+          "ejercicios": [
+            "F02"
+          ],
+          "videos": [
+            {
+              "leccion": "L07",
+              "numero": 1,
+              "titulo": "Infinitas soluciones de una ecuación",
+              "ruta": "videos/l07_dos_y_tres_incognitas/1080p60/InfinitasSolucionesDeUnaEcuacion.mp4",
+              "duracion": "1:56",
+              "segundos": 116,
+              "srt": "videos/l07_dos_y_tres_incognitas/1080p60/InfinitasSolucionesDeUnaEcuacion.srt",
+              "vtt": "subs/l07_dos_y_tres_incognitas/1080p60/InfinitasSolucionesDeUnaEcuacion.vtt"
+            },
+            {
+              "leccion": "L07",
+              "numero": 2,
+              "titulo": "ax + by = c es una recta",
+              "ruta": "videos/l07_dos_y_tres_incognitas/1080p60/EcuacionComoRecta.mp4",
+              "duracion": "1:52",
+              "segundos": 112,
+              "srt": "videos/l07_dos_y_tres_incognitas/1080p60/EcuacionComoRecta.srt",
+              "vtt": "subs/l07_dos_y_tres_incognitas/1080p60/EcuacionComoRecta.vtt"
+            },
+            {
+              "leccion": "L07",
+              "numero": 3,
+              "titulo": "ax + by + cz = d es un plano (3D)",
+              "ruta": "videos/l07_dos_y_tres_incognitas/1080p60/EcuacionComoPlano.mp4",
+              "duracion": "1:32",
+              "segundos": 92,
+              "srt": "videos/l07_dos_y_tres_incognitas/1080p60/EcuacionComoPlano.srt",
+              "vtt": "subs/l07_dos_y_tres_incognitas/1080p60/EcuacionComoPlano.vtt"
+            },
+            {
+              "leccion": "L07",
+              "numero": 4,
+              "titulo": "Parámetros",
+              "ruta": "videos/l07_dos_y_tres_incognitas/1080p60/ParametrizarUnaRecta.mp4",
+              "duracion": "1:57",
+              "segundos": 117,
+              "srt": "videos/l07_dos_y_tres_incognitas/1080p60/ParametrizarUnaRecta.srt",
+              "vtt": "subs/l07_dos_y_tres_incognitas/1080p60/ParametrizarUnaRecta.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L08",
+          "titulo": "Sistemas de dos ecuaciones con dos incógnitas",
+          "guion": "guiones/l08_sistemas_2x2.md",
+          "ejercicios": [
+            "F03"
+          ],
+          "videos": [
+            {
+              "leccion": "L08",
+              "numero": 1,
+              "titulo": "¿Qué es un sistema?",
+              "ruta": "videos/l08_sistemas_2x2/1080p60/QueEsUnSistema.mp4",
+              "duracion": "2:34",
+              "segundos": 154,
+              "srt": "videos/l08_sistemas_2x2/1080p60/QueEsUnSistema.srt",
+              "vtt": "subs/l08_sistemas_2x2/1080p60/QueEsUnSistema.vtt"
+            },
+            {
+              "leccion": "L08",
+              "numero": 2,
+              "titulo": "Rectas que se cortan",
+              "ruta": "videos/l08_sistemas_2x2/1080p60/RectasQueSeCortan.mp4",
+              "duracion": "2:14",
+              "segundos": 134,
+              "srt": "videos/l08_sistemas_2x2/1080p60/RectasQueSeCortan.srt",
+              "vtt": "subs/l08_sistemas_2x2/1080p60/RectasQueSeCortan.vtt"
+            },
+            {
+              "leccion": "L08",
+              "numero": 3,
+              "titulo": "Rectas paralelas",
+              "ruta": "videos/l08_sistemas_2x2/1080p60/RectasParalelas.mp4",
+              "duracion": "1:59",
+              "segundos": 119,
+              "srt": "videos/l08_sistemas_2x2/1080p60/RectasParalelas.srt",
+              "vtt": "subs/l08_sistemas_2x2/1080p60/RectasParalelas.vtt"
+            },
+            {
+              "leccion": "L08",
+              "numero": 4,
+              "titulo": "Rectas coincidentes",
+              "ruta": "videos/l08_sistemas_2x2/1080p60/RectasCoincidentes.mp4",
+              "duracion": "2:05",
+              "segundos": 125,
+              "srt": "videos/l08_sistemas_2x2/1080p60/RectasCoincidentes.srt",
+              "vtt": "subs/l08_sistemas_2x2/1080p60/RectasCoincidentes.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L09",
+          "titulo": "Sistemas de tres ecuaciones con tres incógnitas: tres planos",
+          "guion": "guiones/l09_sistemas_3x3.md",
+          "ejercicios": [
+            "F03"
+          ],
+          "videos": [
+            {
+              "leccion": "L09",
+              "numero": 1,
+              "titulo": "Tres planos, un punto (3D)",
+              "ruta": "videos/l09_sistemas_3x3/1080p60/TresPlanosUnPunto.mp4",
+              "duracion": "1:53",
+              "segundos": 113,
+              "srt": "videos/l09_sistemas_3x3/1080p60/TresPlanosUnPunto.srt",
+              "vtt": "subs/l09_sistemas_3x3/1080p60/TresPlanosUnPunto.vtt"
+            },
+            {
+              "leccion": "L09",
+              "numero": 2,
+              "titulo": "Tres planos, una recta (3D)",
+              "ruta": "videos/l09_sistemas_3x3/1080p60/TresPlanosUnaRecta.mp4",
+              "duracion": "1:57",
+              "segundos": 117,
+              "srt": "videos/l09_sistemas_3x3/1080p60/TresPlanosUnaRecta.srt",
+              "vtt": "subs/l09_sistemas_3x3/1080p60/TresPlanosUnaRecta.vtt"
+            },
+            {
+              "leccion": "L09",
+              "numero": 3,
+              "titulo": "Tres planos sin punto común (3D)",
+              "ruta": "videos/l09_sistemas_3x3/1080p60/TresPlanosSinPuntoComun.mp4",
+              "duracion": "2:00",
+              "segundos": 120,
+              "srt": "videos/l09_sistemas_3x3/1080p60/TresPlanosSinPuntoComun.srt",
+              "vtt": "subs/l09_sistemas_3x3/1080p60/TresPlanosSinPuntoComun.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L10",
+          "titulo": "Sistemas de m ecuaciones con n incógnitas; sistemas homogéneos",
+          "guion": "guiones/l10_sistemas_mxn.md",
+          "ejercicios": [
+            "F03"
+          ],
+          "videos": [
+            {
+              "leccion": "L10",
+              "numero": 1,
+              "titulo": "Notación general m × n",
+              "ruta": "videos/l10_sistemas_mxn/1080p60/NotacionGeneral.mp4",
+              "duracion": "2:04",
+              "segundos": 124,
+              "srt": "videos/l10_sistemas_mxn/1080p60/NotacionGeneral.srt",
+              "vtt": "subs/l10_sistemas_mxn/1080p60/NotacionGeneral.vtt"
+            },
+            {
+              "leccion": "L10",
+              "numero": 2,
+              "titulo": "Hiperplanos y límites del dibujo",
+              "ruta": "videos/l10_sistemas_mxn/1080p60/HiperplanosYLimitesDelDibujo.mp4",
+              "duracion": "1:55",
+              "segundos": 115,
+              "srt": "videos/l10_sistemas_mxn/1080p60/HiperplanosYLimitesDelDibujo.srt",
+              "vtt": "subs/l10_sistemas_mxn/1080p60/HiperplanosYLimitesDelDibujo.vtt"
+            },
+            {
+              "leccion": "L10",
+              "numero": 3,
+              "titulo": "Sistemas homogéneos",
+              "ruta": "videos/l10_sistemas_mxn/1080p60/SistemasHomogeneos.mp4",
+              "duracion": "1:54",
+              "segundos": 114,
+              "srt": "videos/l10_sistemas_mxn/1080p60/SistemasHomogeneos.srt",
+              "vtt": "subs/l10_sistemas_mxn/1080p60/SistemasHomogeneos.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L11",
+          "titulo": "Clasificación de sistemas: ¿por qué 0, 1 o infinitas soluciones?",
+          "guion": "guiones/l11_clasificacion.md",
+          "ejercicios": [
+            "F03"
+          ],
+          "videos": [
+            {
+              "leccion": "L11",
+              "numero": 1,
+              "titulo": "Clasificación: SCD, SCI, SI",
+              "ruta": "videos/l11_clasificacion/1080p60/ClasificacionDeSistemas.mp4",
+              "duracion": "1:58",
+              "segundos": 118,
+              "srt": "videos/l11_clasificacion/1080p60/ClasificacionDeSistemas.srt",
+              "vtt": "subs/l11_clasificacion/1080p60/ClasificacionDeSistemas.vtt"
+            },
+            {
+              "leccion": "L11",
+              "numero": 2,
+              "titulo": "Nunca exactamente dos soluciones",
+              "ruta": "videos/l11_clasificacion/1080p60/NuncaExactamenteDos.mp4",
+              "duracion": "2:25",
+              "segundos": 145,
+              "srt": "videos/l11_clasificacion/1080p60/NuncaExactamenteDos.srt",
+              "vtt": "subs/l11_clasificacion/1080p60/NuncaExactamenteDos.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L12",
+          "titulo": "Casos especiales y errores frecuentes del Bloque I",
+          "guion": "guiones/l12_casos_especiales.md",
+          "ejercicios": [
+            "F03"
+          ],
+          "videos": [
+            {
+              "leccion": "L12",
+              "numero": 1,
+              "titulo": "Más ecuaciones que incógnitas",
+              "ruta": "videos/l12_casos_especiales/1080p60/MasEcuacionesQueIncognitas.mp4",
+              "duracion": "1:57",
+              "segundos": 117,
+              "srt": "videos/l12_casos_especiales/1080p60/MasEcuacionesQueIncognitas.srt",
+              "vtt": "subs/l12_casos_especiales/1080p60/MasEcuacionesQueIncognitas.vtt"
+            },
+            {
+              "leccion": "L12",
+              "numero": 2,
+              "titulo": "Menos ecuaciones que incógnitas (3D)",
+              "ruta": "videos/l12_casos_especiales/1080p60/MenosEcuacionesQueIncognitas.mp4",
+              "duracion": "1:40",
+              "segundos": 100,
+              "srt": "videos/l12_casos_especiales/1080p60/MenosEcuacionesQueIncognitas.srt",
+              "vtt": "subs/l12_casos_especiales/1080p60/MenosEcuacionesQueIncognitas.vtt"
+            },
+            {
+              "leccion": "L12",
+              "numero": 3,
+              "titulo": "Errores frecuentes",
+              "ruta": "videos/l12_casos_especiales/1080p60/ErroresFrecuentesBloqueI.mp4",
+              "duracion": "2:07",
+              "segundos": 127,
+              "srt": "videos/l12_casos_especiales/1080p60/ErroresFrecuentesBloqueI.srt",
+              "vtt": "subs/l12_casos_especiales/1080p60/ErroresFrecuentesBloqueI.vtt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Métodos elementales",
+      "lecciones": [
+        {
+          "id": "L13",
+          "titulo": "El método de sustitución",
+          "guion": "guiones/l13_sustitucion.md",
+          "ejercicios": [
+            "F04"
+          ],
+          "videos": [
+            {
+              "leccion": "L13",
+              "numero": 1,
+              "titulo": "Sustitución paso a paso",
+              "ruta": "videos/l13_sustitucion/1080p60/SustitucionPasoAPaso.mp4",
+              "duracion": "2:40",
+              "segundos": 160,
+              "srt": "videos/l13_sustitucion/1080p60/SustitucionPasoAPaso.srt",
+              "vtt": "subs/l13_sustitucion/1080p60/SustitucionPasoAPaso.vtt"
+            },
+            {
+              "leccion": "L13",
+              "numero": 2,
+              "titulo": "¿Cuándo conviene sustituir?",
+              "ruta": "videos/l13_sustitucion/1080p60/SustitucionCuandoConviene.mp4",
+              "duracion": "2:04",
+              "segundos": 124,
+              "srt": "videos/l13_sustitucion/1080p60/SustitucionCuandoConviene.srt",
+              "vtt": "subs/l13_sustitucion/1080p60/SustitucionCuandoConviene.vtt"
+            },
+            {
+              "leccion": "L13",
+              "numero": 3,
+              "titulo": "Cuando la incógnita desaparece",
+              "ruta": "videos/l13_sustitucion/1080p60/SustitucionCasosEspeciales.mp4",
+              "duracion": "2:27",
+              "segundos": 147,
+              "srt": "videos/l13_sustitucion/1080p60/SustitucionCasosEspeciales.srt",
+              "vtt": "subs/l13_sustitucion/1080p60/SustitucionCasosEspeciales.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L14",
+          "titulo": "El método de igualación",
+          "guion": "guiones/l14_igualacion.md",
+          "ejercicios": [
+            "F04"
+          ],
+          "videos": [
+            {
+              "leccion": "L14",
+              "numero": 1,
+              "titulo": "Igualación paso a paso",
+              "ruta": "videos/l14_igualacion/1080p60/IgualacionPasoAPaso.mp4",
+              "duracion": "2:04",
+              "segundos": 124,
+              "srt": "videos/l14_igualacion/1080p60/IgualacionPasoAPaso.srt",
+              "vtt": "subs/l14_igualacion/1080p60/IgualacionPasoAPaso.vtt"
+            },
+            {
+              "leccion": "L14",
+              "numero": 2,
+              "titulo": "Igualar es buscar la misma altura",
+              "ruta": "videos/l14_igualacion/1080p60/IgualacionInterpretacion.mp4",
+              "duracion": "2:18",
+              "segundos": 138,
+              "srt": "videos/l14_igualacion/1080p60/IgualacionInterpretacion.srt",
+              "vtt": "subs/l14_igualacion/1080p60/IgualacionInterpretacion.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L15",
+          "titulo": "El método de reducción y comparación de métodos",
+          "guion": "guiones/l15_reduccion.md",
+          "ejercicios": [
+            "F04"
+          ],
+          "videos": [
+            {
+              "leccion": "L15",
+              "numero": 1,
+              "titulo": "Reducción paso a paso",
+              "ruta": "videos/l15_reduccion/1080p60/ReduccionPasoAPaso.mp4",
+              "duracion": "2:15",
+              "segundos": 135,
+              "srt": "videos/l15_reduccion/1080p60/ReduccionPasoAPaso.srt",
+              "vtt": "subs/l15_reduccion/1080p60/ReduccionPasoAPaso.vtt"
+            },
+            {
+              "leccion": "L15",
+              "numero": 2,
+              "titulo": "Por qué reducir conserva las soluciones",
+              "ruta": "videos/l15_reduccion/1080p60/PorQueReduccionConservaSoluciones.mp4",
+              "duracion": "2:45",
+              "segundos": 165,
+              "srt": "videos/l15_reduccion/1080p60/PorQueReduccionConservaSoluciones.srt",
+              "vtt": "subs/l15_reduccion/1080p60/PorQueReduccionConservaSoluciones.vtt"
+            },
+            {
+              "leccion": "L15",
+              "numero": 3,
+              "titulo": "¿Qué método elegir?",
+              "ruta": "videos/l15_reduccion/1080p60/ComparacionDeMetodos.mp4",
+              "duracion": "2:18",
+              "segundos": 138,
+              "srt": "videos/l15_reduccion/1080p60/ComparacionDeMetodos.srt",
+              "vtt": "subs/l15_reduccion/1080p60/ComparacionDeMetodos.vtt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Matrices y Ax = b",
+      "lecciones": [
+        {
+          "id": "L16",
+          "titulo": "Matrices: dimensión, filas, columnas, elementos y tipos",
+          "guion": "guiones/l16_matrices.md",
+          "ejercicios": [
+            "F05"
+          ],
+          "videos": [
+            {
+              "leccion": "L16",
+              "numero": 1,
+              "titulo": "¿Qué es una matriz?",
+              "ruta": "videos/l16_matrices/1080p60/QueEsUnaMatriz.mp4",
+              "duracion": "2:23",
+              "segundos": 143,
+              "srt": "videos/l16_matrices/1080p60/QueEsUnaMatriz.srt",
+              "vtt": "subs/l16_matrices/1080p60/QueEsUnaMatriz.vtt"
+            },
+            {
+              "leccion": "L16",
+              "numero": 2,
+              "titulo": "Tipos de matrices",
+              "ruta": "videos/l16_matrices/1080p60/TiposDeMatrices.mp4",
+              "duracion": "1:50",
+              "segundos": 110,
+              "srt": "videos/l16_matrices/1080p60/TiposDeMatrices.srt",
+              "vtt": "subs/l16_matrices/1080p60/TiposDeMatrices.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L17",
+          "titulo": "Vectores: flecha, punto, fila y columna; suma, escalar y combinación lineal",
+          "guion": "guiones/l17_vectores.md",
+          "ejercicios": [
+            "F05"
+          ],
+          "videos": [
+            {
+              "leccion": "L17",
+              "numero": 1,
+              "titulo": "¿Qué es un vector?",
+              "ruta": "videos/l17_vectores/1080p60/VectorComoFlechaYComoPunto.mp4",
+              "duracion": "1:48",
+              "segundos": 108,
+              "srt": "videos/l17_vectores/1080p60/VectorComoFlechaYComoPunto.srt",
+              "vtt": "subs/l17_vectores/1080p60/VectorComoFlechaYComoPunto.vtt"
+            },
+            {
+              "leccion": "L17",
+              "numero": 2,
+              "titulo": "Suma y escalar",
+              "ruta": "videos/l17_vectores/1080p60/SumaYEscalarGeometricos.mp4",
+              "duracion": "2:03",
+              "segundos": 123,
+              "srt": "videos/l17_vectores/1080p60/SumaYEscalarGeometricos.srt",
+              "vtt": "subs/l17_vectores/1080p60/SumaYEscalarGeometricos.vtt"
+            },
+            {
+              "leccion": "L17",
+              "numero": 3,
+              "titulo": "Combinaciones lineales",
+              "ruta": "videos/l17_vectores/1080p60/PrimeraCombinacionLineal.mp4",
+              "duracion": "1:54",
+              "segundos": 114,
+              "srt": "videos/l17_vectores/1080p60/PrimeraCombinacionLineal.srt",
+              "vtt": "subs/l17_vectores/1080p60/PrimeraCombinacionLineal.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L18",
+          "titulo": "Suma de matrices y producto por un escalar",
+          "guion": "guiones/l18_suma_y_escalar.md",
+          "ejercicios": [
+            "F05"
+          ],
+          "videos": [
+            {
+              "leccion": "L18",
+              "numero": 1,
+              "titulo": "Suma de matrices",
+              "ruta": "videos/l18_suma_y_escalar/1080p60/SumaDeMatrices.mp4",
+              "duracion": "1:21",
+              "segundos": 81,
+              "srt": "videos/l18_suma_y_escalar/1080p60/SumaDeMatrices.srt",
+              "vtt": "subs/l18_suma_y_escalar/1080p60/SumaDeMatrices.vtt"
+            },
+            {
+              "leccion": "L18",
+              "numero": 2,
+              "titulo": "Escalar y propiedades",
+              "ruta": "videos/l18_suma_y_escalar/1080p60/ProductoPorEscalarYPropiedades.mp4",
+              "duracion": "1:59",
+              "segundos": 119,
+              "srt": "videos/l18_suma_y_escalar/1080p60/ProductoPorEscalarYPropiedades.srt",
+              "vtt": "subs/l18_suma_y_escalar/1080p60/ProductoPorEscalarYPropiedades.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L19",
+          "titulo": "Producto de una matriz por un vector: dos miradas",
+          "guion": "guiones/l19_matriz_por_vector.md",
+          "ejercicios": [
+            "F06"
+          ],
+          "videos": [
+            {
+              "leccion": "L19",
+              "numero": 1,
+              "titulo": "Fila por columna",
+              "ruta": "videos/l19_matriz_por_vector/1080p60/FilaPorColumna.mp4",
+              "duracion": "2:06",
+              "segundos": 126,
+              "srt": "videos/l19_matriz_por_vector/1080p60/FilaPorColumna.srt",
+              "vtt": "subs/l19_matriz_por_vector/1080p60/FilaPorColumna.vtt"
+            },
+            {
+              "leccion": "L19",
+              "numero": 2,
+              "titulo": "Combinación de columnas",
+              "ruta": "videos/l19_matriz_por_vector/1080p60/ComoCombinacionDeColumnas.mp4",
+              "duracion": "1:57",
+              "segundos": 117,
+              "srt": "videos/l19_matriz_por_vector/1080p60/ComoCombinacionDeColumnas.srt",
+              "vtt": "subs/l19_matriz_por_vector/1080p60/ComoCombinacionDeColumnas.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L20",
+          "titulo": "Producto de matrices",
+          "guion": "guiones/l20_producto_matricial.md",
+          "ejercicios": [
+            "F06"
+          ],
+          "videos": [
+            {
+              "leccion": "L20",
+              "numero": 1,
+              "titulo": "Producto de matrices",
+              "ruta": "videos/l20_producto_matricial/1080p60/DimensionesYProcedimiento.mp4",
+              "duracion": "2:04",
+              "segundos": 124,
+              "srt": "videos/l20_producto_matricial/1080p60/DimensionesYProcedimiento.srt",
+              "vtt": "subs/l20_producto_matricial/1080p60/DimensionesYProcedimiento.vtt"
+            },
+            {
+              "leccion": "L20",
+              "numero": 2,
+              "titulo": "AB y BA, identidad",
+              "ruta": "videos/l20_producto_matricial/1080p60/NoConmutatividadEIdentidad.mp4",
+              "duracion": "2:11",
+              "segundos": 131,
+              "srt": "videos/l20_producto_matricial/1080p60/NoConmutatividadEIdentidad.srt",
+              "vtt": "subs/l20_producto_matricial/1080p60/NoConmutatividadEIdentidad.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L21",
+          "titulo": "La matriz como transformación lineal del plano",
+          "guion": "guiones/l21_transformaciones.md",
+          "ejercicios": [
+            "F06"
+          ],
+          "videos": [
+            {
+              "leccion": "L21",
+              "numero": 1,
+              "titulo": "La rejilla se deforma",
+              "ruta": "videos/l21_transformaciones/1080p60/LaRejillaSeDeforma.mp4",
+              "duracion": "1:39",
+              "segundos": 99,
+              "srt": "videos/l21_transformaciones/1080p60/LaRejillaSeDeforma.srt",
+              "vtt": "subs/l21_transformaciones/1080p60/LaRejillaSeDeforma.vtt"
+            },
+            {
+              "leccion": "L21",
+              "numero": 2,
+              "titulo": "Las columnas y la base",
+              "ruta": "videos/l21_transformaciones/1080p60/ColumnasSonImagenesDeLaBase.mp4",
+              "duracion": "1:35",
+              "segundos": 95,
+              "srt": "videos/l21_transformaciones/1080p60/ColumnasSonImagenesDeLaBase.srt",
+              "vtt": "subs/l21_transformaciones/1080p60/ColumnasSonImagenesDeLaBase.vtt"
+            },
+            {
+              "leccion": "L21",
+              "numero": 3,
+              "titulo": "¿Qué significa lineal?",
+              "ruta": "videos/l21_transformaciones/1080p60/QueSignificaLineal.mp4",
+              "duracion": "2:02",
+              "segundos": 122,
+              "srt": "videos/l21_transformaciones/1080p60/QueSignificaLineal.srt",
+              "vtt": "subs/l21_transformaciones/1080p60/QueSignificaLineal.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L22",
+          "titulo": "De sistema a Ax = b",
+          "guion": "guiones/l22_forma_matricial.md",
+          "ejercicios": [
+            "F07"
+          ],
+          "videos": [
+            {
+              "leccion": "L22",
+              "numero": 1,
+              "titulo": "Construir Ax = b",
+              "ruta": "videos/l22_forma_matricial/1080p60/ConstruirAxb.mp4",
+              "duracion": "2:16",
+              "segundos": 136,
+              "srt": "videos/l22_forma_matricial/1080p60/ConstruirAxb.srt",
+              "vtt": "subs/l22_forma_matricial/1080p60/ConstruirAxb.vtt"
+            },
+            {
+              "leccion": "L22",
+              "numero": 2,
+              "titulo": "Ax reproduce el sistema",
+              "ruta": "videos/l22_forma_matricial/1080p60/AxReproduceLasEcuaciones.mp4",
+              "duracion": "1:55",
+              "segundos": 115,
+              "srt": "videos/l22_forma_matricial/1080p60/AxReproduceLasEcuaciones.srt",
+              "vtt": "subs/l22_forma_matricial/1080p60/AxReproduceLasEcuaciones.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L23",
+          "titulo": "Matriz aumentada y sistemas equivalentes",
+          "guion": "guiones/l23_matriz_aumentada.md",
+          "ejercicios": [
+            "F07"
+          ],
+          "videos": [
+            {
+              "leccion": "L23",
+              "numero": 1,
+              "titulo": "Matriz aumentada",
+              "ruta": "videos/l23_matriz_aumentada/1080p60/SistemaAMatrizAumentada.mp4",
+              "duracion": "2:14",
+              "segundos": 134,
+              "srt": "videos/l23_matriz_aumentada/1080p60/SistemaAMatrizAumentada.srt",
+              "vtt": "subs/l23_matriz_aumentada/1080p60/SistemaAMatrizAumentada.vtt"
+            },
+            {
+              "leccion": "L23",
+              "numero": 2,
+              "titulo": "Sistemas equivalentes",
+              "ruta": "videos/l23_matriz_aumentada/1080p60/SistemasEquivalentes.mp4",
+              "duracion": "1:53",
+              "segundos": 113,
+              "srt": "videos/l23_matriz_aumentada/1080p60/SistemasEquivalentes.srt",
+              "vtt": "subs/l23_matriz_aumentada/1080p60/SistemasEquivalentes.vtt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Eliminación de Gauss",
+      "lecciones": [
+        {
+          "id": "L24",
+          "titulo": "Operaciones elementales por filas",
+          "guion": "guiones/l24_operaciones_elementales.md",
+          "ejercicios": [
+            "F08"
+          ],
+          "videos": [
+            {
+              "leccion": "L24",
+              "numero": 1,
+              "titulo": "Las tres operaciones elementales",
+              "ruta": "videos/l24_operaciones_elementales/1080p60/OperacionesElementales.mp4",
+              "duracion": "3:56",
+              "segundos": 236,
+              "srt": "videos/l24_operaciones_elementales/1080p60/OperacionesElementales.srt",
+              "vtt": "subs/l24_operaciones_elementales/1080p60/OperacionesElementales.vtt"
+            },
+            {
+              "leccion": "L24",
+              "numero": 2,
+              "titulo": "Cada operación se puede deshacer",
+              "ruta": "videos/l24_operaciones_elementales/1080p60/CadaOperacionSeDeshace.mp4",
+              "duracion": "3:02",
+              "segundos": 182,
+              "srt": "videos/l24_operaciones_elementales/1080p60/CadaOperacionSeDeshace.srt",
+              "vtt": "subs/l24_operaciones_elementales/1080p60/CadaOperacionSeDeshace.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L25",
+          "titulo": "Forma escalonada y pivotes",
+          "guion": "guiones/l25_forma_escalonada.md",
+          "ejercicios": [
+            "F08"
+          ],
+          "videos": [
+            {
+              "leccion": "L25",
+              "numero": 1,
+              "titulo": "Forma escalonada y pivotes",
+              "ruta": "videos/l25_forma_escalonada/1080p60/FormaEscalonadaYPivotes.mp4",
+              "duracion": "3:07",
+              "segundos": 187,
+              "srt": "videos/l25_forma_escalonada/1080p60/FormaEscalonadaYPivotes.srt",
+              "vtt": "subs/l25_forma_escalonada/1080p60/FormaEscalonadaYPivotes.vtt"
+            },
+            {
+              "leccion": "L25",
+              "numero": 2,
+              "titulo": "La forma escalonada no es única",
+              "ruta": "videos/l25_forma_escalonada/1080p60/LaEscalonadaNoEsUnica.mp4",
+              "duracion": "2:15",
+              "segundos": 135,
+              "srt": "videos/l25_forma_escalonada/1080p60/LaEscalonadaNoEsUnica.srt",
+              "vtt": "subs/l25_forma_escalonada/1080p60/LaEscalonadaNoEsUnica.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L26",
+          "titulo": "Eliminación hacia adelante y sustitución hacia atrás",
+          "guion": "guiones/l26_eliminacion_gauss.md",
+          "ejercicios": [
+            "F08"
+          ],
+          "videos": [
+            {
+              "leccion": "L26",
+              "numero": 1,
+              "titulo": "Gauss en un sistema 2 × 2",
+              "ruta": "videos/l26_eliminacion_gauss/1080p60/GaussDosPorDos.mp4",
+              "duracion": "3:23",
+              "segundos": 203,
+              "srt": "videos/l26_eliminacion_gauss/1080p60/GaussDosPorDos.srt",
+              "vtt": "subs/l26_eliminacion_gauss/1080p60/GaussDosPorDos.vtt"
+            },
+            {
+              "leccion": "L26",
+              "numero": 2,
+              "titulo": "Gauss en un sistema 3 × 3",
+              "ruta": "videos/l26_eliminacion_gauss/1080p60/GaussTresPorTres.mp4",
+              "duracion": "3:15",
+              "segundos": 195,
+              "srt": "videos/l26_eliminacion_gauss/1080p60/GaussTresPorTres.srt",
+              "vtt": "subs/l26_eliminacion_gauss/1080p60/GaussTresPorTres.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L27",
+          "titulo": "Pivotes nulos y filas nulas",
+          "guion": "guiones/l27_pivotes_nulos.md",
+          "ejercicios": [
+            "F08"
+          ],
+          "videos": [
+            {
+              "leccion": "L27",
+              "numero": 1,
+              "titulo": "Cuando el pivote vale 0",
+              "ruta": "videos/l27_pivotes_nulos/1080p60/PivoteCeroIntercambio.mp4",
+              "duracion": "3:31",
+              "segundos": 211,
+              "srt": "videos/l27_pivotes_nulos/1080p60/PivoteCeroIntercambio.srt",
+              "vtt": "subs/l27_pivotes_nulos/1080p60/PivoteCeroIntercambio.vtt"
+            },
+            {
+              "leccion": "L27",
+              "numero": 2,
+              "titulo": "Filas nulas y ecuaciones redundantes",
+              "ruta": "videos/l27_pivotes_nulos/1080p60/FilaNulaEcuacionRedundante.mp4",
+              "duracion": "3:17",
+              "segundos": 197,
+              "srt": "videos/l27_pivotes_nulos/1080p60/FilaNulaEcuacionRedundante.srt",
+              "vtt": "subs/l27_pivotes_nulos/1080p60/FilaNulaEcuacionRedundante.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L28",
+          "titulo": "Sistemas sin solución y con infinitas soluciones",
+          "guion": "guiones/l28_sin_solucion_e_infinitas.md",
+          "ejercicios": [
+            "F08"
+          ],
+          "videos": [
+            {
+              "leccion": "L28",
+              "numero": 1,
+              "titulo": "Cuando aparece 0 = c",
+              "ruta": "videos/l28_sin_solucion_e_infinitas/1080p60/FilaContradictoria.mp4",
+              "duracion": "2:49",
+              "segundos": 169,
+              "srt": "videos/l28_sin_solucion_e_infinitas/1080p60/FilaContradictoria.srt",
+              "vtt": "subs/l28_sin_solucion_e_infinitas/1080p60/FilaContradictoria.vtt"
+            },
+            {
+              "leccion": "L28",
+              "numero": 2,
+              "titulo": "Variables libres y solución paramétrica",
+              "ruta": "videos/l28_sin_solucion_e_infinitas/1080p60/VariablesLibresYSolucionParametrica.mp4",
+              "duracion": "3:21",
+              "segundos": 201,
+              "srt": "videos/l28_sin_solucion_e_infinitas/1080p60/VariablesLibresYSolucionParametrica.srt",
+              "vtt": "subs/l28_sin_solucion_e_infinitas/1080p60/VariablesLibresYSolucionParametrica.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L29",
+          "titulo": "Sistemas con parámetros",
+          "guion": "guiones/l29_sistemas_con_parametros.md",
+          "ejercicios": [
+            "F08"
+          ],
+          "videos": [
+            {
+              "leccion": "L29",
+              "numero": 1,
+              "titulo": "Gauss con un parámetro",
+              "ruta": "videos/l29_sistemas_con_parametros/1080p60/GaussConParametro.mp4",
+              "duracion": "3:01",
+              "segundos": 181,
+              "srt": "videos/l29_sistemas_con_parametros/1080p60/GaussConParametro.srt",
+              "vtt": "subs/l29_sistemas_con_parametros/1080p60/GaussConParametro.vtt"
+            },
+            {
+              "leccion": "L29",
+              "numero": 2,
+              "titulo": "Discutir por casos",
+              "ruta": "videos/l29_sistemas_con_parametros/1080p60/DiscutirPorCasos.mp4",
+              "duracion": "2:58",
+              "segundos": 178,
+              "srt": "videos/l29_sistemas_con_parametros/1080p60/DiscutirPorCasos.srt",
+              "vtt": "subs/l29_sistemas_con_parametros/1080p60/DiscutirPorCasos.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L30",
+          "titulo": "Errores frecuentes en Gauss y cómo verificar",
+          "guion": "guiones/l30_errores_frecuentes.md",
+          "ejercicios": [
+            "F08"
+          ],
+          "videos": [
+            {
+              "leccion": "L30",
+              "numero": 1,
+              "titulo": "Errores frecuentes en Gauss",
+              "ruta": "videos/l30_errores_frecuentes/1080p60/ErroresFrecuentesGauss.mp4",
+              "duracion": "3:04",
+              "segundos": 184,
+              "srt": "videos/l30_errores_frecuentes/1080p60/ErroresFrecuentesGauss.srt",
+              "vtt": "subs/l30_errores_frecuentes/1080p60/ErroresFrecuentesGauss.vtt"
+            },
+            {
+              "leccion": "L30",
+              "numero": 2,
+              "titulo": "Verificar siempre",
+              "ruta": "videos/l30_errores_frecuentes/1080p60/VerificarSiempre.mp4",
+              "duracion": "2:26",
+              "segundos": 146,
+              "srt": "videos/l30_errores_frecuentes/1080p60/VerificarSiempre.srt",
+              "vtt": "subs/l30_errores_frecuentes/1080p60/VerificarSiempre.vtt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titulo": "Gauss-Jordan",
+      "lecciones": [
+        {
+          "id": "L31",
+          "titulo": "Forma escalonada reducida (Gauss-Jordan)",
+          "guion": "guiones/l31_escalonada_reducida.md",
+          "ejercicios": [
+            "F09"
+          ],
+          "videos": [
+            {
+              "leccion": "L31",
+              "numero": 1,
+              "titulo": "De la escalonada a la reducida",
+              "ruta": "videos/l31_escalonada_reducida/1080p60/DeEscalonadaAReducida.mp4",
+              "duracion": "2:36",
+              "segundos": 156,
+              "srt": "videos/l31_escalonada_reducida/1080p60/DeEscalonadaAReducida.srt",
+              "vtt": "subs/l31_escalonada_reducida/1080p60/DeEscalonadaAReducida.vtt"
+            },
+            {
+              "leccion": "L31",
+              "numero": 2,
+              "titulo": "Gauss-Jordan paso a paso",
+              "ruta": "videos/l31_escalonada_reducida/1080p60/EliminarArribaYAbajo.mp4",
+              "duracion": "3:14",
+              "segundos": 194,
+              "srt": "videos/l31_escalonada_reducida/1080p60/EliminarArribaYAbajo.srt",
+              "vtt": "subs/l31_escalonada_reducida/1080p60/EliminarArribaYAbajo.vtt"
+            },
+            {
+              "leccion": "L31",
+              "numero": 3,
+              "titulo": "La reducida es única",
+              "ruta": "videos/l31_escalonada_reducida/1080p60/LaReducidaEsUnica.mp4",
+              "duracion": "3:03",
+              "segundos": 183,
+              "srt": "videos/l31_escalonada_reducida/1080p60/LaReducidaEsUnica.srt",
+              "vtt": "subs/l31_escalonada_reducida/1080p60/LaReducidaEsUnica.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L32",
+          "titulo": "Variables básicas y libres: leer la solución",
+          "guion": "guiones/l32_basicas_y_libres.md",
+          "ejercicios": [
+            "F09"
+          ],
+          "videos": [
+            {
+              "leccion": "L32",
+              "numero": 1,
+              "titulo": "Leer la solución",
+              "ruta": "videos/l32_basicas_y_libres/1080p60/LeerLaSolucion.mp4",
+              "duracion": "2:58",
+              "segundos": 178,
+              "srt": "videos/l32_basicas_y_libres/1080p60/LeerLaSolucion.srt",
+              "vtt": "subs/l32_basicas_y_libres/1080p60/LeerLaSolucion.vtt"
+            },
+            {
+              "leccion": "L32",
+              "numero": 2,
+              "titulo": "Tres finales posibles",
+              "ruta": "videos/l32_basicas_y_libres/1080p60/TresFinalesPosibles.mp4",
+              "duracion": "2:41",
+              "segundos": 161,
+              "srt": "videos/l32_basicas_y_libres/1080p60/TresFinalesPosibles.srt",
+              "vtt": "subs/l32_basicas_y_libres/1080p60/TresFinalesPosibles.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L33",
+          "titulo": "Gauss frente a Gauss-Jordan",
+          "guion": "guiones/l33_gauss_frente_a_jordan.md",
+          "ejercicios": [
+            "F09"
+          ],
+          "videos": [
+            {
+              "leccion": "L33",
+              "numero": 1,
+              "titulo": "Contar operaciones",
+              "ruta": "videos/l33_gauss_frente_a_jordan/1080p60/ContarOperaciones.mp4",
+              "duracion": "3:08",
+              "segundos": 188,
+              "srt": "videos/l33_gauss_frente_a_jordan/1080p60/ContarOperaciones.srt",
+              "vtt": "subs/l33_gauss_frente_a_jordan/1080p60/ContarOperaciones.vtt"
+            },
+            {
+              "leccion": "L33",
+              "numero": 2,
+              "titulo": "Cuándo conviene cada uno",
+              "ruta": "videos/l33_gauss_frente_a_jordan/1080p60/CuandoConvieneCadaUno.mp4",
+              "duracion": "2:36",
+              "segundos": 156,
+              "srt": "videos/l33_gauss_frente_a_jordan/1080p60/CuandoConvieneCadaUno.srt",
+              "vtt": "subs/l33_gauss_frente_a_jordan/1080p60/CuandoConvieneCadaUno.vtt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titulo": "Factorización LU",
+      "lecciones": [
+        {
+          "id": "L34",
+          "titulo": "Factorizar, matrices triangulares y matrices elementales",
+          "guion": "guiones/l34_factorizar_y_triangulares.md",
+          "ejercicios": [
+            "F10"
+          ],
+          "videos": [
+            {
+              "leccion": "L34",
+              "numero": 1,
+              "titulo": "Qué es factorizar",
+              "ruta": "videos/l34_factorizar_y_triangulares/1080p60/QueEsFactorizar.mp4",
+              "duracion": "2:10",
+              "segundos": 130,
+              "srt": "videos/l34_factorizar_y_triangulares/1080p60/QueEsFactorizar.srt",
+              "vtt": "subs/l34_factorizar_y_triangulares/1080p60/QueEsFactorizar.vtt"
+            },
+            {
+              "leccion": "L34",
+              "numero": 2,
+              "titulo": "Triangulares y sustitución",
+              "ruta": "videos/l34_factorizar_y_triangulares/1080p60/TriangularesYSustitucion.mp4",
+              "duracion": "2:20",
+              "segundos": 140,
+              "srt": "videos/l34_factorizar_y_triangulares/1080p60/TriangularesYSustitucion.srt",
+              "vtt": "subs/l34_factorizar_y_triangulares/1080p60/TriangularesYSustitucion.vtt"
+            },
+            {
+              "leccion": "L34",
+              "numero": 3,
+              "titulo": "Matrices elementales",
+              "ruta": "videos/l34_factorizar_y_triangulares/1080p60/MatricesElementales.mp4",
+              "duracion": "2:43",
+              "segundos": 163,
+              "srt": "videos/l34_factorizar_y_triangulares/1080p60/MatricesElementales.srt",
+              "vtt": "subs/l34_factorizar_y_triangulares/1080p60/MatricesElementales.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L35",
+          "titulo": "De dónde sale A = LU",
+          "guion": "guiones/l35_de_donde_sale_lu.md",
+          "ejercicios": [
+            "F10"
+          ],
+          "videos": [
+            {
+              "leccion": "L35",
+              "numero": 1,
+              "titulo": "Los multiplicadores se guardan",
+              "ruta": "videos/l35_de_donde_sale_lu/1080p60/LosMultiplicadoresSeGuardan.mp4",
+              "duracion": "2:35",
+              "segundos": 155,
+              "srt": "videos/l35_de_donde_sale_lu/1080p60/LosMultiplicadoresSeGuardan.srt",
+              "vtt": "subs/l35_de_donde_sale_lu/1080p60/LosMultiplicadoresSeGuardan.vtt"
+            },
+            {
+              "leccion": "L35",
+              "numero": 2,
+              "titulo": "Construir L y U",
+              "ruta": "videos/l35_de_donde_sale_lu/1080p60/ConstruirLyU.mp4",
+              "duracion": "2:38",
+              "segundos": 158,
+              "srt": "videos/l35_de_donde_sale_lu/1080p60/ConstruirLyU.srt",
+              "vtt": "subs/l35_de_donde_sale_lu/1080p60/ConstruirLyU.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L36",
+          "titulo": "Resolver con LU",
+          "guion": "guiones/l36_resolver_con_lu.md",
+          "ejercicios": [
+            "F10"
+          ],
+          "videos": [
+            {
+              "leccion": "L36",
+              "numero": 1,
+              "titulo": "Hacia adelante: L y = b",
+              "ruta": "videos/l36_resolver_con_lu/1080p60/SustitucionHaciaAdelanteLy.mp4",
+              "duracion": "2:14",
+              "segundos": 134,
+              "srt": "videos/l36_resolver_con_lu/1080p60/SustitucionHaciaAdelanteLy.srt",
+              "vtt": "subs/l36_resolver_con_lu/1080p60/SustitucionHaciaAdelanteLy.vtt"
+            },
+            {
+              "leccion": "L36",
+              "numero": 2,
+              "titulo": "Hacia atrás: U x = y",
+              "ruta": "videos/l36_resolver_con_lu/1080p60/SustitucionHaciaAtrasUx.mp4",
+              "duracion": "2:21",
+              "segundos": 141,
+              "srt": "videos/l36_resolver_con_lu/1080p60/SustitucionHaciaAtrasUx.srt",
+              "vtt": "subs/l36_resolver_con_lu/1080p60/SustitucionHaciaAtrasUx.vtt"
+            },
+            {
+              "leccion": "L36",
+              "numero": 3,
+              "titulo": "Ejemplo completo",
+              "ruta": "videos/l36_resolver_con_lu/1080p60/EjemploCompletoLU.mp4",
+              "duracion": "2:59",
+              "segundos": 179,
+              "srt": "videos/l36_resolver_con_lu/1080p60/EjemploCompletoLU.srt",
+              "vtt": "subs/l36_resolver_con_lu/1080p60/EjemploCompletoLU.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L37",
+          "titulo": "Cuando LU falla: permutaciones y PA = LU",
+          "guion": "guiones/l37_permutaciones_pa_lu.md",
+          "ejercicios": [
+            "F10"
+          ],
+          "videos": [
+            {
+              "leccion": "L37",
+              "numero": 1,
+              "titulo": "Cuando LU falla",
+              "ruta": "videos/l37_permutaciones_pa_lu/1080p60/CuandoLUFalla.mp4",
+              "duracion": "2:38",
+              "segundos": 158,
+              "srt": "videos/l37_permutaciones_pa_lu/1080p60/CuandoLUFalla.srt",
+              "vtt": "subs/l37_permutaciones_pa_lu/1080p60/CuandoLUFalla.vtt"
+            },
+            {
+              "leccion": "L37",
+              "numero": 2,
+              "titulo": "Matrices de permutación",
+              "ruta": "videos/l37_permutaciones_pa_lu/1080p60/MatricesDePermutacion.mp4",
+              "duracion": "2:08",
+              "segundos": 128,
+              "srt": "videos/l37_permutaciones_pa_lu/1080p60/MatricesDePermutacion.srt",
+              "vtt": "subs/l37_permutaciones_pa_lu/1080p60/MatricesDePermutacion.vtt"
+            },
+            {
+              "leccion": "L37",
+              "numero": 3,
+              "titulo": "Pivoteo parcial",
+              "ruta": "videos/l37_permutaciones_pa_lu/1080p60/PivoteoParcial.mp4",
+              "duracion": "3:20",
+              "segundos": 200,
+              "srt": "videos/l37_permutaciones_pa_lu/1080p60/PivoteoParcial.srt",
+              "vtt": "subs/l37_permutaciones_pa_lu/1080p60/PivoteoParcial.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L38",
+          "titulo": "Comparación y aplicaciones",
+          "guion": "guiones/l38_comparacion_y_aplicaciones.md",
+          "ejercicios": [
+            "F10"
+          ],
+          "videos": [
+            {
+              "leccion": "L38",
+              "numero": 1,
+              "titulo": "Muchos lados derechos",
+              "ruta": "videos/l38_comparacion_y_aplicaciones/1080p60/MuchosLadosDerechos.mp4",
+              "duracion": "3:07",
+              "segundos": 187,
+              "srt": "videos/l38_comparacion_y_aplicaciones/1080p60/MuchosLadosDerechos.srt",
+              "vtt": "subs/l38_comparacion_y_aplicaciones/1080p60/MuchosLadosDerechos.vtt"
+            },
+            {
+              "leccion": "L38",
+              "numero": 2,
+              "titulo": "Tabla comparativa",
+              "ruta": "videos/l38_comparacion_y_aplicaciones/1080p60/TablaComparativa.mp4",
+              "duracion": "2:32",
+              "segundos": 152,
+              "srt": "videos/l38_comparacion_y_aplicaciones/1080p60/TablaComparativa.srt",
+              "vtt": "subs/l38_comparacion_y_aplicaciones/1080p60/TablaComparativa.vtt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titulo": "Rango y Rouché-Frobenius",
+      "lecciones": [
+        {
+          "id": "L39",
+          "titulo": "El rango de una matriz",
+          "guion": "guiones/l39_rango.md",
+          "ejercicios": [
+            "F11"
+          ],
+          "videos": [
+            {
+              "leccion": "L39",
+              "numero": 1,
+              "titulo": "El rango como número de pivotes",
+              "ruta": "videos/l39_rango/1080p60/RangoComoNumeroDePivotes.mp4",
+              "duracion": "2:28",
+              "segundos": 148,
+              "srt": "videos/l39_rango/1080p60/RangoComoNumeroDePivotes.srt",
+              "vtt": "subs/l39_rango/1080p60/RangoComoNumeroDePivotes.vtt"
+            },
+            {
+              "leccion": "L39",
+              "numero": 2,
+              "titulo": "Rango de A y de la aumentada",
+              "ruta": "videos/l39_rango/1080p60/RangoDeAyDeAumentada.mp4",
+              "duracion": "1:50",
+              "segundos": 110,
+              "srt": "videos/l39_rango/1080p60/RangoDeAyDeAumentada.srt",
+              "vtt": "subs/l39_rango/1080p60/RangoDeAyDeAumentada.vtt"
+            },
+            {
+              "leccion": "L39",
+              "numero": 3,
+              "titulo": "El rango no es el número de ecuaciones",
+              "ruta": "videos/l39_rango/1080p60/RangoNoEsNumeroDeEcuaciones.mp4",
+              "duracion": "1:57",
+              "segundos": 117,
+              "srt": "videos/l39_rango/1080p60/RangoNoEsNumeroDeEcuaciones.srt",
+              "vtt": "subs/l39_rango/1080p60/RangoNoEsNumeroDeEcuaciones.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L40",
+          "titulo": "El teorema de Rouché-Frobenius",
+          "guion": "guiones/l40_rouche_frobenius.md",
+          "ejercicios": [
+            "F11"
+          ],
+          "videos": [
+            {
+              "leccion": "L40",
+              "numero": 1,
+              "titulo": "Enunciado",
+              "ruta": "videos/l40_rouche_frobenius/1080p60/EnunciadoRF.mp4",
+              "duracion": "2:33",
+              "segundos": 153,
+              "srt": "videos/l40_rouche_frobenius/1080p60/EnunciadoRF.srt",
+              "vtt": "subs/l40_rouche_frobenius/1080p60/EnunciadoRF.vtt"
+            },
+            {
+              "leccion": "L40",
+              "numero": 2,
+              "titulo": "Demostración",
+              "ruta": "videos/l40_rouche_frobenius/1080p60/DemostracionRF.mp4",
+              "duracion": "2:40",
+              "segundos": 160,
+              "srt": "videos/l40_rouche_frobenius/1080p60/DemostracionRF.srt",
+              "vtt": "subs/l40_rouche_frobenius/1080p60/DemostracionRF.vtt"
+            },
+            {
+              "leccion": "L40",
+              "numero": 3,
+              "titulo": "Incógnitas, rango y libres",
+              "ruta": "videos/l40_rouche_frobenius/1080p60/IncognitasRangoYLibres.mp4",
+              "duracion": "2:10",
+              "segundos": 130,
+              "srt": "videos/l40_rouche_frobenius/1080p60/IncognitasRangoYLibres.srt",
+              "vtt": "subs/l40_rouche_frobenius/1080p60/IncognitasRangoYLibres.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L41",
+          "titulo": "Clasificación con ejemplos y árbol de decisión",
+          "guion": "guiones/l41_clasificacion_con_ejemplos.md",
+          "ejercicios": [
+            "F11"
+          ],
+          "videos": [
+            {
+              "leccion": "L41",
+              "numero": 1,
+              "titulo": "Ejemplos clasificados",
+              "ruta": "videos/l41_clasificacion_con_ejemplos/1080p60/EjemplosClasificados.mp4",
+              "duracion": "2:27",
+              "segundos": 147,
+              "srt": "videos/l41_clasificacion_con_ejemplos/1080p60/EjemplosClasificados.srt",
+              "vtt": "subs/l41_clasificacion_con_ejemplos/1080p60/EjemplosClasificados.vtt"
+            },
+            {
+              "leccion": "L41",
+              "numero": 2,
+              "titulo": "Árbol de decisión",
+              "ruta": "videos/l41_clasificacion_con_ejemplos/1080p60/ArbolDeDecision.mp4",
+              "duracion": "2:16",
+              "segundos": 136,
+              "srt": "videos/l41_clasificacion_con_ejemplos/1080p60/ArbolDeDecision.srt",
+              "vtt": "subs/l41_clasificacion_con_ejemplos/1080p60/ArbolDeDecision.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L42",
+          "titulo": "Discusión con parámetros y clasificación sin resolver",
+          "guion": "guiones/l42_discusion_con_parametros.md",
+          "ejercicios": [
+            "F11"
+          ],
+          "videos": [
+            {
+              "leccion": "L42",
+              "numero": 1,
+              "titulo": "Discusión con un parámetro",
+              "ruta": "videos/l42_discusion_con_parametros/1080p60/DiscusionConParametro.mp4",
+              "duracion": "2:23",
+              "segundos": 143,
+              "srt": "videos/l42_discusion_con_parametros/1080p60/DiscusionConParametro.srt",
+              "vtt": "subs/l42_discusion_con_parametros/1080p60/DiscusionConParametro.vtt"
+            },
+            {
+              "leccion": "L42",
+              "numero": 2,
+              "titulo": "Clasificar sin resolver",
+              "ruta": "videos/l42_discusion_con_parametros/1080p60/ClasificarSinResolver.mp4",
+              "duracion": "2:41",
+              "segundos": 161,
+              "srt": "videos/l42_discusion_con_parametros/1080p60/ClasificarSinResolver.srt",
+              "vtt": "subs/l42_discusion_con_parametros/1080p60/ClasificarSinResolver.vtt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titulo": "Núcleo e imagen",
+      "lecciones": [
+        {
+          "id": "L43",
+          "titulo": "Combinaciones lineales y espacio generado",
+          "guion": "guiones/l43_combinaciones_y_generado.md",
+          "ejercicios": [
+            "F12"
+          ],
+          "videos": [
+            {
+              "leccion": "L43",
+              "numero": 1,
+              "titulo": "Combinaciones lineales",
+              "ruta": "videos/l43_combinaciones_y_generado/1080p60/CombinacionLinealGeometrica.mp4",
+              "duracion": "2:30",
+              "segundos": 150,
+              "srt": "videos/l43_combinaciones_y_generado/1080p60/CombinacionLinealGeometrica.srt",
+              "vtt": "subs/l43_combinaciones_y_generado/1080p60/CombinacionLinealGeometrica.vtt"
+            },
+            {
+              "leccion": "L43",
+              "numero": 2,
+              "titulo": "El espacio generado",
+              "ruta": "videos/l43_combinaciones_y_generado/1080p60/EspacioGenerado.mp4",
+              "duracion": "2:23",
+              "segundos": 143,
+              "srt": "videos/l43_combinaciones_y_generado/1080p60/EspacioGenerado.srt",
+              "vtt": "subs/l43_combinaciones_y_generado/1080p60/EspacioGenerado.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L44",
+          "titulo": "Independencia lineal, base y dimensión",
+          "guion": "guiones/l44_independencia_base_dimension.md",
+          "ejercicios": [
+            "F12"
+          ],
+          "videos": [
+            {
+              "leccion": "L44",
+              "numero": 1,
+              "titulo": "Dependencia e independencia",
+              "ruta": "videos/l44_independencia_base_dimension/1080p60/DependenciaLineal.mp4",
+              "duracion": "2:17",
+              "segundos": 137,
+              "srt": "videos/l44_independencia_base_dimension/1080p60/DependenciaLineal.srt",
+              "vtt": "subs/l44_independencia_base_dimension/1080p60/DependenciaLineal.vtt"
+            },
+            {
+              "leccion": "L44",
+              "numero": 2,
+              "titulo": "Cómo comprobar la independencia",
+              "ruta": "videos/l44_independencia_base_dimension/1080p60/ComoComprobarIndependencia.mp4",
+              "duracion": "2:35",
+              "segundos": 155,
+              "srt": "videos/l44_independencia_base_dimension/1080p60/ComoComprobarIndependencia.srt",
+              "vtt": "subs/l44_independencia_base_dimension/1080p60/ComoComprobarIndependencia.vtt"
+            },
+            {
+              "leccion": "L44",
+              "numero": 3,
+              "titulo": "Base y dimensión",
+              "ruta": "videos/l44_independencia_base_dimension/1080p60/BaseYDimension.mp4",
+              "duracion": "2:31",
+              "segundos": 151,
+              "srt": "videos/l44_independencia_base_dimension/1080p60/BaseYDimension.srt",
+              "vtt": "subs/l44_independencia_base_dimension/1080p60/BaseYDimension.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L45",
+          "titulo": "El núcleo de una matriz",
+          "guion": "guiones/l45_el_nucleo.md",
+          "ejercicios": [
+            "F13"
+          ],
+          "videos": [
+            {
+              "leccion": "L45",
+              "numero": 1,
+              "titulo": "El núcleo de una matriz",
+              "ruta": "videos/l45_el_nucleo/1080p60/DefinicionNucleo.mp4",
+              "duracion": "2:55",
+              "segundos": 175,
+              "srt": "videos/l45_el_nucleo/1080p60/DefinicionNucleo.srt",
+              "vtt": "subs/l45_el_nucleo/1080p60/DefinicionNucleo.vtt"
+            },
+            {
+              "leccion": "L45",
+              "numero": 2,
+              "titulo": "¿Está un vector en el núcleo?",
+              "ruta": "videos/l45_el_nucleo/1080p60/ComprobarSiUnVectorEstaEnElNucleo.mp4",
+              "duracion": "2:18",
+              "segundos": 138,
+              "srt": "videos/l45_el_nucleo/1080p60/ComprobarSiUnVectorEstaEnElNucleo.srt",
+              "vtt": "subs/l45_el_nucleo/1080p60/ComprobarSiUnVectorEstaEnElNucleo.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L46",
+          "titulo": "Base del núcleo y nulidad",
+          "guion": "guiones/l46_base_y_nulidad.md",
+          "ejercicios": [
+            "F13"
+          ],
+          "videos": [
+            {
+              "leccion": "L46",
+              "numero": 1,
+              "titulo": "Una base del núcleo",
+              "ruta": "videos/l46_base_y_nulidad/1080p60/VariablesLibresDanLaBase.mp4",
+              "duracion": "3:00",
+              "segundos": 180,
+              "srt": "videos/l46_base_y_nulidad/1080p60/VariablesLibresDanLaBase.srt",
+              "vtt": "subs/l46_base_y_nulidad/1080p60/VariablesLibresDanLaBase.vtt"
+            },
+            {
+              "leccion": "L46",
+              "numero": 2,
+              "titulo": "La nulidad",
+              "ruta": "videos/l46_base_y_nulidad/1080p60/Nulidad.mp4",
+              "duracion": "2:23",
+              "segundos": 143,
+              "srt": "videos/l46_base_y_nulidad/1080p60/Nulidad.srt",
+              "vtt": "subs/l46_base_y_nulidad/1080p60/Nulidad.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L47",
+          "titulo": "Estructura de las soluciones: $\\mathbf{x} = \\mathbf{x}_p + \\mathbf{n}$",
+          "guion": "guiones/l47_estructura_de_las_soluciones.md",
+          "ejercicios": [
+            "F13"
+          ],
+          "videos": [
+            {
+              "leccion": "L47",
+              "numero": 1,
+              "titulo": "Una solución más el núcleo",
+              "ruta": "videos/l47_estructura_de_las_soluciones/1080p60/SolucionParticularMasNucleo.mp4",
+              "duracion": "2:43",
+              "segundos": 163,
+              "srt": "videos/l47_estructura_de_las_soluciones/1080p60/SolucionParticularMasNucleo.srt",
+              "vtt": "subs/l47_estructura_de_las_soluciones/1080p60/SolucionParticularMasNucleo.vtt"
+            },
+            {
+              "leccion": "L47",
+              "numero": 2,
+              "titulo": "La recta trasladada",
+              "ruta": "videos/l47_estructura_de_las_soluciones/1080p60/RectaTrasladada.mp4",
+              "duracion": "2:19",
+              "segundos": 139,
+              "srt": "videos/l47_estructura_de_las_soluciones/1080p60/RectaTrasladada.srt",
+              "vtt": "subs/l47_estructura_de_las_soluciones/1080p60/RectaTrasladada.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L48",
+          "titulo": "Espacio columna e imagen",
+          "guion": "guiones/l48_espacio_columna_e_imagen.md",
+          "ejercicios": [
+            "F14"
+          ],
+          "videos": [
+            {
+              "leccion": "L48",
+              "numero": 1,
+              "titulo": "A x como combinación de columnas",
+              "ruta": "videos/l48_espacio_columna_e_imagen/1080p60/AxEsCombinacionDeColumnas.mp4",
+              "duracion": "2:27",
+              "segundos": 147,
+              "srt": "videos/l48_espacio_columna_e_imagen/1080p60/AxEsCombinacionDeColumnas.srt",
+              "vtt": "subs/l48_espacio_columna_e_imagen/1080p60/AxEsCombinacionDeColumnas.vtt"
+            },
+            {
+              "leccion": "L48",
+              "numero": 2,
+              "titulo": "¿Cuándo tiene solución A x = b?",
+              "ruta": "videos/l48_espacio_columna_e_imagen/1080p60/ExisteSolucionSiiBEnCol.mp4",
+              "duracion": "2:36",
+              "segundos": 156,
+              "srt": "videos/l48_espacio_columna_e_imagen/1080p60/ExisteSolucionSiiBEnCol.srt",
+              "vtt": "subs/l48_espacio_columna_e_imagen/1080p60/ExisteSolucionSiiBEnCol.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L49",
+          "titulo": "Una base del espacio columna",
+          "guion": "guiones/l49_base_del_espacio_columna.md",
+          "ejercicios": [
+            "F14"
+          ],
+          "videos": [
+            {
+              "leccion": "L49",
+              "numero": 1,
+              "titulo": "Una base del espacio columna",
+              "ruta": "videos/l49_base_del_espacio_columna/1080p60/ColumnasPivote.mp4",
+              "duracion": "2:16",
+              "segundos": 136,
+              "srt": "videos/l49_base_del_espacio_columna/1080p60/ColumnasPivote.srt",
+              "vtt": "subs/l49_base_del_espacio_columna/1080p60/ColumnasPivote.vtt"
+            },
+            {
+              "leccion": "L49",
+              "numero": 2,
+              "titulo": "¿Por qué las de la original?",
+              "ruta": "videos/l49_base_del_espacio_columna/1080p60/PorQueEnLaMatrizOriginal.mp4",
+              "duracion": "2:30",
+              "segundos": 150,
+              "srt": "videos/l49_base_del_espacio_columna/1080p60/PorQueEnLaMatrizOriginal.srt",
+              "vtt": "subs/l49_base_del_espacio_columna/1080p60/PorQueEnLaMatrizOriginal.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L50",
+          "titulo": "El teorema del rango y la nulidad",
+          "guion": "guiones/l50_rango_nulidad.md",
+          "ejercicios": [
+            "F14"
+          ],
+          "videos": [
+            {
+              "leccion": "L50",
+              "numero": 1,
+              "titulo": "Lo que se pierde y lo que sobrevive",
+              "ruta": "videos/l50_rango_nulidad/1080p60/NucleoColapsaImagenSobrevive.mp4",
+              "duracion": "2:08",
+              "segundos": 128,
+              "srt": "videos/l50_rango_nulidad/1080p60/NucleoColapsaImagenSobrevive.srt",
+              "vtt": "subs/l50_rango_nulidad/1080p60/NucleoColapsaImagenSobrevive.vtt"
+            },
+            {
+              "leccion": "L50",
+              "numero": 2,
+              "titulo": "Teorema del rango y la nulidad",
+              "ruta": "videos/l50_rango_nulidad/1080p60/DemostracionRangoNulidad.mp4",
+              "duracion": "2:41",
+              "segundos": 161,
+              "srt": "videos/l50_rango_nulidad/1080p60/DemostracionRangoNulidad.srt",
+              "vtt": "subs/l50_rango_nulidad/1080p60/DemostracionRangoNulidad.vtt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titulo": "Síntesis",
+      "lecciones": [
+        {
+          "id": "L51",
+          "titulo": "Elegir el método",
+          "guion": null,
+          "ejercicios": [],
+          "videos": [
+            {
+              "leccion": "L51",
+              "numero": 1,
+              "titulo": "Árbol de decisión de métodos",
+              "ruta": "videos/l51_elegir_el_metodo/1080p60/ArbolDeDecisionDeMetodos.mp4",
+              "duracion": "2:18",
+              "segundos": 138,
+              "srt": "videos/l51_elegir_el_metodo/1080p60/ArbolDeDecisionDeMetodos.srt",
+              "vtt": "subs/l51_elegir_el_metodo/1080p60/ArbolDeDecisionDeMetodos.vtt"
+            },
+            {
+              "leccion": "L51",
+              "numero": 2,
+              "titulo": "Pregunta y herramienta",
+              "ruta": "videos/l51_elegir_el_metodo/1080p60/PreguntaYHerramienta.mp4",
+              "duracion": "1:56",
+              "segundos": 116,
+              "srt": "videos/l51_elegir_el_metodo/1080p60/PreguntaYHerramienta.srt",
+              "vtt": "subs/l51_elegir_el_metodo/1080p60/PreguntaYHerramienta.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L52",
+          "titulo": "Problemas integradores I (numéricos)",
+          "guion": null,
+          "ejercicios": [],
+          "videos": [
+            {
+              "leccion": "L52",
+              "numero": 1,
+              "titulo": "Problema de mezclas",
+              "ruta": "videos/l52_problemas_integradores_1/1080p60/ProblemaMezclas.mp4",
+              "duracion": "2:44",
+              "segundos": 164,
+              "srt": "videos/l52_problemas_integradores_1/1080p60/ProblemaMezclas.srt",
+              "vtt": "subs/l52_problemas_integradores_1/1080p60/ProblemaMezclas.vtt"
+            },
+            {
+              "leccion": "L52",
+              "numero": 2,
+              "titulo": "Flujo de una rotonda",
+              "ruta": "videos/l52_problemas_integradores_1/1080p60/ProblemaRotonda.mp4",
+              "duracion": "2:44",
+              "segundos": 164,
+              "srt": "videos/l52_problemas_integradores_1/1080p60/ProblemaRotonda.srt",
+              "vtt": "subs/l52_problemas_integradores_1/1080p60/ProblemaRotonda.vtt"
+            },
+            {
+              "leccion": "L52",
+              "numero": 3,
+              "titulo": "Varios lados derechos con LU",
+              "ruta": "videos/l52_problemas_integradores_1/1080p60/ProblemaVariosLadosDerechos.mp4",
+              "duracion": "2:22",
+              "segundos": 142,
+              "srt": "videos/l52_problemas_integradores_1/1080p60/ProblemaVariosLadosDerechos.srt",
+              "vtt": "subs/l52_problemas_integradores_1/1080p60/ProblemaVariosLadosDerechos.vtt"
+            },
+            {
+              "leccion": "L52",
+              "numero": 4,
+              "titulo": "Parábola por tres puntos",
+              "ruta": "videos/l52_problemas_integradores_1/1080p60/ProblemaParabola.mp4",
+              "duracion": "2:39",
+              "segundos": 159,
+              "srt": "videos/l52_problemas_integradores_1/1080p60/ProblemaParabola.srt",
+              "vtt": "subs/l52_problemas_integradores_1/1080p60/ProblemaParabola.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L53",
+          "titulo": "Problemas integradores II (parámetros y estructura)",
+          "guion": null,
+          "ejercicios": [],
+          "videos": [
+            {
+              "leccion": "L53",
+              "numero": 1,
+              "titulo": "Sistema con un parámetro",
+              "ruta": "videos/l53_problemas_integradores_2/1080p60/ProblemaConParametro.mp4",
+              "duracion": "3:18",
+              "segundos": 198,
+              "srt": "videos/l53_problemas_integradores_2/1080p60/ProblemaConParametro.srt",
+              "vtt": "subs/l53_problemas_integradores_2/1080p60/ProblemaConParametro.vtt"
+            },
+            {
+              "leccion": "L53",
+              "numero": 2,
+              "titulo": "Núcleo, imagen y solución",
+              "ruta": "videos/l53_problemas_integradores_2/1080p60/ProblemaNucleoEImagen.mp4",
+              "duracion": "2:34",
+              "segundos": 154,
+              "srt": "videos/l53_problemas_integradores_2/1080p60/ProblemaNucleoEImagen.srt",
+              "vtt": "subs/l53_problemas_integradores_2/1080p60/ProblemaNucleoEImagen.vtt"
+            },
+            {
+              "leccion": "L53",
+              "numero": 3,
+              "titulo": "Verdadero o falso",
+              "ruta": "videos/l53_problemas_integradores_2/1080p60/VerdaderoOFalso.mp4",
+              "duracion": "2:38",
+              "segundos": 158,
+              "srt": "videos/l53_problemas_integradores_2/1080p60/VerdaderoOFalso.srt",
+              "vtt": "subs/l53_problemas_integradores_2/1080p60/VerdaderoOFalso.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L54",
+          "titulo": "Demostraciones",
+          "guion": null,
+          "ejercicios": [],
+          "videos": [
+            {
+              "leccion": "L54",
+              "numero": 1,
+              "titulo": "Dos soluciones, infinitas soluciones",
+              "ruta": "videos/l54_demostraciones/1080p60/NoHayExactamenteDosSoluciones.mp4",
+              "duracion": "1:57",
+              "segundos": 117,
+              "srt": "videos/l54_demostraciones/1080p60/NoHayExactamenteDosSoluciones.srt",
+              "vtt": "subs/l54_demostraciones/1080p60/NoHayExactamenteDosSoluciones.vtt"
+            },
+            {
+              "leccion": "L54",
+              "numero": 2,
+              "titulo": "Las operaciones conservan las soluciones",
+              "ruta": "videos/l54_demostraciones/1080p60/OperacionesConservanSoluciones.mp4",
+              "duracion": "2:20",
+              "segundos": 140,
+              "srt": "videos/l54_demostraciones/1080p60/OperacionesConservanSoluciones.srt",
+              "vtt": "subs/l54_demostraciones/1080p60/OperacionesConservanSoluciones.vtt"
+            },
+            {
+              "leccion": "L54",
+              "numero": 3,
+              "titulo": "Demostraciones clave",
+              "ruta": "videos/l54_demostraciones/1080p60/DemostracionesClave.mp4",
+              "duracion": "2:56",
+              "segundos": 176,
+              "srt": "videos/l54_demostraciones/1080p60/DemostracionesClave.srt",
+              "vtt": "subs/l54_demostraciones/1080p60/DemostracionesClave.vtt"
+            }
+          ]
+        },
+        {
+          "id": "L55",
+          "titulo": "Repaso final",
+          "guion": null,
+          "ejercicios": [],
+          "videos": [
+            {
+              "leccion": "L55",
+              "numero": 1,
+              "titulo": "Mapa conceptual",
+              "ruta": "videos/l55_repaso_final/1080p60/MapaConceptual.mp4",
+              "duracion": "2:40",
+              "segundos": 160,
+              "srt": "videos/l55_repaso_final/1080p60/MapaConceptual.srt",
+              "vtt": "subs/l55_repaso_final/1080p60/MapaConceptual.vtt"
+            },
+            {
+              "leccion": "L55",
+              "numero": 2,
+              "titulo": "Prueba integradora",
+              "ruta": "videos/l55_repaso_final/1080p60/PruebaIntegradora.mp4",
+              "duracion": "2:00",
+              "segundos": 120,
+              "srt": "videos/l55_repaso_final/1080p60/PruebaIntegradora.srt",
+              "vtt": "subs/l55_repaso_final/1080p60/PruebaIntegradora.vtt"
+            },
+            {
+              "leccion": "L55",
+              "numero": 3,
+              "titulo": "Lo que sigue",
+              "ruta": "videos/l55_repaso_final/1080p60/LoQueSigue.mp4",
+              "duracion": "1:06",
+              "segundos": 66,
+              "srt": "videos/l55_repaso_final/1080p60/LoQueSigue.srt",
+              "vtt": "subs/l55_repaso_final/1080p60/LoQueSigue.vtt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "material": {
+    "formulario": {
+      "titulo": "Formulario de conceptos y teoremas",
+      "ruta": "material/formulario.md"
+    },
+    "metodos": {
+      "titulo": "Métodos de resolución: tabla comparativa y árbol de decisión",
+      "ruta": "material/metodos.md"
+    },
+    "plan": {
+      "titulo": "Plan de estudio sugerido (12 semanas)",
+      "ruta": "material/plan_de_estudio.md"
+    },
+    "banco": {
+      "titulo": "Banco único de ejercicios",
+      "ruta": "ejercicios/BANCO.md"
+    },
+    "solucionario": {
+      "titulo": "Solucionario",
+      "ruta": "solucionario/README.md",
+      "familias": [
+        {
+          "id": "F00",
+          "titulo": "Preliminares",
+          "ruta": "solucionario/F00.md"
+        },
+        {
+          "id": "F01",
+          "titulo": "Ecuaciones lineales",
+          "ruta": "solucionario/F01.md"
+        },
+        {
+          "id": "F02",
+          "titulo": "Ecuaciones con varias incógnitas",
+          "ruta": "solucionario/F02.md"
+        },
+        {
+          "id": "F03",
+          "titulo": "Sistemas y clasificación",
+          "ruta": "solucionario/F03.md"
+        },
+        {
+          "id": "F04",
+          "titulo": "Métodos elementales",
+          "ruta": "solucionario/F04.md"
+        },
+        {
+          "id": "F05",
+          "titulo": "Matrices y vectores",
+          "ruta": "solucionario/F05.md"
+        },
+        {
+          "id": "F06",
+          "titulo": "Producto matricial y transformaciones",
+          "ruta": "solucionario/F06.md"
+        },
+        {
+          "id": "F07",
+          "titulo": "Sistema y forma matricial",
+          "ruta": "solucionario/F07.md"
+        },
+        {
+          "id": "F08",
+          "titulo": "Eliminación de Gauss",
+          "ruta": "solucionario/F08.md"
+        },
+        {
+          "id": "F09",
+          "titulo": "Gauss-Jordan",
+          "ruta": "solucionario/F09.md"
+        },
+        {
+          "id": "F10",
+          "titulo": "Factorización LU",
+          "ruta": "solucionario/F10.md"
+        },
+        {
+          "id": "F11",
+          "titulo": "Rango y Rouché-Frobenius",
+          "ruta": "solucionario/F11.md"
+        },
+        {
+          "id": "F12",
+          "titulo": "Combinaciones, independencia y base",
+          "ruta": "solucionario/F12.md"
+        },
+        {
+          "id": "F13",
+          "titulo": "Núcleo",
+          "ruta": "solucionario/F13.md"
+        },
+        {
+          "id": "F14",
+          "titulo": "Espacio columna e imagen",
+          "ruta": "solucionario/F14.md"
+        },
+        {
+          "id": "F15",
+          "titulo": "Problemas integradores",
+          "ruta": "solucionario/F15.md"
+        },
+        {
+          "id": "F16",
+          "titulo": "Demostraciones",
+          "ruta": "solucionario/F16.md"
+        }
+      ]
+    },
+    "pruebaFinal": {
+      "titulo": "Prueba final integradora",
+      "ruta": "prueba_final/PRUEBA_FINAL.md"
+    },
+    "solucionPruebaFinal": {
+      "titulo": "Prueba final integradora: soluciones y baremo",
+      "ruta": "prueba_final/SOLUCION_PRUEBA_FINAL.md"
+    }
+  },
+  "ejercicios": {
+    "familias": [
+      {
+        "id": "F00",
+        "titulo": "Preliminares",
+        "parte1": "ejercicios/F00_preliminares.md",
+        "parte2": null,
+        "solucion": "solucionario/F00.md"
+      },
+      {
+        "id": "F01",
+        "titulo": "Ecuaciones lineales",
+        "parte1": "ejercicios/F01_ecuaciones_lineales.md",
+        "parte2": "ejercicios/F01_ecuaciones_lineales_parte2.md",
+        "solucion": "solucionario/F01.md"
+      },
+      {
+        "id": "F02",
+        "titulo": "Ecuaciones con varias incógnitas",
+        "parte1": "ejercicios/F02_ecuaciones_varias_incognitas.md",
+        "parte2": "ejercicios/F02_ecuaciones_varias_incognitas_parte2.md",
+        "solucion": "solucionario/F02.md"
+      },
+      {
+        "id": "F03",
+        "titulo": "Sistemas y clasificación",
+        "parte1": "ejercicios/F03_sistemas_y_clasificacion.md",
+        "parte2": "ejercicios/F03_sistemas_y_clasificacion_parte2.md",
+        "solucion": "solucionario/F03.md"
+      },
+      {
+        "id": "F04",
+        "titulo": "Métodos elementales",
+        "parte1": "ejercicios/F04_metodos_elementales.md",
+        "parte2": "ejercicios/F04_metodos_elementales_parte2.md",
+        "solucion": "solucionario/F04.md"
+      },
+      {
+        "id": "F05",
+        "titulo": "Matrices y vectores",
+        "parte1": "ejercicios/F05_matrices_y_vectores.md",
+        "parte2": "ejercicios/F05_matrices_y_vectores_parte2.md",
+        "solucion": "solucionario/F05.md"
+      },
+      {
+        "id": "F06",
+        "titulo": "Producto matricial y transformaciones",
+        "parte1": "ejercicios/F06_producto_y_transformaciones.md",
+        "parte2": "ejercicios/F06_producto_y_transformaciones_parte2.md",
+        "solucion": "solucionario/F06.md"
+      },
+      {
+        "id": "F07",
+        "titulo": "Sistema y forma matricial",
+        "parte1": "ejercicios/F07_sistema_y_forma_matricial.md",
+        "parte2": "ejercicios/F07_sistema_y_forma_matricial_parte2.md",
+        "solucion": "solucionario/F07.md"
+      },
+      {
+        "id": "F08",
+        "titulo": "Eliminación de Gauss",
+        "parte1": "ejercicios/F08_gauss.md",
+        "parte2": "ejercicios/F08_gauss_parte2.md",
+        "solucion": "solucionario/F08.md"
+      },
+      {
+        "id": "F09",
+        "titulo": "Gauss-Jordan",
+        "parte1": "ejercicios/F09_gauss_jordan.md",
+        "parte2": "ejercicios/F09_gauss_jordan_parte2.md",
+        "solucion": "solucionario/F09.md"
+      },
+      {
+        "id": "F10",
+        "titulo": "Factorización LU",
+        "parte1": "ejercicios/F10_factorizacion_lu.md",
+        "parte2": "ejercicios/F10_factorizacion_lu_parte2.md",
+        "solucion": "solucionario/F10.md"
+      },
+      {
+        "id": "F11",
+        "titulo": "Rango y Rouché-Frobenius",
+        "parte1": "ejercicios/F11_rango_rouche_frobenius.md",
+        "parte2": "ejercicios/F11_rango_rouche_frobenius_parte2.md",
+        "solucion": "solucionario/F11.md"
+      },
+      {
+        "id": "F12",
+        "titulo": "Combinaciones, independencia y base",
+        "parte1": "ejercicios/F12_combinaciones_independencia_base.md",
+        "parte2": "ejercicios/F12_combinaciones_independencia_base_parte2.md",
+        "solucion": "solucionario/F12.md"
+      },
+      {
+        "id": "F13",
+        "titulo": "Núcleo",
+        "parte1": "ejercicios/F13_nucleo.md",
+        "parte2": "ejercicios/F13_nucleo_parte2.md",
+        "solucion": "solucionario/F13.md"
+      },
+      {
+        "id": "F14",
+        "titulo": "Espacio columna e imagen",
+        "parte1": "ejercicios/F14_espacio_columna_imagen.md",
+        "parte2": "ejercicios/F14_espacio_columna_imagen_parte2.md",
+        "solucion": "solucionario/F14.md"
+      },
+      {
+        "id": "F15",
+        "titulo": "Problemas integradores",
+        "parte1": null,
+        "parte2": "ejercicios/F15_problemas_integradores_parte2.md",
+        "solucion": "solucionario/F15.md"
+      },
+      {
+        "id": "F16",
+        "titulo": "Demostraciones",
+        "parte1": null,
+        "parte2": "ejercicios/F16_demostraciones_parte2.md",
+        "solucion": "solucionario/F16.md"
+      }
+    ],
+    "indice": {
+      "F00-N1-01": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N1-02": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N1-03": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N1-04": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N2-01": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N2-02": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N3-01": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N4-01": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N5-01": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N5-05": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N1-05": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N1-06": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N2-03": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N2-04": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N3-02": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N3-05": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N4-02": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N5-02": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N1-07": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N2-05": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N2-06": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N3-03": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N4-03": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N5-03": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N1-08": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N2-07": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N2-08": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N3-04": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N4-04": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F00-N5-04": {
+        "familia": "F00",
+        "parte": 1
+      },
+      "F01-N1-01": {
+        "familia": "F01",
+        "parte": 1
+      },
+      "F01-N1-02": {
+        "familia": "F01",
+        "parte": 1
+      },
+      "F01-N1-03": {
+        "familia": "F01",
+        "parte": 1
+      },
+      "F01-N1-04": {
+        "familia": "F01",
+        "parte": 1
+      },
+      "F01-N2-01": {
+        "familia": "F01",
+        "parte": 1
+      },
+      "F01-N2-02": {
+        "familia": "F01",
+        "parte": 1
+      },
+      "F01-N2-03": {
+        "familia": "F01",
+        "parte": 1
+      },
+      "F01-N3-01": {
+        "familia": "F01",
+        "parte": 1
+      },
+      "F01-N3-02": {
+        "familia": "F01",
+        "parte": 1
+      },
+      "F01-N4-01": {
+        "familia": "F01",
+        "parte": 1
+      },
+      "F01-N4-02": {
+        "familia": "F01",
+        "parte": 1
+      },
+      "F01-N4-03": {
+        "familia": "F01",
+        "parte": 1
+      },
+      "F01-N5-01": {
+        "familia": "F01",
+        "parte": 1
+      },
+      "F01-N1-11": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N1-12": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N1-13": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N1-14": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N1-15": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N1-16": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N1-17": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N1-18": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N1-19": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N2-11": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N2-12": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N2-13": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N2-14": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N2-15": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N2-16": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N3-11": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N3-12": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N3-13": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N3-14": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N3-15": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N3-16": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N4-11": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N4-12": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N4-13": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N4-14": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N4-15": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F01-N4-16": {
+        "familia": "F01",
+        "parte": 2
+      },
+      "F02-N1-01": {
+        "familia": "F02",
+        "parte": 1
+      },
+      "F02-N1-02": {
+        "familia": "F02",
+        "parte": 1
+      },
+      "F02-N2-01": {
+        "familia": "F02",
+        "parte": 1
+      },
+      "F02-N2-02": {
+        "familia": "F02",
+        "parte": 1
+      },
+      "F02-N2-03": {
+        "familia": "F02",
+        "parte": 1
+      },
+      "F02-N3-01": {
+        "familia": "F02",
+        "parte": 1
+      },
+      "F02-N3-02": {
+        "familia": "F02",
+        "parte": 1
+      },
+      "F02-N4-01": {
+        "familia": "F02",
+        "parte": 1
+      },
+      "F02-N4-02": {
+        "familia": "F02",
+        "parte": 1
+      },
+      "F02-N5-01": {
+        "familia": "F02",
+        "parte": 1
+      },
+      "F02-N1-11": {
+        "familia": "F02",
+        "parte": 2
+      },
+      "F02-N1-12": {
+        "familia": "F02",
+        "parte": 2
+      },
+      "F02-N1-13": {
+        "familia": "F02",
+        "parte": 2
+      },
+      "F02-N1-14": {
+        "familia": "F02",
+        "parte": 2
+      },
+      "F02-N2-11": {
+        "familia": "F02",
+        "parte": 2
+      },
+      "F02-N2-12": {
+        "familia": "F02",
+        "parte": 2
+      },
+      "F02-N2-13": {
+        "familia": "F02",
+        "parte": 2
+      },
+      "F02-N2-14": {
+        "familia": "F02",
+        "parte": 2
+      },
+      "F02-N2-15": {
+        "familia": "F02",
+        "parte": 2
+      },
+      "F02-N2-16": {
+        "familia": "F02",
+        "parte": 2
+      },
+      "F02-N2-17": {
+        "familia": "F02",
+        "parte": 2
+      },
+      "F02-N2-18": {
+        "familia": "F02",
+        "parte": 2
+      },
+      "F02-N3-11": {
+        "familia": "F02",
+        "parte": 2
+      },
+      "F02-N3-12": {
+        "familia": "F02",
+        "parte": 2
+      },
+      "F02-N3-13": {
+        "familia": "F02",
+        "parte": 2
+      },
+      "F02-N3-14": {
+        "familia": "F02",
+        "parte": 2
+      },
+      "F02-N3-15": {
+        "familia": "F02",
+        "parte": 2
+      },
+      "F02-N3-16": {
+        "familia": "F02",
+        "parte": 2
+      },
+      "F02-N4-11": {
+        "familia": "F02",
+        "parte": 2
+      },
+      "F02-N4-12": {
+        "familia": "F02",
+        "parte": 2
+      },
+      "F03-N1-01": {
+        "familia": "F03",
+        "parte": 1
+      },
+      "F03-N2-01": {
+        "familia": "F03",
+        "parte": 1
+      },
+      "F03-N2-02": {
+        "familia": "F03",
+        "parte": 1
+      },
+      "F03-N3-01": {
+        "familia": "F03",
+        "parte": 1
+      },
+      "F03-N2-05": {
+        "familia": "F03",
+        "parte": 1
+      },
+      "F03-N3-04": {
+        "familia": "F03",
+        "parte": 1
+      },
+      "F03-N1-02": {
+        "familia": "F03",
+        "parte": 1
+      },
+      "F03-N2-03": {
+        "familia": "F03",
+        "parte": 1
+      },
+      "F03-N4-01": {
+        "familia": "F03",
+        "parte": 1
+      },
+      "F03-N1-03": {
+        "familia": "F03",
+        "parte": 1
+      },
+      "F03-N1-04": {
+        "familia": "F03",
+        "parte": 1
+      },
+      "F03-N3-02": {
+        "familia": "F03",
+        "parte": 1
+      },
+      "F03-N2-04": {
+        "familia": "F03",
+        "parte": 1
+      },
+      "F03-N5-02": {
+        "familia": "F03",
+        "parte": 1
+      },
+      "F03-N3-03": {
+        "familia": "F03",
+        "parte": 1
+      },
+      "F03-N5-01": {
+        "familia": "F03",
+        "parte": 1
+      },
+      "F03-N4-02": {
+        "familia": "F03",
+        "parte": 1
+      },
+      "F03-N4-03": {
+        "familia": "F03",
+        "parte": 1
+      },
+      "F03-N4-04": {
+        "familia": "F03",
+        "parte": 1
+      },
+      "F03-N2-11": {
+        "familia": "F03",
+        "parte": 2
+      },
+      "F03-N2-12": {
+        "familia": "F03",
+        "parte": 2
+      },
+      "F03-N2-13": {
+        "familia": "F03",
+        "parte": 2
+      },
+      "F03-N2-14": {
+        "familia": "F03",
+        "parte": 2
+      },
+      "F03-N2-15": {
+        "familia": "F03",
+        "parte": 2
+      },
+      "F03-N2-16": {
+        "familia": "F03",
+        "parte": 2
+      },
+      "F03-N2-17": {
+        "familia": "F03",
+        "parte": 2
+      },
+      "F03-N2-18": {
+        "familia": "F03",
+        "parte": 2
+      },
+      "F03-N3-11": {
+        "familia": "F03",
+        "parte": 2
+      },
+      "F03-N3-12": {
+        "familia": "F03",
+        "parte": 2
+      },
+      "F03-N3-13": {
+        "familia": "F03",
+        "parte": 2
+      },
+      "F03-N3-14": {
+        "familia": "F03",
+        "parte": 2
+      },
+      "F03-N3-15": {
+        "familia": "F03",
+        "parte": 2
+      },
+      "F03-N3-16": {
+        "familia": "F03",
+        "parte": 2
+      },
+      "F03-N3-17": {
+        "familia": "F03",
+        "parte": 2
+      },
+      "F03-N3-18": {
+        "familia": "F03",
+        "parte": 2
+      },
+      "F03-N3-19": {
+        "familia": "F03",
+        "parte": 2
+      },
+      "F03-N4-11": {
+        "familia": "F03",
+        "parte": 2
+      },
+      "F03-N4-12": {
+        "familia": "F03",
+        "parte": 2
+      },
+      "F03-N4-13": {
+        "familia": "F03",
+        "parte": 2
+      },
+      "F03-N4-14": {
+        "familia": "F03",
+        "parte": 2
+      },
+      "F04-N1-01": {
+        "familia": "F04",
+        "parte": 1
+      },
+      "F04-N1-02": {
+        "familia": "F04",
+        "parte": 1
+      },
+      "F04-N2-01": {
+        "familia": "F04",
+        "parte": 1
+      },
+      "F04-N3-01": {
+        "familia": "F04",
+        "parte": 1
+      },
+      "F04-N4-03": {
+        "familia": "F04",
+        "parte": 1
+      },
+      "F04-N4-04": {
+        "familia": "F04",
+        "parte": 1
+      },
+      "F04-N5-01": {
+        "familia": "F04",
+        "parte": 1
+      },
+      "F04-N1-03": {
+        "familia": "F04",
+        "parte": 1
+      },
+      "F04-N2-02": {
+        "familia": "F04",
+        "parte": 1
+      },
+      "F04-N3-02": {
+        "familia": "F04",
+        "parte": 1
+      },
+      "F04-N1-04": {
+        "familia": "F04",
+        "parte": 1
+      },
+      "F04-N2-03": {
+        "familia": "F04",
+        "parte": 1
+      },
+      "F04-N2-04": {
+        "familia": "F04",
+        "parte": 1
+      },
+      "F04-N2-05": {
+        "familia": "F04",
+        "parte": 1
+      },
+      "F04-N3-03": {
+        "familia": "F04",
+        "parte": 1
+      },
+      "F04-N3-04": {
+        "familia": "F04",
+        "parte": 1
+      },
+      "F04-N4-01": {
+        "familia": "F04",
+        "parte": 1
+      },
+      "F04-N4-02": {
+        "familia": "F04",
+        "parte": 1
+      },
+      "F04-N5-02": {
+        "familia": "F04",
+        "parte": 1
+      },
+      "F04-N2-11": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-12": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-13": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-14": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-15": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-16": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-17": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-18": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-19": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-20": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-21": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-22": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-23": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-24": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-25": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-26": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-27": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-28": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-29": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-30": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-31": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-32": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N2-33": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N3-11": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N3-12": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N3-13": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N3-14": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N3-15": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N3-16": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N3-17": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F04-N3-18": {
+        "familia": "F04",
+        "parte": 2
+      },
+      "F05-N1-01": {
+        "familia": "F05",
+        "parte": 1
+      },
+      "F05-N1-02": {
+        "familia": "F05",
+        "parte": 1
+      },
+      "F05-N2-03": {
+        "familia": "F05",
+        "parte": 1
+      },
+      "F05-N1-03": {
+        "familia": "F05",
+        "parte": 1
+      },
+      "F05-N2-01": {
+        "familia": "F05",
+        "parte": 1
+      },
+      "F05-N3-01": {
+        "familia": "F05",
+        "parte": 1
+      },
+      "F05-N1-04": {
+        "familia": "F05",
+        "parte": 1
+      },
+      "F05-N2-02": {
+        "familia": "F05",
+        "parte": 1
+      },
+      "F05-N4-01": {
+        "familia": "F05",
+        "parte": 1
+      },
+      "F05-N5-01": {
+        "familia": "F05",
+        "parte": 1
+      },
+      "F05-N1-11": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N1-12": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N1-13": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N1-14": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N1-15": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N1-16": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N1-17": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N1-18": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N1-19": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N1-20": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N1-21": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N1-22": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N1-23": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N1-24": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N1-25": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N1-26": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N1-27": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-11": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-12": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-13": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-14": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-15": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-16": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-17": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-18": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-19": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-20": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-21": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-22": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-23": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-24": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-25": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-26": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-27": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-28": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-29": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-30": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-31": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-32": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F05-N2-33": {
+        "familia": "F05",
+        "parte": 2
+      },
+      "F06-N1-01": {
+        "familia": "F06",
+        "parte": 1
+      },
+      "F06-N2-01": {
+        "familia": "F06",
+        "parte": 1
+      },
+      "F06-N2-02": {
+        "familia": "F06",
+        "parte": 1
+      },
+      "F06-N2-03": {
+        "familia": "F06",
+        "parte": 1
+      },
+      "F06-N3-01": {
+        "familia": "F06",
+        "parte": 1
+      },
+      "F06-N4-01": {
+        "familia": "F06",
+        "parte": 1
+      },
+      "F06-N1-02": {
+        "familia": "F06",
+        "parte": 1
+      },
+      "F06-N3-02": {
+        "familia": "F06",
+        "parte": 1
+      },
+      "F06-N5-01": {
+        "familia": "F06",
+        "parte": 1
+      },
+      "F06-N5-02": {
+        "familia": "F06",
+        "parte": 1
+      },
+      "F06-N1-11": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N1-12": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N1-13": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N1-14": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N1-15": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N1-16": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N2-11": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N2-12": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N2-13": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N2-14": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N2-15": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N2-16": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N2-17": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N2-18": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N2-19": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N2-20": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N2-21": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N2-22": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N2-23": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N2-24": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N2-25": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N2-26": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N2-27": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N2-28": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N3-11": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N3-12": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N3-13": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N3-14": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N3-15": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F06-N3-16": {
+        "familia": "F06",
+        "parte": 2
+      },
+      "F07-N1-01": {
+        "familia": "F07",
+        "parte": 1
+      },
+      "F07-N2-01": {
+        "familia": "F07",
+        "parte": 1
+      },
+      "F07-N2-02": {
+        "familia": "F07",
+        "parte": 1
+      },
+      "F07-N4-01": {
+        "familia": "F07",
+        "parte": 1
+      },
+      "F07-N5-01": {
+        "familia": "F07",
+        "parte": 1
+      },
+      "F07-N1-02": {
+        "familia": "F07",
+        "parte": 1
+      },
+      "F07-N3-01": {
+        "familia": "F07",
+        "parte": 1
+      },
+      "F07-N1-11": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N1-12": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N1-13": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N1-14": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N1-15": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N1-16": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N1-17": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N1-18": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N1-19": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N1-20": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N1-21": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N1-22": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N1-23": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N1-24": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N1-25": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N1-26": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N2-11": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N2-12": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N2-13": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N2-14": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N2-15": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N2-16": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F07-N2-17": {
+        "familia": "F07",
+        "parte": 2
+      },
+      "F08-N1-01": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N2-01": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N4-01": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N5-01": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N5-02": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N1-02": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N2-02": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N2-03": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N2-04": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N3-01": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N2-05": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N3-02": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N2-06": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N3-03": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N4-02": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N5-03": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N4-03": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N4-04": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N4-05": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N3-04": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N4-06": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N4-07": {
+        "familia": "F08",
+        "parte": 1
+      },
+      "F08-N3-11": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N3-12": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N3-13": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N3-14": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N3-15": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N3-16": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N3-17": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N3-18": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N3-19": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N3-20": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N3-21": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N3-22": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N3-23": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N3-24": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N3-25": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N3-26": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N3-27": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N3-28": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N3-29": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N3-30": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N3-31": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N4-11": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N4-12": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N4-13": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N4-14": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N4-15": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N4-16": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F08-N4-17": {
+        "familia": "F08",
+        "parte": 2
+      },
+      "F09-N1-01": {
+        "familia": "F09",
+        "parte": 1
+      },
+      "F09-N1-02": {
+        "familia": "F09",
+        "parte": 1
+      },
+      "F09-N2-01": {
+        "familia": "F09",
+        "parte": 1
+      },
+      "F09-N2-02": {
+        "familia": "F09",
+        "parte": 1
+      },
+      "F09-N3-01": {
+        "familia": "F09",
+        "parte": 1
+      },
+      "F09-N3-02": {
+        "familia": "F09",
+        "parte": 1
+      },
+      "F09-N3-03": {
+        "familia": "F09",
+        "parte": 1
+      },
+      "F09-N2-03": {
+        "familia": "F09",
+        "parte": 1
+      },
+      "F09-N2-04": {
+        "familia": "F09",
+        "parte": 1
+      },
+      "F09-N3-04": {
+        "familia": "F09",
+        "parte": 1
+      },
+      "F09-N4-01": {
+        "familia": "F09",
+        "parte": 1
+      },
+      "F09-N4-02": {
+        "familia": "F09",
+        "parte": 1
+      },
+      "F09-N5-01": {
+        "familia": "F09",
+        "parte": 1
+      },
+      "F09-N2-05": {
+        "familia": "F09",
+        "parte": 1
+      },
+      "F09-N3-06": {
+        "familia": "F09",
+        "parte": 1
+      },
+      "F09-N4-03": {
+        "familia": "F09",
+        "parte": 1
+      },
+      "F09-N4-04": {
+        "familia": "F09",
+        "parte": 1
+      },
+      "F09-N2-11": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N2-12": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N2-13": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N2-14": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N2-15": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N2-16": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N2-17": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N2-18": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N2-19": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N3-11": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N3-12": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N3-13": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N3-14": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N3-15": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N3-16": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N3-17": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N3-18": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N3-19": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N3-20": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N3-21": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N3-22": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N3-23": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F09-N3-24": {
+        "familia": "F09",
+        "parte": 2
+      },
+      "F10-N1-01": {
+        "familia": "F10",
+        "parte": 1
+      },
+      "F10-N2-01": {
+        "familia": "F10",
+        "parte": 1
+      },
+      "F10-N2-02": {
+        "familia": "F10",
+        "parte": 1
+      },
+      "F10-N2-03": {
+        "familia": "F10",
+        "parte": 1
+      },
+      "F10-N3-01": {
+        "familia": "F10",
+        "parte": 1
+      },
+      "F10-N3-02": {
+        "familia": "F10",
+        "parte": 1
+      },
+      "F10-N4-01": {
+        "familia": "F10",
+        "parte": 1
+      },
+      "F10-N5-01": {
+        "familia": "F10",
+        "parte": 1
+      },
+      "F10-N2-04": {
+        "familia": "F10",
+        "parte": 1
+      },
+      "F10-N3-03": {
+        "familia": "F10",
+        "parte": 1
+      },
+      "F10-N3-06": {
+        "familia": "F10",
+        "parte": 1
+      },
+      "F10-N4-02": {
+        "familia": "F10",
+        "parte": 1
+      },
+      "F10-N2-05": {
+        "familia": "F10",
+        "parte": 1
+      },
+      "F10-N3-04": {
+        "familia": "F10",
+        "parte": 1
+      },
+      "F10-N3-05": {
+        "familia": "F10",
+        "parte": 1
+      },
+      "F10-N4-03": {
+        "familia": "F10",
+        "parte": 1
+      },
+      "F10-N5-02": {
+        "familia": "F10",
+        "parte": 1
+      },
+      "F10-N2-06": {
+        "familia": "F10",
+        "parte": 1
+      },
+      "F10-N3-07": {
+        "familia": "F10",
+        "parte": 1
+      },
+      "F10-N4-04": {
+        "familia": "F10",
+        "parte": 1
+      },
+      "F10-N3-11": {
+        "familia": "F10",
+        "parte": 2
+      },
+      "F10-N3-12": {
+        "familia": "F10",
+        "parte": 2
+      },
+      "F10-N3-13": {
+        "familia": "F10",
+        "parte": 2
+      },
+      "F10-N3-14": {
+        "familia": "F10",
+        "parte": 2
+      },
+      "F10-N3-15": {
+        "familia": "F10",
+        "parte": 2
+      },
+      "F10-N3-16": {
+        "familia": "F10",
+        "parte": 2
+      },
+      "F10-N3-17": {
+        "familia": "F10",
+        "parte": 2
+      },
+      "F10-N3-18": {
+        "familia": "F10",
+        "parte": 2
+      },
+      "F10-N3-19": {
+        "familia": "F10",
+        "parte": 2
+      },
+      "F10-N3-20": {
+        "familia": "F10",
+        "parte": 2
+      },
+      "F10-N3-21": {
+        "familia": "F10",
+        "parte": 2
+      },
+      "F10-N3-22": {
+        "familia": "F10",
+        "parte": 2
+      },
+      "F10-N3-23": {
+        "familia": "F10",
+        "parte": 2
+      },
+      "F10-N3-24": {
+        "familia": "F10",
+        "parte": 2
+      },
+      "F10-N3-25": {
+        "familia": "F10",
+        "parte": 2
+      },
+      "F10-N3-26": {
+        "familia": "F10",
+        "parte": 2
+      },
+      "F10-N4-11": {
+        "familia": "F10",
+        "parte": 2
+      },
+      "F10-N4-12": {
+        "familia": "F10",
+        "parte": 2
+      },
+      "F10-N4-13": {
+        "familia": "F10",
+        "parte": 2
+      },
+      "F10-N4-14": {
+        "familia": "F10",
+        "parte": 2
+      },
+      "F11-N1-01": {
+        "familia": "F11",
+        "parte": 1
+      },
+      "F11-N2-01": {
+        "familia": "F11",
+        "parte": 1
+      },
+      "F11-N2-02": {
+        "familia": "F11",
+        "parte": 1
+      },
+      "F11-N3-01": {
+        "familia": "F11",
+        "parte": 1
+      },
+      "F11-N3-03": {
+        "familia": "F11",
+        "parte": 1
+      },
+      "F11-N2-03": {
+        "familia": "F11",
+        "parte": 1
+      },
+      "F11-N3-02": {
+        "familia": "F11",
+        "parte": 1
+      },
+      "F11-N3-06": {
+        "familia": "F11",
+        "parte": 1
+      },
+      "F11-N4-01": {
+        "familia": "F11",
+        "parte": 1
+      },
+      "F11-N4-02": {
+        "familia": "F11",
+        "parte": 1
+      },
+      "F11-N2-04": {
+        "familia": "F11",
+        "parte": 1
+      },
+      "F11-N3-04": {
+        "familia": "F11",
+        "parte": 1
+      },
+      "F11-N3-05": {
+        "familia": "F11",
+        "parte": 1
+      },
+      "F11-N4-05": {
+        "familia": "F11",
+        "parte": 1
+      },
+      "F11-N4-06": {
+        "familia": "F11",
+        "parte": 1
+      },
+      "F11-N5-01": {
+        "familia": "F11",
+        "parte": 1
+      },
+      "F11-N2-11": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N2-12": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N2-13": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N2-14": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N2-15": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N2-16": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N2-17": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N2-18": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N2-19": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N2-20": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N2-21": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N2-22": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N2-23": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N2-24": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N2-25": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N3-11": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N3-12": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N3-13": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N3-14": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N3-15": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N3-16": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N3-17": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N3-18": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N3-19": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N3-20": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N3-21": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N3-22": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N3-23": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N4-11": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N4-12": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N4-13": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N4-14": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N4-15": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F11-N4-16": {
+        "familia": "F11",
+        "parte": 2
+      },
+      "F12-N1-01": {
+        "familia": "F12",
+        "parte": 1
+      },
+      "F12-N1-02": {
+        "familia": "F12",
+        "parte": 1
+      },
+      "F12-N2-01": {
+        "familia": "F12",
+        "parte": 1
+      },
+      "F12-N2-02": {
+        "familia": "F12",
+        "parte": 1
+      },
+      "F12-N2-03": {
+        "familia": "F12",
+        "parte": 1
+      },
+      "F12-N3-01": {
+        "familia": "F12",
+        "parte": 1
+      },
+      "F12-N3-02": {
+        "familia": "F12",
+        "parte": 1
+      },
+      "F12-N3-03": {
+        "familia": "F12",
+        "parte": 1
+      },
+      "F12-N3-04": {
+        "familia": "F12",
+        "parte": 1
+      },
+      "F12-N4-01": {
+        "familia": "F12",
+        "parte": 1
+      },
+      "F12-N4-02": {
+        "familia": "F12",
+        "parte": 1
+      },
+      "F12-N4-03": {
+        "familia": "F12",
+        "parte": 1
+      },
+      "F12-N5-01": {
+        "familia": "F12",
+        "parte": 1
+      },
+      "F12-N2-11": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N2-12": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N2-13": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N2-14": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N2-15": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N2-16": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N2-17": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N2-18": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N2-19": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N2-20": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N2-21": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N3-11": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N3-12": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N3-13": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N3-14": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N3-15": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N3-16": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N3-17": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N3-18": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N3-19": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N3-20": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N3-21": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N3-22": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N3-23": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N3-24": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N3-25": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F12-N3-26": {
+        "familia": "F12",
+        "parte": 2
+      },
+      "F13-N1-01": {
+        "familia": "F13",
+        "parte": 1
+      },
+      "F13-N1-02": {
+        "familia": "F13",
+        "parte": 1
+      },
+      "F13-N2-01": {
+        "familia": "F13",
+        "parte": 1
+      },
+      "F13-N2-02": {
+        "familia": "F13",
+        "parte": 1
+      },
+      "F13-N3-01": {
+        "familia": "F13",
+        "parte": 1
+      },
+      "F13-N3-02": {
+        "familia": "F13",
+        "parte": 1
+      },
+      "F13-N3-03": {
+        "familia": "F13",
+        "parte": 1
+      },
+      "F13-N3-04": {
+        "familia": "F13",
+        "parte": 1
+      },
+      "F13-N3-05": {
+        "familia": "F13",
+        "parte": 1
+      },
+      "F13-N4-01": {
+        "familia": "F13",
+        "parte": 1
+      },
+      "F13-N4-02": {
+        "familia": "F13",
+        "parte": 1
+      },
+      "F13-N4-03": {
+        "familia": "F13",
+        "parte": 1
+      },
+      "F13-N5-01": {
+        "familia": "F13",
+        "parte": 1
+      },
+      "F13-N2-11": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N2-12": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N2-13": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N2-14": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N2-15": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N2-16": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N2-17": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N2-18": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N2-19": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N3-11": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N3-12": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N3-13": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N3-14": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N3-15": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N3-16": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N3-17": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N3-18": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N3-19": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N3-20": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N3-21": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N3-22": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N3-23": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N3-24": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N3-25": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N3-26": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N3-27": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F13-N3-28": {
+        "familia": "F13",
+        "parte": 2
+      },
+      "F14-N1-01": {
+        "familia": "F14",
+        "parte": 1
+      },
+      "F14-N1-02": {
+        "familia": "F14",
+        "parte": 1
+      },
+      "F14-N2-01": {
+        "familia": "F14",
+        "parte": 1
+      },
+      "F14-N2-02": {
+        "familia": "F14",
+        "parte": 1
+      },
+      "F14-N3-01": {
+        "familia": "F14",
+        "parte": 1
+      },
+      "F14-N3-02": {
+        "familia": "F14",
+        "parte": 1
+      },
+      "F14-N3-03": {
+        "familia": "F14",
+        "parte": 1
+      },
+      "F14-N3-04": {
+        "familia": "F14",
+        "parte": 1
+      },
+      "F14-N3-05": {
+        "familia": "F14",
+        "parte": 1
+      },
+      "F14-N4-01": {
+        "familia": "F14",
+        "parte": 1
+      },
+      "F14-N4-02": {
+        "familia": "F14",
+        "parte": 1
+      },
+      "F14-N4-03": {
+        "familia": "F14",
+        "parte": 1
+      },
+      "F14-N4-04": {
+        "familia": "F14",
+        "parte": 1
+      },
+      "F14-N5-01": {
+        "familia": "F14",
+        "parte": 1
+      },
+      "F14-N2-11": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N2-12": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N2-13": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N2-14": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N2-15": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N2-16": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N3-11": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N3-12": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N3-13": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N3-14": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N3-15": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N3-16": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N3-17": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N3-18": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N3-19": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N3-20": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N3-21": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N3-22": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N3-23": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N3-24": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N3-25": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N3-26": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N3-27": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N3-28": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N3-29": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F14-N3-30": {
+        "familia": "F14",
+        "parte": 2
+      },
+      "F15-N3-11": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N3-12": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N3-13": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N3-14": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N3-15": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N3-16": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N3-17": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N3-18": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N3-19": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N4-11": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N4-12": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N4-13": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N4-14": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N4-15": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N4-16": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N4-17": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N4-18": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N4-19": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N4-20": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N4-21": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N4-22": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N4-23": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N4-24": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N4-25": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N4-26": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N5-11": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N5-12": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N5-13": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N5-14": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F15-N5-15": {
+        "familia": "F15",
+        "parte": 2
+      },
+      "F16-N3-11": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N3-12": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N3-13": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N3-14": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N3-15": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N4-11": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N4-12": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N4-13": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N4-14": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N4-15": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N4-16": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N4-17": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N4-18": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N5-11": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N5-12": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N5-13": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N5-14": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N5-15": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N5-16": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N5-17": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N5-18": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N5-19": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N5-20": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N5-21": {
+        "familia": "F16",
+        "parte": 2
+      },
+      "F16-N5-22": {
+        "familia": "F16",
+        "parte": 2
+      }
+    }
+  }
+}

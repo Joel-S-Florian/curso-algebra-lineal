@@ -1,0 +1,33 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.160
+Lección 34 , Parte 3: Matrices elementales
+
+2
+00:00:09.150 --> 00:00:27.798
+Toda operación elemental por filas se puede hacer multiplicando por una matriz. Esta matriz, la identidad con un menos dos en la fila dos, columna uno, multiplica por la izquierda a nuestra matriz a. El resultado es restarle a la fila dos el doble de la fila uno.
+
+3
+00:00:29.783 --> 00:00:50.735
+La eliminación de la lección veintiséis usa tres operaciones. Cada una es una matriz elemental. Restar dos veces la fila uno a la dos: e dos uno. Sumar la fila uno a la tres: e tres uno. Y sumar tres veces la fila dos a la tres: e tres dos.
+
+4
+00:00:52.733 --> 00:01:10.085
+Aplicadas una tras otra, de derecha a izquierda, llevan a a su forma escalonada u. E dos uno por a da esta matriz. Después, e tres uno. Y por último, e tres dos, que deja la matriz triangular superior u.
+
+5
+00:01:10.083 --> 00:01:19.179
+Despejando a, aparecerá ele: será el producto de las inversas de estas matrices. Lo veremos en la próxima lección.
+
+6
+00:01:21.166 --> 00:01:46.462
+Hay tres tipos de matrices elementales, una por cada operación. Intercambio: la identidad con dos filas intercambiadas. Escalado: la identidad con un número ka distinto de cero en la diagonal. Y reemplazo: la identidad con un número en una posición fuera de la diagonal. La inversa de cada una es del mismo tipo: deshace la operación.
+
+7
+00:01:47.450 --> 00:02:06.242
+Ejercicio propuesto: escribe la matriz elemental de tres por tres que hace erre tres igual a erre tres menos cuatro erre uno, y calcula su inversa. Comprueba su efecto sobre una matriz cualquiera. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+8
+00:02:13.233 --> 00:02:36.969
+En resumen: cada operación por filas es multiplicar por la izquierda por una matriz elemental. La eliminación completa es e tres dos, por e tres uno, por e dos uno, por a, igual a u. Y la inversa de una elemental es del mismo tipo: deshace la operación. Siguiente: lección treinta y cinco, de dónde sale a igual a ele u.

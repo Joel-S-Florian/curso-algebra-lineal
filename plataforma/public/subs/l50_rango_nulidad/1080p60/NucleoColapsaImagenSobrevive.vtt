@@ -1,0 +1,33 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.232
+Lección 50 , Parte 1: Lo que se pierde y lo que sobrevive
+
+2
+00:00:09.216 --> 00:00:28.512
+Veamos qué hace la matriz uno, dos; dos, cuatro, como transformación del plano. Para que quepa en pantalla dibujamos una versión reducida a la quinta parte, que tiene exactamente el mismo núcleo y la misma imagen. Su núcleo es la recta equis más dos ye igual a cero.
+
+3
+00:00:28.500 --> 00:00:38.172
+Tomemos un punto equis y otro que se diferencia de él en un vector del núcleo, equis más ene. Están en una recta paralela al núcleo.
+
+4
+00:00:38.166 --> 00:00:53.934
+Ahora aplicamos la transformación. Todo el plano se aplasta sobre una recta: la recta y igual a dos equis. El núcleo se colapsa al origen, y los dos puntos que diferían en un vector del núcleo aterrizan en el mismo punto.
+
+5
+00:00:54.933 --> 00:01:04.917
+Una dimensión se pierde, la del núcleo; una sobrevive, la de la imagen. Entre las dos suman las dos dimensiones del plano de partida.
+
+6
+00:01:06.916 --> 00:01:25.180
+Con la matriz de tres por cuatro, que lleva el espacio de cuatro dimensiones al de tres, el núcleo tiene dimensión dos y el espacio columna tiene dimensión dos. Dos más dos son cuatro, el número de columnas: de las cuatro dimensiones de partida, se pierden dos y sobreviven dos.
+
+7
+00:01:26.166 --> 00:01:39.846
+Ejercicio propuesto: calcula el rango y la nulidad de estas dos matrices, y comprueba que suman el número de columnas. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+8
+00:01:46.833 --> 00:02:02.049
+En resumen: el núcleo se aplasta al origen y esa dimensión se pierde; la imagen sobrevive, y su dimensión es el rango. Entre las dos suman el número de columnas. Siguiente: la demostración del teorema.

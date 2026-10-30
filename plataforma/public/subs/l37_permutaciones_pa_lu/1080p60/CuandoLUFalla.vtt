@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:05.512
+Lección 37 , Parte 1: Cuando LU falla
+
+2
+00:00:08.500 --> 00:00:22.348
+Intentemos factorizar esta matriz, la del sistema de coeficientes uno, uno, uno; dos, dos, cinco; cuatro, seis, ocho. Hacemos ceros debajo del primer pivote.
+
+3
+00:00:22.333 --> 00:00:26.413
+A la fila dos le restamos dos veces la fila uno.
+
+4
+00:00:30.833 --> 00:00:34.913
+Y a la fila tres, cuatro veces la fila uno.
+
+5
+00:00:39.333 --> 00:00:55.173
+Ahora el pivote de la segunda columna debería estar en la fila dos, pero vale cero. El multiplicador de la fila tres sería dos entre cero: no existe. Con solo operaciones de reemplazo, la factorización ele u falla.
+
+6
+00:00:55.166 --> 00:01:02.798
+La solución es la de la lección veintisiete: intercambiar la fila dos con la fila tres, que tiene un dos.
+
+7
+00:01:04.783 --> 00:01:28.447
+Si hacemos ese intercambio desde el principio, la eliminación ya no se atasca. La matriz con las filas dos y tres cambiadas sí se factoriza: pe a es ele u, con ele con un cuatro y un dos, y u la matriz uno, uno, uno; cero, dos, cuatro; cero, cero, tres. Es el mismo trabajo, con las filas en otro orden.
+
+8
+00:01:30.433 --> 00:01:48.385
+Para resolver a equis igual a be, aplicamos el mismo intercambio a los dos lados: pe a equis igual a pe be. Entonces ele u equis es pe be. Reordenamos be, resolvemos ele ye igual a pe be hacia adelante, y u equis igual a ye hacia atrás.
+
+9
+00:01:49.383 --> 00:02:05.271
+Ejercicio propuesto: halla pe, ele y u con pe a igual a ele u, y resuelve a equis igual a be, para be igual a tres, nueve, dieciocho. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+10
+00:02:12.266 --> 00:02:32.114
+En resumen: si aparece un pivote cero, a igual a ele u puede no existir. Intercambiando filas se obtiene pe a igual a ele u. Y a equis igual a be se resuelve con pe be, ele ye igual a pe be, y u equis igual a ye. Siguiente: las matrices de permutación.

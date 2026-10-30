@@ -1,0 +1,69 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.736
+Lección 26 , Parte 2: Gauss en un sistema 3 × 3
+
+2
+00:00:08.733 --> 00:00:13.221
+Ahora un sistema de tres ecuaciones con tres incógnitas.
+
+3
+00:00:13.216 --> 00:00:16.240
+Lo pasamos a la matriz aumentada.
+
+4
+00:00:16.233 --> 00:00:24.441
+El objetivo: tres ceros debajo de la diagonal. Primero en la columna uno, después en la columna dos.
+
+5
+00:00:26.433 --> 00:00:30.633
+En la columna uno, el pivote es el uno de arriba.
+
+6
+00:00:30.616 --> 00:00:34.696
+A la fila dos le restamos dos veces la fila uno.
+
+7
+00:00:39.116 --> 00:00:42.668
+Y a la fila tres le sumamos la fila uno.
+
+8
+00:00:48.616 --> 00:01:06.736
+Ahora el pivote de la columna dos es el menos uno de la fila dos nueva. Tres entre menos uno es menos tres: a la fila tres le sumamos tres veces la fila dos. Solo usamos filas que ya tienen cero en la columna uno, así no se pierden los ceros conseguidos.
+
+9
+00:01:06.733 --> 00:01:09.637
+La matriz ya está escalonada.
+
+10
+00:01:11.733 --> 00:01:27.093
+Sustitución hacia atrás: diez zeta igual a veinte, zeta vale dos. Menos ye más seis igual a siete: ye vale menos uno. Y equis menos dos menos dos igual a menos tres: equis vale uno.
+
+11
+00:01:27.083 --> 00:01:31.091
+La solución es uno, menos uno, dos.
+
+12
+00:01:33.083 --> 00:01:44.459
+Las tres ecuaciones originales se cumplen: uno menos dos menos dos, menos tres; dos menos tres más dos, uno; y menos uno menos uno más cuatro, dos.
+
+13
+00:01:44.450 --> 00:01:48.386
+En forma matricial: a por la solución da be.
+
+14
+00:01:51.450 --> 00:02:11.850
+¿Por qué en este orden? Columna a columna, de izquierda a derecha, con la fila del pivote actual. Si en la columna dos usáramos la fila uno, volvería a aparecer la equis en la fila tres: se perdería un cero. En un sistema de tres por tres hay que conseguir tres ceros.
+
+15
+00:02:13.850 --> 00:02:26.930
+Errores frecuentes: usar la fila dos vieja como pivote de la columna dos, en vez de la ya transformada; equivocar los signos con un pivote negativo; y copiar mal un valor en la sustitución hacia atrás.
+
+16
+00:02:27.916 --> 00:02:36.460
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+17
+00:02:43.450 --> 00:03:08.986
+En resumen: en un sistema de tres por tres, se hacen dos ceros con el pivote de la columna uno, y uno con el de la columna dos. Cada pivote se usa solo para anular lo que tiene debajo. Después, sustitución hacia atrás, zeta, ye y equis, y verificación en el original. Siguiente: lección veintisiete, pivotes nulos y filas nulas.

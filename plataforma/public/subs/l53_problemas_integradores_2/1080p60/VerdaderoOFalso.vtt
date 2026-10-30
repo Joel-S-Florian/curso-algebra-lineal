@@ -1,0 +1,29 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.280
+Lección 53 , Problema 7: Verdadero o falso
+
+2
+00:00:09.266 --> 00:00:25.082
+Séptimo problema. Tres afirmaciones, y hay que decidir si son verdaderas o falsas. Para una afirmación general verdadera hace falta una demostración. Para una falsa basta un contraejemplo pequeño.
+
+3
+00:00:27.066 --> 00:00:51.642
+Primera: un sistema con dos ecuaciones y tres incógnitas siempre tiene infinitas soluciones. Es falsa. Basta tomar equis más y más zeta igual a uno, y equis más y más zeta igual a dos: no tiene solución, porque el rango de a es uno y el de la aumentada, dos. Tener menos ecuaciones que incógnitas da libertad solo si el sistema es compatible.
+
+4
+00:00:53.633 --> 00:01:21.137
+Segunda: si a es de cuatro por tres y su rango es tres, entonces a por equis igual a be tiene solución para todo be. También es falsa. En este ejemplo, las tres primeras filas dan equis, y, zeta iguales a uno, pero la cuarta pide que sumen cero. Para tener solución con cualquier be hace falta que el rango sea igual al número de filas, cuatro, y aquí el rango no puede pasar de tres.
+
+5
+00:01:23.133 --> 00:01:52.869
+Tercera: si el núcleo de a es solo el vector nulo, entonces a por equis igual a be tiene a lo sumo una solución. Es verdadera y se demuestra. Si equis uno y equis dos son soluciones, a por su diferencia es be menos be, cero. Entonces la diferencia está en el núcleo, que solo contiene al cero, y las dos soluciones coinciden. Ojo: puede no tener ninguna; a lo sumo una no significa siempre una.
+
+6
+00:01:53.866 --> 00:02:08.770
+Ejercicio propuesto: resuelve los ejercicios de verdadero o falso del banco, justificando cada respuesta con una demostración o un contraejemplo. Pausa el video e inténtalo; las soluciones están en el solucionario.
+
+7
+00:02:15.766 --> 00:02:31.990
+En resumen: para refutar basta un contraejemplo pequeño; para afirmar hay que demostrar con las definiciones; y a lo sumo una solución no es lo mismo que siempre una. Siguiente: lección cincuenta y cuatro, las demostraciones clave del curso.

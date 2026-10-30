@@ -1,0 +1,33 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:05.800
+Lección 18 , Parte 1: Suma de matrices
+
+2
+00:00:08.800 --> 00:00:14.224
+Para sumar dos matrices, se suman los números que ocupan la misma posición.
+
+3
+00:00:14.216 --> 00:00:25.688
+Uno más dos, tres. Menos dos más cinco, tres. Tres más menos tres, cero. Y así con cada posición.
+
+4
+00:00:25.683 --> 00:00:31.899
+Cada elemento de a más be es la suma de los elementos de a y de be que ocupan esa misma posición.
+
+5
+00:00:33.883 --> 00:00:39.643
+Pero si las matrices tienen distinta dimensión, como dos por tres y dos por dos…
+
+6
+00:00:39.633 --> 00:00:48.201
+…algún número se queda sin pareja: la tercera columna de a no tiene con quién sumarse. La suma no está definida.
+
+7
+00:00:49.200 --> 00:00:57.744
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+8
+00:01:04.733 --> 00:01:21.749
+En resumen: para sumar a y be, se suman los elementos que ocupan la misma posición. Solo está definida si a y be tienen la misma dimensión, y el resultado tiene esa misma dimensión. Siguiente: multiplicar una matriz por un número.

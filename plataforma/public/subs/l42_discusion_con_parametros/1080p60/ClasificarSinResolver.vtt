@@ -1,0 +1,29 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.208
+Lección 42 , Parte 2: Clasificar sin resolver
+
+2
+00:00:09.200 --> 00:00:28.160
+Veamos un sistema de tres por tres con un parámetro ka en el término independiente. Restamos la primera fila a la segunda y a la tercera, y después, a la tercera, le restamos el doble de la segunda. La última fila queda cero, cero, cero, ka menos tres.
+
+3
+00:00:28.150 --> 00:00:53.062
+Hay dos casos. Si ka vale tres, la última fila es de ceros: los dos rangos valen dos, y hay tres incógnitas. Compatible indeterminado, con un parámetro. Y si ka es distinto de tres, el rango de la aumentada es tres, y el de a, dos: incompatible. Nunca es determinado, para ningún valor de ka.
+
+4
+00:00:55.050 --> 00:01:13.122
+Y si nos interesa la solución, para ka igual a tres, resolvemos como siempre: zeta es te, ye vale uno menos dos te, y equis vale te. Verificamos en la tercera ecuación: te más tres por uno menos dos te, más cinco te, es tres, que es ka.
+
+5
+00:01:15.116 --> 00:01:46.196
+Una advertencia: que la matriz sea cuadrada no significa que sea invertible. Esta matriz, uno, uno; uno, uno, es de dos por dos, pero su rango es uno, menor que dos: su reducida no es la identidad. Tener tantas ecuaciones como incógnitas no basta para que el sistema sea determinado: hace falta que el rango sea ene. Con rango ene, el sistema es determinado para cualquier be: es lo que en la unidad ocho llamaremos matriz invertible.
+
+6
+00:01:47.183 --> 00:02:05.879
+Ejercicio propuesto: discute este sistema según ka, y resuélvelo cuando sea compatible. Como variante, cambia el segundo término independiente por eme, y discute según ka y eme. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+7
+00:02:12.866 --> 00:02:34.946
+En resumen: los parámetros pueden estar en a o en be; siempre se comparan los rangos de a y de la aumentada, y ene. Se escalona sin dividir por expresiones con parámetro. Y que la matriz sea cuadrada no implica que sea invertible: hace falta que el rango sea ene. Siguiente: unidad ocho, núcleo e imagen.

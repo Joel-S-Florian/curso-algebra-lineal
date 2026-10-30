@@ -1,0 +1,57 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:07.096
+Lección 22 , Parte 1: De un sistema a la forma Ax = b
+
+2
+00:00:10.083 --> 00:00:15.195
+Para escribir un sistema en forma matricial, primero lo ordenamos.
+
+3
+00:00:15.183 --> 00:00:23.871
+Todas las incógnitas a la izquierda, en el mismo orden: equis, ye, zeta. Y los números a la derecha.
+
+4
+00:00:23.866 --> 00:00:31.426
+La tercera ecuación, zeta igual a cinco menos cuatro equis, pasa a cuatro equis más zeta igual a cinco.
+
+5
+00:00:31.416 --> 00:00:37.344
+Y como no aparece ye, escribimos cero ye: su coeficiente es cero.
+
+6
+00:00:39.416 --> 00:00:42.800
+El sistema se separa en tres piezas.
+
+7
+00:00:42.800 --> 00:00:50.864
+La matriz a recoge los coeficientes: cada ecuación en una fila, y cada incógnita en una columna, con su signo.
+
+8
+00:00:50.850 --> 00:00:55.242
+Equis es el vector de incógnitas, en el orden elegido.
+
+9
+00:00:55.233 --> 00:00:59.193
+Y be, el vector de términos independientes.
+
+10
+00:00:59.233 --> 00:01:03.889
+A es de tres por tres; equis y be, de tres por uno.
+
+11
+00:01:03.883 --> 00:01:16.243
+El sistema entero cabe en tres símbolos: a equis igual a be. Con eme ecuaciones y ene incógnitas, a es de eme por ene, equis tiene ene componentes y be tiene eme.
+
+12
+00:01:18.233 --> 00:01:34.217
+Errores frecuentes al construir a: olvidar el cero de una incógnita que no aparece; perder el signo, porque el coeficiente de menos zeta es menos uno; cambiar el orden de las incógnitas en una ecuación; y no pasar antes todas las incógnitas a la izquierda.
+
+13
+00:01:35.216 --> 00:01:43.760
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+14
+00:01:50.750 --> 00:02:16.430
+En resumen: primero se ordena el sistema, con las incógnitas a la izquierda, siempre en el mismo orden. A recoge los coeficientes, con un cero si falta una incógnita; equis, las incógnitas; y be, los términos independientes. A es de eme por ene, equis de ene por uno y be de eme por uno. Siguiente: por qué a equis reproduce el sistema.

@@ -1,0 +1,29 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:05.920
+Lección 44 , Parte 3: Base y dimensión
+
+2
+00:00:08.916 --> 00:00:28.740
+Una base es un conjunto de vectores que genera todo el espacio sin tener ninguno de sobra. En el plano, los vectores e uno y e dos, uno cero y cero uno, son una base. Con ellos, el punto tres, uno se escribe de una única manera: tres e uno más uno e dos.
+
+3
+00:00:28.733 --> 00:00:45.221
+Pero también los vectores uno, uno y uno, menos uno forman una base. Con ellos, el mismo punto es dos veces el primero más una vez el segundo. Hay muchas bases, pero en cada una las coordenadas de un vector son únicas.
+
+4
+00:00:47.216 --> 00:01:19.856
+Una base de un subespacio es un conjunto de vectores que cumple dos cosas: es linealmente independiente, y genera el subespacio. Entonces todo vector del subespacio se escribe de una única manera como combinación de la base; esos coeficientes son sus coordenadas. Todas las bases de un mismo subespacio tienen el mismo número de vectores: ese número es la dimensión. El espacio de ene dimensiones tiene dimensión ene, y el subespacio que solo contiene el vector nulo, dimensión cero.
+
+5
+00:01:21.850 --> 00:01:45.778
+Para quedarnos con una base a partir de unos vectores que generan, ponemos los vectores por columnas y escalonamos. Los vectores de las columnas con pivote, en la matriz original, son una base de lo que generan. Aquí, las columnas uno y tres: la dimensión es dos. Por qué hay que tomar las columnas de la matriz original lo veremos en la lección cuarenta y nueve.
+
+6
+00:01:46.766 --> 00:01:59.462
+Ejercicio propuesto: halla una base y la dimensión del espacio generado por las columnas de esta matriz. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+7
+00:02:06.450 --> 00:02:25.242
+En resumen: una base es un conjunto independiente que genera. Las coordenadas respecto de una base son únicas. Y todas las bases tienen el mismo número de vectores: la dimensión. Siguiente: lección cuarenta y cinco, el núcleo de una matriz.

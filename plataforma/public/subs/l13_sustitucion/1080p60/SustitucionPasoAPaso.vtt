@@ -1,0 +1,61 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:05.992
+Lección 13 , Parte 1: El método de sustitución
+
+2
+00:00:08.992 --> 00:00:23.008
+Tres equis más ye igual a once, y equis menos dos ye igual a menos uno. Ya sabemos resolver ecuaciones con una incógnita. La idea de la sustitución es convertir el sistema en una de ellas.
+
+3
+00:00:22.992 --> 00:00:34.344
+Primero, despejamos ye en la primera ecuación, donde su coeficiente es uno: así no aparecen fracciones. Ye es igual a once menos tres equis.
+
+4
+00:00:34.342 --> 00:00:41.398
+Segundo: en la segunda ecuación escribimos once menos tres equis en lugar de ye, entre paréntesis.
+
+5
+00:00:41.392 --> 00:00:50.176
+Tercero: queda una ecuación con una sola incógnita, y la resolvemos como en la lección seis. Equis vale tres.
+
+6
+00:00:50.175 --> 00:00:57.543
+Cuarto: volvemos al despeje para calcular ye. Once menos nueve: ye vale dos.
+
+7
+00:00:57.542 --> 00:01:02.246
+Y quinto: verificamos en las dos ecuaciones originales.
+
+8
+00:01:02.242 --> 00:01:05.386
+La solución es tres, dos.
+
+9
+00:01:08.242 --> 00:01:15.490
+¿Por qué funciona? Porque el sistema nuevo tiene exactamente las mismas soluciones que el original.
+
+10
+00:01:15.490 --> 00:01:30.082
+Despejar ye solo usa las reglas uno y dos, que se pueden deshacer. Y si ye vale once menos tres equis, escribir una cosa u otra es lo mismo. El sistema nuevo tiene una ecuación solo con equis.
+
+11
+00:01:32.073 --> 00:01:39.081
+En el dibujo, al usar ye igual a once menos tres equis, solo miramos puntos de la recta azul.
+
+12
+00:01:39.081 --> 00:01:46.761
+Movemos el punto por la recta azul. La segunda ecuación nos dice cuál de ellos está también en la naranja.
+
+13
+00:01:49.381 --> 00:01:57.205
+En equis igual a tres, el punto cae justo sobre la recta naranja: es la solución, tres, dos.
+
+14
+00:01:58.198 --> 00:02:06.742
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+15
+00:02:13.731 --> 00:02:34.179
+En resumen: en el método de sustitución, despejamos una incógnita en una ecuación y la sustituimos, entre paréntesis, en la otra. Queda una ecuación con una incógnita; la resolvemos, volvemos al despeje y verificamos en las ecuaciones originales. Siguiente: cuándo conviene sustituir.

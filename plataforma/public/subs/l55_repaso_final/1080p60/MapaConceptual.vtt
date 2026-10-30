@@ -1,0 +1,37 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.112
+Lección 55 , Parte 1: El mapa del curso
+
+2
+00:00:09.100 --> 00:00:16.876
+Este es el mapa del curso. Todo gira alrededor de un sistema lineal, a por equis igual a be.
+
+3
+00:00:16.866 --> 00:00:29.538
+A la izquierda, las operaciones elementales: Gauss, Gauss-Jordan y la factorización L U transforman el sistema sin cambiar sus soluciones, y llevan a la solución, o a comprobar que no la hay.
+
+4
+00:00:29.533 --> 00:00:44.629
+En el centro, el rango: el número de pivotes que dejan esas operaciones. Con él, el teorema de Rouché-Frobenius clasifica el sistema en compatible determinado, indeterminado o incompatible, sin resolverlo.
+
+5
+00:00:44.616 --> 00:01:00.840
+A la derecha, la estructura: el núcleo, las soluciones del sistema homogéneo, y el espacio columna, lo que se puede alcanzar. Las soluciones son una solución particular más el núcleo, y el rango y la nulidad suman el número de incógnitas.
+
+6
+00:01:02.833 --> 00:01:29.881
+Las diez ideas que hay que llevarse. Una: una ecuación lineal es una recta, un plano o un hiperplano. Dos: un sistema tiene cero, una o infinitas soluciones. Tres: las operaciones elementales no cambian las soluciones. Cuatro: Gauss escalona y sustituye hacia atrás. Cinco: Gauss-Jordan da la reducida y la lectura directa.
+
+7
+00:01:29.866 --> 00:01:54.682
+Seis: con la factorización L U se factoriza una vez y se resuelve muchas veces. Siete: el rango es el número de pivotes. Ocho: Rouché-Frobenius compara los rangos con el número de incógnitas. Nueve: la solución general es una particular más el núcleo. Y diez: rango más nulidad es el número de columnas.
+
+8
+00:01:55.666 --> 00:02:09.946
+Ejercicio propuesto: dibuja tu propio mapa del curso en una hoja, con flechas, y comprueba cada flecha con un ejemplo. Pausa el video e inténtalo; la ficha del banco te ofrece un ejemplo completo.
+
+9
+00:02:16.933 --> 00:02:33.637
+En resumen: sistema, operaciones, rango, núcleo y espacio columna forman un solo mapa, y los pivotes conectan todas las ideas. Son diez ideas esenciales. Siguiente: la prueba final integradora.

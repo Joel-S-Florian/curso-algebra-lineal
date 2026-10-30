@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.232
+Lección 12 , Parte 1: Más ecuaciones que incógnitas
+
+2
+00:00:09.216 --> 00:00:14.040
+Tres ecuaciones con dos incógnitas: tres rectas en el plano.
+
+3
+00:00:14.033 --> 00:00:22.457
+Equis más ye igual a dos, equis menos ye igual a cero, y dos equis más ye igual a ce, que de momento vale tres.
+
+4
+00:00:22.450 --> 00:00:30.994
+Aun así hay solución: las tres rectas pasan por el mismo punto, el uno, uno. Dos más uno es tres.
+
+5
+00:00:30.983 --> 00:00:36.719
+Si cambiamos el término independiente de la tercera a cuatro, la recta se desplaza.
+
+6
+00:00:36.716 --> 00:00:47.420
+Las rectas se cortan dos a dos, pero ya no hay un punto común: dos más uno no es cuatro. Mismo número de ecuaciones, distinta respuesta.
+
+7
+00:00:47.416 --> 00:00:55.960
+Con ce igual a cuatro el sistema es incompatible. Tener más ecuaciones que incógnitas no decide nada por sí solo.
+
+8
+00:00:57.950 --> 00:01:15.254
+Para decidir: resolvemos con dos de las ecuaciones, y obtenemos uno, uno. Luego comprobamos esa solución en la tercera: dos por uno más uno es tres. El sistema es compatible determinado si ce es tres, e incompatible si no.
+
+9
+00:01:16.250 --> 00:01:24.794
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+10
+00:01:31.783 --> 00:01:51.223
+En resumen. Más ecuaciones que incógnitas: puede haber solución o no. Se resuelve con unas ecuaciones y se comprueba en las demás. El número de ecuaciones, por sí solo, no clasifica un sistema. Siguiente: menos ecuaciones que incógnitas.

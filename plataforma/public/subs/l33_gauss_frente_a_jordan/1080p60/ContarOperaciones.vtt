@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.328
+Lección 33 , Parte 1: ¿Cuánto cuesta cada método?
+
+2
+00:00:09.316 --> 00:00:23.380
+Gauss y Gauss-Jordan resuelven los mismos sistemas, pero no cuestan lo mismo. Fijémonos en una matriz de cinco por cinco. Gauss solo fabrica ceros debajo de la diagonal, que son los verdes.
+
+3
+00:00:23.366 --> 00:00:35.846
+Gauss-Jordan también los fabrica encima, los naranjas. Para una matriz de ene por ene, Gauss hace ene por ene menos uno, entre dos ceros; Gauss-Jordan, el doble.
+
+4
+00:00:37.833 --> 00:00:50.241
+Contemos las multiplicaciones y divisiones, que son las operaciones caras. Para un sistema de ene por ene con una columna de términos independientes, y sin intercambios de filas.
+
+5
+00:00:50.233 --> 00:01:09.361
+Gauss con sustitución hacia atrás hace ene por ene menos uno por dos ene más cinco, entre seis, en la eliminación, más ene por ene más uno entre dos en la sustitución: en total, ene cubo más tres ene cuadrado menos ene, entre tres. Aproximadamente, ene cubo entre tres.
+
+6
+00:01:09.350 --> 00:01:22.838
+Gauss-Jordan hace, en cada pivote, ene por ene menos ka más uno operaciones: en total, ene cuadrado por ene más uno, entre dos. Aproximadamente, ene cubo entre dos.
+
+7
+00:01:24.833 --> 00:01:51.689
+Con números. Para tres incógnitas, diecisiete operaciones frente a dieciocho: casi igual. Para diez, cuatrocientas treinta frente a quinientas cincuenta. Para cien, trescientas cuarenta y tres mil trescientas frente a quinientas cinco mil. Y para mil, más de trescientos treinta y cuatro millones frente a más de quinientos millones. El cociente se acerca a uno y medio.
+
+8
+00:01:53.683 --> 00:02:10.699
+Dibujemos el cociente entre las operaciones de Gauss-Jordan y las de Gauss, según el tamaño del sistema. Para sistemas pequeños casi no hay diferencia, pero al crecer ene el cociente sube hacia tres medios: Gauss-Jordan necesita un cincuenta por ciento más de operaciones.
+
+9
+00:02:11.683 --> 00:02:31.219
+Ejercicio propuesto: con las fórmulas de la lección, calcula cuántas multiplicaciones y divisiones hacen Gauss y Gauss-Jordan en un sistema de cuatro y de cinco incógnitas. ¿Qué método gana, y por cuánto? Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+10
+00:02:38.216 --> 00:03:02.168
+En resumen: Gauss con sustitución hacia atrás hace unas ene cubo entre tres multiplicaciones y divisiones. Gauss-Jordan, unas ene cubo entre dos: un cincuenta por ciento más cuando ene es grande. Y para ene pequeño la diferencia es mínima: con tres incógnitas, diecisiete frente a dieciocho. Siguiente: cuándo conviene cada uno.

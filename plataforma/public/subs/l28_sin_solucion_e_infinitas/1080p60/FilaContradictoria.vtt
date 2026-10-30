@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.448
+Lección 28 , Parte 1: Cuando aparece 0 = c
+
+2
+00:00:09.433 --> 00:00:22.513
+Tres ecuaciones con tres incógnitas. Eliminamos como siempre: a la fila dos le restamos la uno, a la tres, dos veces la uno, y después, a la tres le restamos la dos.
+
+3
+00:00:36.933 --> 00:00:41.589
+La última fila es cero, cero, cero, uno.
+
+4
+00:00:41.583 --> 00:00:50.679
+Dice cero igual a uno. Ninguna terna la cumple: el sistema no tiene solución. Es incompatible.
+
+5
+00:00:52.666 --> 00:01:11.146
+¿Por qué podemos concluir eso? Las operaciones elementales conservan el conjunto solución, y el sistema final no tiene ninguna solución. Luego el original tampoco. Además, la tercera ecuación menos las otras dos da directamente cero igual a uno.
+
+6
+00:01:11.133 --> 00:01:16.221
+Geométricamente: tres planos sin ningún punto común a los tres.
+
+7
+00:01:18.216 --> 00:01:28.104
+La regla: si una forma escalonada tiene una fila de ceros con un número distinto de cero en la columna de be, es decir, un pivote en la columna de be…
+
+8
+00:01:28.100 --> 00:01:34.196
+…el sistema es incompatible. Vale cualquier número distinto de cero.
+
+9
+00:01:34.183 --> 00:01:45.751
+Si ese número es cero, la fila es cero igual a cero: redundante. Y si no aparece ninguna fila así, hay solución, como veremos en el siguiente video.
+
+10
+00:01:47.750 --> 00:02:04.046
+Errores frecuentes: seguir sustituyendo hacia atrás después de ver cero igual a uno; leer esa fila como equis, ye y zeta iguales a cero; y confundir una fila nula entera, que es redundante, con una que termina en un número distinto de cero.
+
+11
+00:02:05.033 --> 00:02:13.577
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+12
+00:02:20.566 --> 00:02:43.078
+En resumen: una fila de ceros que termina en un número ce distinto de cero es la ecuación imposible cero igual a ce. Como las operaciones conservan las soluciones, el sistema original es incompatible. Un pivote en la columna de be significa: sin solución. Siguiente: variables libres y solución paramétrica.

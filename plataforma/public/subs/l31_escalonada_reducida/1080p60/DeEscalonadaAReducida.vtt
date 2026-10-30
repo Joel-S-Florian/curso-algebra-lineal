@@ -1,0 +1,33 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.376
+Lección 31 , Parte 1: Forma escalonada reducida
+
+2
+00:00:09.366 --> 00:00:18.318
+Esta es la forma escalonada del sistema de la lección veintiséis. Para leer la solución, hay que sustituir hacia atrás.
+
+3
+00:00:18.316 --> 00:00:35.668
+Si seguimos operando con las filas, llegamos a esta otra matriz, equivalente a la anterior: tiene la misma solución, pero se lee directamente. Equis uno, ye menos uno, zeta dos. Se llama forma escalonada reducida.
+
+4
+00:00:37.666 --> 00:01:02.290
+Una matriz está en forma escalonada reducida si cumple tres cosas. Uno: está en forma escalonada. Dos: cada pivote vale uno. Y tres: cada pivote es la única entrada no nula de su columna; hay ceros arriba, y también abajo. Gauss deja ceros solo debajo de los pivotes; Gauss-Jordan, también encima.
+
+5
+00:01:04.283 --> 00:01:24.899
+¿Reducida o no? La primera sí: pivotes uno, con ceros arriba y abajo. La segunda no: un pivote vale dos. La tercera no: encima del pivote de la segunda fila hay un dos. Y la cuarta sí: la columna sin pivote puede tener cualquier número.
+
+6
+00:01:26.883 --> 00:01:44.259
+Errores frecuentes: olvidar los ceros encima de un pivote, porque entonces la matriz es solo escalonada; dejar un pivote distinto de uno, cuando hay que dividir la fila entera, con be; y pensar que las columnas sin pivote deben ser ceros, cuando pueden valer cualquier número.
+
+7
+00:01:45.250 --> 00:01:59.938
+Ejercicio propuesto: decide cuáles de estas tres matrices están en forma escalonada reducida, y justifica cada respuesta con la definición. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+8
+00:02:06.933 --> 00:02:30.189
+En resumen: una matriz es escalonada reducida si es escalonada, sus pivotes valen uno, y hay ceros también encima de cada pivote. Gauss deja ceros debajo de los pivotes; Gauss-Jordan, también encima. Y de la reducida, la solución se lee directamente. Siguiente: cómo se llega a ella, paso a paso.

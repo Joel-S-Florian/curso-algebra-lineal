@@ -1,0 +1,53 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:05.968
+Lección 4 , Parte 2: Subíndices y sumatorios
+
+2
+00:00:08.966 --> 00:00:12.494
+Con muchas incógnitas se acaban las letras.
+
+3
+00:00:12.483 --> 00:00:19.131
+La solución es numerarlas con subíndices: equis uno, equis dos, hasta equis ene.
+
+4
+00:00:22.483 --> 00:00:32.371
+Un subíndice no es una operación: equis sub dos es simplemente la segunda incógnita. No es equis por dos, ni equis al cuadrado.
+
+5
+00:00:35.083 --> 00:00:42.667
+Con dos subíndices organizamos números en una tabla: el primero indica la fila, y el segundo, la columna.
+
+6
+00:00:42.666 --> 00:00:46.842
+a dos tres está en la fila dos, columna tres.
+
+7
+00:00:53.466 --> 00:01:01.386
+Y no es lo mismo que a tres dos. Así nombraremos los números de una matriz, en la lección dieciséis.
+
+8
+00:01:03.383 --> 00:01:12.551
+La letra griega sigma significa: suma de. Debajo se indica dónde empieza el índice, y arriba, dónde termina.
+
+9
+00:01:12.550 --> 00:01:21.214
+Damos al índice los valores uno, dos, tres y cuatro, y sumamos: uno más dos más tres más cuatro, diez.
+
+10
+00:01:22.200 --> 00:01:36.384
+Lo que va detrás de sigma se calcula para cada valor del índice. Con subíndices, así se escribe el lado izquierdo de una ecuación lineal. Y el nombre del índice no importa: es un índice mudo.
+
+11
+00:01:40.700 --> 00:01:54.092
+Con sigma, la ecuación lineal general con ene incógnitas cabe en una línea: la suma de a jota por equis jota, con jota de uno a ene, es igual a be. La estudiaremos en la lección cinco.
+
+12
+00:01:55.083 --> 00:02:03.627
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+13
+00:02:10.616 --> 00:02:33.968
+En resumen: con subíndices, equis uno, equis dos, hasta equis ene, tenemos muchas incógnitas con una sola letra. a dos tres está en la fila dos, columna tres, y el orden importa. Y sigma resume una suma: índice, inicio, final y lo que se suma. Siguiente: implicación y equivalencia.

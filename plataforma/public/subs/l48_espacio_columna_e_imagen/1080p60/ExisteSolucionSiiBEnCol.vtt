@@ -1,0 +1,29 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:07.072
+Lección 48 , Parte 2: ¿Cuándo tiene solución A x = b?
+
+2
+00:00:10.066 --> 00:00:32.530
+Ahora la respuesta a la pregunta central del curso. El sistema a por equis igual a be tiene solución si y solo si be pertenece al espacio columna de a. Resolver el sistema es buscar los coeficientes con los que las columnas se combinan para dar be. Y esto equivale a que el rango de a sea igual al de la matriz aumentada: añadir be no debe crear un pivote nuevo.
+
+3
+00:00:34.516 --> 00:00:55.924
+En el plano, con la matriz de antes, el espacio columna es la recta y igual a dos equis. El vector tres, seis está sobre la recta: a por equis igual a ese vector tiene solución. El vector uno, cero queda fuera de la recta: ninguna combinación de las columnas lo alcanza, y el sistema es incompatible.
+
+4
+00:00:57.916 --> 00:01:20.236
+Con la matriz de tres por cuatro: el vector uno, tres, dos es la columna uno más la columna tres, así que está en el espacio columna, y el sistema es compatible. En cambio, con el vector uno, cero, cero el rango de a es dos, pero el de la aumentada es tres: no está en el espacio columna, y el sistema es incompatible.
+
+5
+00:01:22.233 --> 00:01:48.105
+Lo mismo se dice con transformaciones, como en la lección veintiuno. La imagen de la transformación te de equis igual a a por equis es el conjunto de todos los vectores que puede alcanzar, y es exactamente el espacio columna. Que a por equis igual a be tenga solución es que be sea alcanzable. Y si el espacio columna es todo el espacio de eme dimensiones, el sistema tiene solución para cualquier be.
+
+6
+00:01:49.100 --> 00:02:03.284
+Ejercicio propuesto: decide, mirando los rangos, si tiene solución el sistema para cada uno de estos dos vectores. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+7
+00:02:10.283 --> 00:02:29.795
+En resumen: a por equis igual a be tiene solución exactamente cuando be está en el espacio columna, lo que equivale a que los rangos coincidan. El espacio columna es la imagen de la transformación: lo que se puede alcanzar. Siguiente: lección cuarenta y nueve, una base del espacio columna.

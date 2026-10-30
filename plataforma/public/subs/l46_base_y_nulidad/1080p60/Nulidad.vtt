@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:05.416
+Lección 46 , Parte 2: La nulidad
+
+2
+00:00:08.400 --> 00:00:32.400
+La nulidad de a es la dimensión de su núcleo, y como cada variable libre aporta un vector a la base, es el número de variables libres. Ahora bien: cada columna de a, o tiene pivote, o es libre; y el número de pivotes es el rango. Por eso, la nulidad es ene menos el rango, donde ene es el número de columnas, es decir, de incógnitas.
+
+3
+00:00:34.400 --> 00:01:02.936
+Tres ejemplos. La matriz a, de tres por cuatro, tiene rango dos, así que su nulidad es cuatro menos dos, dos: el núcleo es un plano dentro del espacio de cuatro dimensiones. La matriz be, de dos por tres, también tiene rango dos: nulidad uno, una recta. Y la matriz ce, de tres por dos, con rango dos, tiene nulidad cero: su núcleo es solo el vector nulo.
+
+4
+00:01:04.933 --> 00:01:35.917
+De aquí salen varias consecuencias. El núcleo es solo el vector nulo exactamente cuando el rango es ene, es decir, cuando todas las columnas tienen pivote. Si hay menos ecuaciones que incógnitas, la nulidad es al menos ene menos eme, positiva: un sistema homogéneo con más incógnitas que ecuaciones siempre tiene soluciones distintas de la trivial. Y un sistema compatible es determinado justo cuando la nulidad es cero, que es el criterio de Rouché-Frobenius escrito con la nulidad.
+
+5
+00:01:36.916 --> 00:01:51.484
+Ejercicio propuesto: una matriz tiene dos filas y cinco columnas. ¿Qué puedes decir de su nulidad, y de su rango? Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+6
+00:01:58.483 --> 00:02:17.299
+En resumen: la nulidad es la dimensión del núcleo, el número de variables libres, y es ene menos el rango. Con más incógnitas que ecuaciones siempre hay soluciones no triviales. Siguiente: lección cuarenta y siete, la estructura de las soluciones de un sistema cualquiera.

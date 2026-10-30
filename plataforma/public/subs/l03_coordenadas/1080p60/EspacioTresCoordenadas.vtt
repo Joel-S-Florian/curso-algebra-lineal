@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.304
+Lección 3 , Parte 4: El espacio de tres coordenadas
+
+2
+00:00:09.304 --> 00:00:16.288
+En el espacio necesitamos tres números, porque hay tres direcciones: equis, ye y zeta.
+
+3
+00:00:16.287 --> 00:00:25.119
+Para llegar al punto dos, uno, tres, avanzamos dos en la dirección equis, uno en la dirección ye, y subimos tres.
+
+4
+00:00:25.104 --> 00:00:30.216
+Al conjunto de todas las ternas de números reales lo llamamos erre tres.
+
+5
+00:00:31.204 --> 00:00:36.052
+Las soluciones de equis más ye más zeta igual a tres forman un plano.
+
+6
+00:00:36.037 --> 00:00:42.325
+El punto uno, uno, uno está en él, porque uno más uno más uno es tres.
+
+7
+00:00:42.320 --> 00:00:48.224
+Dibujamos solo el trozo que cae en la zona positiva: el plano real es infinito.
+
+8
+00:00:54.320 --> 00:01:10.184
+¿Y con cuatro incógnitas? Una solución es una lista de cuatro números. No podemos dibujarla, pero el álgebra funciona exactamente igual. Los dibujos nos ayudan a entender; no son demostraciones.
+
+9
+00:01:11.184 --> 00:01:19.728
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+10
+00:01:26.728 --> 00:01:48.376
+En resumen: un punto del espacio es una terna, equis, ye, zeta. Una ecuación lineal con tres incógnitas tiene por gráfica un plano. Y con ene incógnitas, una solución es una lista de ene números, aunque no se pueda dibujar. Siguiente: lección cuatro, el lenguaje matemático.

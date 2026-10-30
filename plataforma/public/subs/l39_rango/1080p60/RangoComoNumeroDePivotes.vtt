@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.256
+Lección 39 , Parte 1: El rango de una matriz
+
+2
+00:00:08.250 --> 00:00:22.914
+Tomemos la matriz uno, dos, tres; dos, cuatro, seis; uno, uno, uno. La última columna, de ceros, solo está para poder operar. Vamos a escalonarla.
+
+3
+00:00:22.900 --> 00:00:30.700
+A la fila dos le restamos dos veces la fila uno: queda de ceros. Es el doble de la primera.
+
+4
+00:00:31.400 --> 00:00:34.928
+A la fila tres le restamos la fila uno.
+
+5
+00:00:39.900 --> 00:00:47.196
+Y como el pivote de la segunda columna debería estar en la fila dos, intercambiamos las filas dos y tres.
+
+6
+00:00:47.183 --> 00:00:57.095
+La forma escalonada tiene dos pivotes, y una fila de ceros. El número de pivotes es el rango de la matriz: aquí, dos.
+
+7
+00:00:59.083 --> 00:01:22.411
+El rango de una matriz es el número de pivotes de cualquier forma escalonada suya, que es lo mismo que el número de filas no nulas. Está bien definido porque las posiciones de los pivotes no dependen del camino, y la forma reducida es única. Y como hay a lo sumo un pivote por fila y uno por columna, el rango nunca supera ni al número de filas ni al de columnas.
+
+8
+00:01:24.400 --> 00:01:42.088
+Si el rango es igual al número de filas, todas las filas tienen pivote. Si es igual al número de columnas, todas las columnas lo tienen. Y si la matriz es cuadrada, de ene por ene, y su rango es ene, su forma reducida es la identidad.
+
+9
+00:01:43.083 --> 00:01:55.923
+Ejercicio propuesto: calcula el rango de esta matriz escalonándola, e indica su forma reducida. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+10
+00:02:02.916 --> 00:02:21.996
+En resumen: el rango es el número de pivotes de una forma escalonada. Está bien definido, porque la forma reducida es única. Y es menor o igual que el mínimo entre el número de filas y el de columnas. Siguiente: el rango de a y el de la matriz aumentada.

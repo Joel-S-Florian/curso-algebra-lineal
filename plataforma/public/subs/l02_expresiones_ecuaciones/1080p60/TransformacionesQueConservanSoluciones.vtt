@@ -1,0 +1,57 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:07.240
+Lección 2 , Parte 3: Transformar una ecuación sin cambiar sus soluciones
+
+2
+00:00:10.240 --> 00:00:14.968
+Volvamos a la balanza: dos equis más uno igual a siete.
+
+3
+00:00:14.956 --> 00:00:31.108
+Si quitamos uno de cada plato, la balanza sigue equilibrada: dos equis igual a seis. Si dejamos la mitad en cada plato, también: equis igual a tres. Así llegamos a la solución sin romper nunca el equilibrio.
+
+4
+00:00:33.106 --> 00:00:42.226
+Las dos reglas seguras son: sumar o restar lo mismo en ambos lados, y multiplicar o dividir ambos lados por un número distinto de cero.
+
+5
+00:00:42.226 --> 00:00:49.450
+Lo que en el colegio se llama pasar restando es la regla uno escrita deprisa: restar uno en los dos lados.
+
+6
+00:00:54.226 --> 00:00:57.154
+¿Por qué no cambian las soluciones?
+
+7
+00:00:57.154 --> 00:01:06.562
+Porque cada paso se puede deshacer: si resto uno, puedo volver sumando uno; si divido entre dos, vuelvo multiplicando por dos.
+
+8
+00:01:06.554 --> 00:01:26.114
+Si a es igual a be, sumar ce a los dos lados mantiene la igualdad. Y si a más ce es igual a be más ce, restando ce volvemos a a igual a be. Así, un número cumple la primera ecuación si y solo si cumple la última. Decimos que son equivalentes.
+
+9
+00:01:28.104 --> 00:01:31.224
+Hay pasos que no se pueden deshacer.
+
+10
+00:01:31.221 --> 00:01:51.525
+Multiplicar por cero convierte cualquier ecuación en cero igual a cero: ahora la cumple cualquier número. Elevar al cuadrado puede añadir soluciones falsas: menos dos cumple equis al cuadrado igual a cuatro, pero no equis igual a dos. Y dividir entre equis puede hacer perder la solución equis igual a cero.
+
+11
+00:01:51.521 --> 00:01:55.409
+Por eso la regla dos dice: distinto de cero.
+
+12
+00:01:59.521 --> 00:02:07.825
+Y al final, siempre, verificar en la ecuación original: dos por tres más uno es siete. Correcto.
+
+13
+00:02:08.821 --> 00:02:17.365
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+14
+00:02:24.354 --> 00:02:53.010
+En resumen: sumar o restar lo mismo a los dos lados no cambia las soluciones. Multiplicar o dividir los dos lados por un número distinto de cero, tampoco. Funcionan porque cada paso se puede deshacer. En cambio, multiplicar por cero, elevar al cuadrado o dividir entre una expresión pueden ganar o perder soluciones. Siguiente: lección tres, coordenadas en la recta, el plano y el espacio.

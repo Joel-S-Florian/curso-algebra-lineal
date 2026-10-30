@@ -1,0 +1,33 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.376
+Lección 45 , Parte 2: ¿Está un vector en el núcleo?
+
+2
+00:00:09.366 --> 00:00:23.046
+Tomemos esta matriz de tres por cuatro. Su núcleo está dentro del espacio de cuatro dimensiones. Para saber si un vector pertenece al núcleo basta multiplicar y ver si el resultado es el vector nulo.
+
+3
+00:00:23.033 --> 00:00:33.641
+Con el vector menos tres, uno, menos dos, uno, cada fila da cero. A por ve es el vector nulo, así que ve pertenece al núcleo.
+
+4
+00:00:33.633 --> 00:00:49.449
+Con el vector uno, cero, cero, uno, en cambio, sale dos, seis, cuatro. No es el vector nulo, así que uve doble no está en el núcleo. Basta que una sola componente no sea cero.
+
+5
+00:00:51.433 --> 00:01:09.817
+Hay un atajo. El vector ve resulta ser la suma de estos dos vectores del núcleo, ene uno y ene dos. Como el núcleo es un subespacio, cualquier combinación de ellos también está en él. De dónde salen ene uno y ene dos lo veremos en la lección siguiente.
+
+6
+00:01:11.816 --> 00:01:33.920
+Estar en el núcleo es lo mismo que cumplir a por equis igual a cero, es decir, ser solución del sistema homogéneo. Y, leyendo por columnas, es lo mismo que una relación entre las columnas de a: una combinación de las columnas, con coeficientes equis, que da cero. Esa lectura por columnas la usaremos más adelante.
+
+7
+00:01:34.916 --> 00:01:46.772
+Ejercicio propuesto: decide cuáles de estos dos vectores están en el núcleo de la matriz. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+8
+00:01:53.766 --> 00:02:12.126
+En resumen: equis está en el núcleo exactamente cuando a por equis es cero. Se comprueba multiplicando, y todas las componentes deben dar cero. Es lo mismo que una relación entre las columnas de a. Siguiente: lección cuarenta y seis, una base del núcleo y la nulidad.

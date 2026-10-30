@@ -1,0 +1,37 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.472
+Lección 35 , Parte 1: Los multiplicadores se guardan
+
+2
+00:00:09.466 --> 00:00:21.466
+Repitamos la eliminación del sistema de la lección veintiséis, pero esta vez guardando cada multiplicador. A la derecha empezamos con la identidad: será nuestra matriz ele.
+
+3
+00:00:21.450 --> 00:00:32.082
+Para anular el dos, a la fila dos le restamos dos veces la fila uno. El multiplicador es dos: lo anotamos en la posición dos uno de ele.
+
+4
+00:00:32.066 --> 00:00:45.290
+Para anular el menos uno, a la fila tres le restamos menos uno veces la fila uno, o sea, le sumamos la fila uno. El multiplicador es menos uno, y va en la posición tres uno.
+
+5
+00:00:45.283 --> 00:00:55.915
+Y para anular el tres de la segunda columna, le restamos menos tres veces la fila dos. El multiplicador es menos tres, en la posición tres dos.
+
+6
+00:00:59.283 --> 00:01:18.435
+Al terminar, a la izquierda queda u, la forma escalonada; a la derecha, ele, con los multiplicadores en su sitio. La regla es sencilla: el elemento i jota de ele es el multiplicador que se usó al restar a la fila i el múltiplo jota de la fila j. Y a es ele por u.
+
+7
+00:01:20.433 --> 00:01:43.593
+Comprobémoslo. La fila dos de ele u es dos veces la fila uno de u, más una vez la fila dos: dos, tres, uno, que es la fila dos de a. Y la fila tres: menos una vez la fila uno, menos tres veces la fila dos, más la fila tres: menos uno, uno, dos. Correcto.
+
+8
+00:01:44.583 --> 00:01:57.495
+Ejercicio propuesto: halla ele y u por eliminación, anotando el multiplicador, y comprueba que a es igual a ele por u. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+9
+00:02:04.483 --> 00:02:29.179
+En resumen: al eliminar con erre i igual a erre i menos eme i jota por erre jota, se anota eme i jota en la posición i jota de ele. U es la forma escalonada, y ele tiene unos en la diagonal. Así, a es ele por u, sin cálculos extra: la eliminación ya contiene a ele. Siguiente: por qué los multiplicadores caen justo en su sitio.

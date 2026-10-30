@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.856
+Lección 53 , Problema 6: Núcleo, imagen y solución
+
+2
+00:00:09.850 --> 00:00:28.114
+Sexto problema: una misma matriz de tres por cuatro y un vector be. Hay que reducir y hallar el rango, resolver, dar una base del núcleo, una base del espacio columna y decir si be está en él, y decidir si hay solución para otro lado derecho, uno, cero, cero.
+
+3
+00:00:30.100 --> 00:01:00.940
+Tras reducir, aparecen pivotes en las columnas uno y tres, y una fila de ceros: el rango de a y el de la aumentada valen dos, menos que cuatro. Es compatible indeterminado, con dos parámetros. Despejando, equis uno es uno menos dos equis dos menos equis cuatro, y equis tres, uno menos dos equis cuatro. La solución general es la particular, uno, cero, uno, cero, más ese por un vector, más te por otro.
+
+4
+00:01:02.933 --> 00:01:41.165
+Para el núcleo, una base son los vectores de las variables libres: menos dos, uno, cero, cero; y menos uno, cero, menos dos, uno. La nulidad es dos. Para el espacio columna, las columnas uno y tres de la matriz original; y be es la columna uno más la columna tres, así que está en él, lo que concuerda con que haya solución. Con be prima igual a uno, cero, cero, el rango de la aumentada sube a tres: no está en el espacio columna y el sistema es incompatible. Y se comprueba el teorema: dos más dos es cuatro.
+
+5
+00:01:42.150 --> 00:01:58.998
+Ejercicio propuesto: haz la ficha completa de la matriz del ejercicio del banco: rango, solución, núcleo, espacio columna, y la comprobación de rango más nulidad. Pausa el video e inténtalo; la solución está en el solucionario.
+
+6
+00:02:05.983 --> 00:02:28.183
+En resumen: una sola reducción contesta el rango, la solución, el núcleo y las columnas pivote. Todo es coherente: be está en el espacio columna exactamente cuando hay solución. Y rango más nulidad igual a ene sirve de comprobación final. Siguiente: verdadero o falso, con contraejemplos.

@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:04.624
+Tercera parte: rectas paralelas.
+
+2
+00:00:07.616 --> 00:00:14.120
+Ahora el sistema: equis más ye igual a cinco, y dos equis más dos ye igual a cuatro.
+
+3
+00:00:14.116 --> 00:00:23.788
+Las dos rectas tienen la misma pendiente, pero distinta altura: son paralelas y nunca se cortan. No hay ningún punto común.
+
+4
+00:00:23.783 --> 00:00:30.767
+Algebraicamente: dividimos la segunda ecuación entre dos, y queda equis más ye igual a dos.
+
+5
+00:00:30.766 --> 00:00:37.270
+Entonces el mismo número, equis más ye, tendría que valer cinco y dos a la vez.
+
+6
+00:00:37.266 --> 00:00:44.370
+Eso lleva a cinco igual a dos: una contradicción. El sistema no tiene solución.
+
+7
+00:00:47.366 --> 00:00:52.982
+En los coeficientes: el par dos, dos es el doble del par uno, uno.
+
+8
+00:00:52.966 --> 00:00:57.334
+Pero el término independiente cuatro no es el doble de cinco.
+
+9
+00:00:57.333 --> 00:01:04.821
+Coeficientes proporcionales, pero términos independientes no: rectas paralelas, ninguna solución.
+
+10
+00:01:04.816 --> 00:01:10.672
+El sistema es contradictorio: las dos ecuaciones piden cosas incompatibles.
+
+11
+00:01:13.666 --> 00:01:27.898
+Ejercicio propuesto: ¿para qué valores de ce este sistema no tiene solución? ¿Y para cuáles tiene infinitas? Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+12
+00:01:32.883 --> 00:01:55.947
+En resumen: dos rectas paralelas distintas no tienen ningún punto común, y el sistema no tiene solución. Se detecta al llegar a una igualdad falsa, como cinco igual a dos. En los coeficientes: los de las incógnitas son proporcionales, pero los términos independientes no. En el siguiente video: rectas coincidentes.

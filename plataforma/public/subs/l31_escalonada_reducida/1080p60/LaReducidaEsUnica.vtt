@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.328
+Lección 31 , Parte 3: La forma reducida es única
+
+2
+00:00:09.328 --> 00:00:21.256
+En la lección veinticinco vimos que una matriz tiene muchas formas escalonadas. Partamos otra vez de la misma matriz, por dos caminos distintos, hasta la forma reducida.
+
+3
+00:00:21.244 --> 00:00:34.228
+Camino a: a la fila dos le restamos tres medios de la fila uno; dividimos la fila dos entre menos siete; a la fila uno le restamos cuatro veces la fila dos; y la dividimos entre dos.
+
+4
+00:00:38.444 --> 00:00:51.500
+Camino be: intercambiamos las filas; a la fila dos le restamos dos tercios de la fila uno; la dividimos por catorce tercios; sumamos la fila dos a la uno; y la dividimos entre tres.
+
+5
+00:00:59.944 --> 00:01:13.192
+Los dos caminos terminan en la misma matriz: uno, cero, uno; cero, uno, dos. Con la forma escalonada, cada camino daba una distinta; con la reducida, no.
+
+6
+00:01:15.178 --> 00:01:24.610
+Esto no es casualidad: es un teorema. Toda matriz es equivalente por filas a una única matriz en forma escalonada reducida.
+
+7
+00:01:24.594 --> 00:01:35.490
+Una consecuencia: dos sistemas son equivalentes si y solo si sus matrices aumentadas tienen la misma reducida. La reducida es como la huella del sistema.
+
+8
+00:01:37.478 --> 00:02:12.326
+La idea de la demostración tiene tres pasos. Uno: las operaciones por filas conservan las relaciones entre las columnas. Dos: en una reducida, cada columna sin pivote es una suma de las columnas pivote anteriores, multiplicadas por sus propias entradas. Y tres: dos reducidas equivalentes tendrían las mismas relaciones, es decir, las mismas columnas pivote y las mismas entradas; por tanto, serían iguales. Los detalles llegarán con las combinaciones lineales, en la unidad ocho.
+
+9
+00:02:13.311 --> 00:02:27.087
+Ejercicio propuesto: reduce esta matriz por dos caminos distintos, y comprueba que llegas a la misma forma reducida. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+10
+00:02:34.078 --> 00:02:56.998
+En resumen: la forma escalonada no es única, pero la reducida sí. Dos sistemas son equivalentes si y solo si tienen la misma reducida. Y la idea de la demostración es que las operaciones por filas conservan las relaciones entre columnas. Siguiente: lección treinta y dos, variables básicas y libres: leer la solución.

@@ -1,0 +1,61 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.304
+Lección ocho, primera parte: ¿qué es un sistema de ecuaciones?
+
+2
+00:00:09.300 --> 00:00:15.204
+Dos números suman cinco, y su diferencia es uno. ¿Cuáles son?
+
+3
+00:00:15.200 --> 00:00:26.864
+Cada condición es una ecuación: equis más ye igual a cinco, y equis menos ye igual a uno. Las dos deben cumplirse a la vez: eso es un sistema de ecuaciones.
+
+4
+00:00:26.850 --> 00:00:32.154
+Un sistema es un conjunto de ecuaciones que deben cumplirse simultáneamente.
+
+5
+00:00:32.150 --> 00:00:38.654
+Y una solución es un valor para cada incógnita que cumple todas las ecuaciones, no solo una.
+
+6
+00:00:41.650 --> 00:00:49.282
+Probemos algunos candidatos. Para cada pareja calculamos equis más ye, y equis menos ye.
+
+7
+00:00:49.266 --> 00:00:58.530
+Cuatro, uno: la suma da cinco, bien. Pero la diferencia da tres, no uno. No es solución.
+
+8
+00:00:58.516 --> 00:01:05.860
+Dos, tres: la suma da cinco, pero la diferencia da menos uno. Tampoco.
+
+9
+00:01:05.850 --> 00:01:14.586
+Tres, dos: la suma da cinco y la diferencia da uno. Cumple las dos: esta sí es la solución.
+
+10
+00:01:14.583 --> 00:01:25.239
+Cuidado: cuatro, uno cumple la primera ecuación, pero no la segunda. Un punto que cumple solo una de las ecuaciones no es solución del sistema.
+
+11
+00:01:28.233 --> 00:01:34.569
+Ahora veámoslo en el plano. Cada ecuación con dos incógnitas es una recta.
+
+12
+00:01:34.566 --> 00:01:47.094
+Las dos rectas se cortan en el punto tres, dos: el único punto que está en las dos. El conjunto solución del sistema es la intersección de los conjuntos solución de cada ecuación.
+
+13
+00:01:47.083 --> 00:01:52.747
+Cómo encontrar este punto sin probar ni dibujar lo veremos en las lecciones trece a quince.
+
+14
+00:01:55.733 --> 00:02:06.845
+Ejercicio propuesto: ¿cuáles de estos tres puntos son solución del sistema? Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+15
+00:02:11.833 --> 00:02:31.465
+En resumen: un sistema es un conjunto de ecuaciones que se cumplen a la vez. Una solución debe cumplir todas las ecuaciones. Y con dos incógnitas, las soluciones son los puntos comunes de las rectas. En el siguiente video: cuándo dos rectas se cortan en un único punto.

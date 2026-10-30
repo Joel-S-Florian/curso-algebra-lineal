@@ -1,0 +1,33 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:05.968
+Lección 51 , Parte 1: Elegir el método
+
+2
+00:00:08.966 --> 00:00:16.622
+Elegir el método empieza por la pregunta, no por la matriz. Antes de operar, ¿qué quieres saber?
+
+3
+00:00:16.616 --> 00:00:29.456
+Si solo quieres saber cuántas soluciones tiene el sistema, no hace falta resolverlo: el teorema de Rouché-Frobenius lo decide comparando el rango de la matriz, el de la aumentada y el número de incógnitas.
+
+4
+00:00:29.450 --> 00:00:49.130
+Si quieres la solución, depende de cuántos lados derechos tengas. Con uno solo, Gauss con sustitución hacia atrás. Con varios lados derechos y la misma matriz, la factorización L U, con pivoteo si hace falta: se factoriza una vez y cada lado derecho cuesta poco.
+
+5
+00:00:49.116 --> 00:01:01.476
+Y si quieres describir todas las soluciones, sobre todo cuando hay infinitas, Gauss-Jordan te da la forma reducida, de donde sale la solución general: una solución particular más el núcleo.
+
+6
+00:01:03.466 --> 00:01:25.066
+Qué suele ir mal al elegir. Resolver cuando solo se pedía clasificar. Repetir Gauss para cada lado derecho en lugar de factorizar una vez. Usar Gauss-Jordan en sistemas grandes, que cuesta más. Y no verificar: hay que sustituir en el sistema original, no en el transformado.
+
+7
+00:01:26.066 --> 00:01:39.602
+Ejercicio propuesto: para cada situación, di qué método usarías y por qué. Pausa el video e inténtalo; en el banco hay ejercicios de verdadero o falso con justificación para practicar.
+
+8
+00:01:46.600 --> 00:02:12.088
+En resumen: primero la pregunta. Para contar soluciones, Rouché-Frobenius. Para resolver, Gauss con un lado derecho, o L U con varios. Para describirlas todas, Gauss-Jordan y la forma solución particular más núcleo. Y siempre, verificar. Siguiente: las preguntas y sus herramientas, en una tabla.

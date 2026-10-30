@@ -1,0 +1,29 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:05.776
+Lección 10 , Parte 3: Sistemas homogéneos
+
+2
+00:00:08.766 --> 00:00:13.806
+Un sistema es homogéneo si todos sus términos independientes son cero.
+
+3
+00:00:13.800 --> 00:00:29.640
+Poner todas las incógnitas a cero siempre funciona: cero igual a cero en cada ecuación. Es la solución trivial. Por eso un sistema homogéneo nunca es incompatible: tiene solo la trivial, o infinitas soluciones.
+
+4
+00:00:31.633 --> 00:00:43.537
+Con dos incógnitas, sus rectas pasan por el origen. O solo se cortan ahí, y la única solución es la trivial; o coinciden, y hay infinitas soluciones.
+
+5
+00:00:45.533 --> 00:01:12.053
+Y tienen una propiedad especial. En equis más dos ye igual a cero, u y uve son soluciones. Su suma también lo es, y tres por u también. La razón: la suma de las dos cuentas da cero más cero. En un sistema homogéneo, la suma de soluciones y los múltiplos de una solución son soluciones. Si el término independiente no es cero, falla.
+
+6
+00:01:13.050 --> 00:01:21.594
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+7
+00:01:28.583 --> 00:01:48.455
+En resumen. Homogéneo: todos los términos independientes valen 0. Siempre tiene la solución trivial: nunca es incompatible. Sumas y múltiplos de soluciones vuelven a ser soluciones. Siguiente: Lección 11 — clasificación de los sistemas.

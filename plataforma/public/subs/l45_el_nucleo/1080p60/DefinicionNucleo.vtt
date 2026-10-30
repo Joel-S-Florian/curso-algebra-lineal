@@ -1,0 +1,33 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.400
+Lección 45 , Parte 1: El núcleo de una matriz
+
+2
+00:00:09.400 --> 00:00:29.536
+Empecemos con una matriz sencilla de dos por dos. Nos interesa el sistema homogéneo, a por equis igual a cero, el que tiene todos los términos independientes nulos. Sus dos ecuaciones son la misma, salvo por un factor dos: queda una sola, equis uno más dos equis dos igual a cero.
+
+3
+00:00:30.533 --> 00:00:47.549
+Sus soluciones son los puntos con equis uno igual a menos dos equis dos: múltiplos del vector menos dos, uno. Dibujadas en el plano, forman una recta que pasa por el origen. El origen, el vector cero, siempre es una solución.
+
+4
+00:00:49.533 --> 00:01:09.741
+El núcleo de una matriz a, de tamaño eme por ene, es el conjunto de las soluciones del sistema homogéneo. Se escribe ker de a, por la palabra alemana Kern, y es un subconjunto del espacio de ene dimensiones, el de las incógnitas, no del de las ecuaciones. También se le llama espacio nulo.
+
+5
+00:01:11.733 --> 00:01:39.885
+No confundamos dos cosas. El vector nulo es un solo vector, todo de ceros. El espacio nulo es un conjunto de vectores. El vector nulo siempre pertenece al núcleo, porque a por cero es cero. Si el núcleo es solo el vector nulo, el sistema homogéneo tiene únicamente la solución trivial; si no, tiene infinitas soluciones, y el núcleo es una recta, un plano, o algo mayor.
+
+6
+00:01:41.883 --> 00:02:10.467
+Veamos por qué es un subespacio. Si equis e i griega están en el núcleo, a por su suma es a por equis más a por i griega, que es cero más cero. Y si multiplicamos equis por un número ce, a por ce equis es ce por a equis, igual a cero. La suma y los múltiplos de soluciones del sistema homogéneo siguen siendo soluciones. Por eso el núcleo tiene base y dimensión, como vimos en la lección anterior.
+
+7
+00:02:11.466 --> 00:02:22.962
+Ejercicio propuesto: halla el núcleo de esta matriz y descríbelo geométricamente. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+8
+00:02:29.950 --> 00:02:49.006
+En resumen: el núcleo es el conjunto de soluciones del sistema homogéneo, un subconjunto del espacio de las incógnitas. El vector nulo siempre está, y puede haber muchos más. Y es un subespacio. Siguiente: cómo saber si un vector está en el núcleo.

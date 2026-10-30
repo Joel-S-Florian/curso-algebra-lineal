@@ -1,0 +1,33 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.952
+Lección 7 , Parte 3: ax + by + cz = d es un plano
+
+2
+00:00:08.950 --> 00:00:14.062
+Con tres incógnitas: equis más dos ye más zeta igual a cuatro.
+
+3
+00:00:14.050 --> 00:00:23.626
+Anulamos dos incógnitas para encontrar cada corte con los ejes: cuatro en el eje equis, dos en el eje ye, y cuatro en el eje zeta.
+
+4
+00:00:23.616 --> 00:00:29.784
+Los tres puntos determinan un plano. El triángulo es solo un trozo de él.
+
+5
+00:00:29.783 --> 00:00:35.879
+El punto uno, uno, uno también está: uno más dos más uno, cuatro.
+
+6
+00:00:39.783 --> 00:00:50.319
+Ahora hay dos incógnitas libres: elegimos ye y zeta, y despejamos equis. Dos libres, un plano; una libre, una recta.
+
+7
+00:00:51.316 --> 00:00:59.860
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+8
+00:01:06.850 --> 00:01:25.858
+En resumen. Una ecuación lineal con tres incógnitas (no degenerada) es un plano. Sus soluciones tienen dos incógnitas libres. Los cortes con los ejes ayudan a dibujarlo. Siguiente: describir todas las soluciones con parámetros.

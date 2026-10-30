@@ -1,0 +1,37 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:08.056
+Lección 6 , Parte 2: ax = b: una, infinitas o ninguna solución
+
+2
+00:00:11.050 --> 00:00:17.314
+Resolver a equis igual a be es buscar dónde la recta ye igual a a equis alcanza la altura be.
+
+3
+00:00:18.050 --> 00:00:40.658
+Mientras la recta esté inclinada, corta a la horizontal exactamente una vez, aunque a sea muy pequeño. Pero si a vale cero, la recta ye igual a cero por equis es el eje horizontal. Si be es uno, nunca se cortan: ninguna solución. Si be también es cero, coinciden: todos los equis son solución.
+
+4
+00:00:44.050 --> 00:00:52.714
+Una solución si a no es cero. Infinitas si a y be son cero. Ninguna si a es cero y be no.
+
+5
+00:00:52.700 --> 00:01:00.068
+Una, infinitas o ninguna: son exactamente los mismos tres casos que tendrán los sistemas de ecuaciones.
+
+6
+00:01:02.066 --> 00:01:12.578
+Cuando el coeficiente depende de un parámetro, hay que separar casos. Por ejemplo, eme menos dos, por equis, igual a eme menos dos.
+
+7
+00:01:12.566 --> 00:01:27.110
+Si eme no es dos, se puede dividir, y equis vale uno. Si eme es dos, queda cero igual a cero, y todo equis es solución. Dividir sin separar ese caso es el error más común.
+
+8
+00:01:29.066 --> 00:01:37.610
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+9
+00:01:44.600 --> 00:02:09.104
+En resumen: si a es distinto de cero, hay una solución, be entre a. Si a y be son cero, infinitas: todo número real. Si a es cero y be no, ninguna. Y con parámetros, hay que separar los casos que anulan el coeficiente. Siguiente: lección siete, ecuaciones con dos y tres incógnitas.

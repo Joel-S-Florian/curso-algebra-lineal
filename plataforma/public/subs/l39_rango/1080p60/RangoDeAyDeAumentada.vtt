@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.400
+Lección 39 , Parte 2: Rango de A y de [A | b]
+
+2
+00:00:09.400 --> 00:00:22.720
+Para un sistema, tenemos dos rangos: el de la matriz de coeficientes a, y el de la matriz aumentada, a con la columna be. Estos son los sistemas de la lección veintiocho, ya escalonados.
+
+3
+00:00:22.716 --> 00:00:41.628
+En el primero, la última fila es cero igual a cero: los dos rangos valen dos. En el segundo, la última fila es cero, cero, cero, uno: hay un pivote más, en la columna de be. El rango de a vale dos, y el de la aumentada, tres.
+
+4
+00:00:43.616 --> 00:01:02.048
+Siempre ocurre que el rango de a es menor o igual que el de la aumentada, y este, menor o igual que el de a más uno. Porque al escalonar la aumentada se escalona también a, así que los pivotes de a lo son también de la aumentada; y la columna de be puede aportar, como mucho, un pivote más.
+
+5
+00:01:03.033 --> 00:01:15.729
+Ejercicio propuesto: halla el rango de la matriz de coeficientes y el de la matriz aumentada de este sistema. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+6
+00:01:22.716 --> 00:01:44.412
+En resumen: hay dos rangos, el de a y el de la aumentada. El primero es menor o igual que el segundo, y este, menor o igual que el primero más uno. Si coinciden, be no añade pivote; si no, hay un pivote en la columna de be. Siguiente: el rango no es el número de ecuaciones.

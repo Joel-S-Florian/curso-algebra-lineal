@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:05.584
+Lección 17 , Parte 1: ¿Qué es un vector?
+
+2
+00:00:09.583 --> 00:00:18.439
+Un vector es una lista ordenada de números, sus componentes. Este vector del plano tiene dos: tres y dos.
+
+3
+00:00:18.433 --> 00:00:21.313
+Se puede dibujar como un punto.
+
+4
+00:00:21.933 --> 00:00:29.637
+O como una flecha desde el origen: avanza tres a la derecha y sube dos. Es un desplazamiento.
+
+5
+00:00:29.633 --> 00:00:42.761
+Una flecha con la misma longitud, dirección y sentido representa el mismo desplazamiento, esté donde esté. Pero en este curso, salvo aviso, dibujaremos los vectores desde el origen.
+
+6
+00:00:42.750 --> 00:00:53.046
+Con tres componentes, el vector vive en el espacio. Con ene componentes ya no se puede dibujar, pero sigue siendo una lista de ene números.
+
+7
+00:00:55.033 --> 00:00:59.281
+Los mismos números se pueden escribir en columna, o en fila.
+
+8
+00:00:59.266 --> 00:01:05.962
+La traspuesta cambia uno por otro. En este curso, los vectores son columnas.
+
+9
+00:01:09.266 --> 00:01:17.810
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+10
+00:01:24.800 --> 00:01:48.872
+En resumen: un vector con ene componentes es una lista ordenada de ene números. Con dos o tres componentes se dibuja como un punto, o como una flecha desde el origen. Un vector columna es de ene por uno, y un vector fila, de uno por ene; la traspuesta cambia uno por otro. Siguiente: sumar vectores y multiplicarlos por números.

@@ -1,0 +1,73 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.088
+Lección 27 , Parte 1: Cuando el pivote vale 0
+
+2
+00:00:09.083 --> 00:00:12.059
+¿Qué pasa si el pivote vale cero?
+
+3
+00:00:12.050 --> 00:00:18.122
+Con un cero en el lugar del pivote no hay multiplicador: no se puede dividir entre cero.
+
+4
+00:00:18.116 --> 00:00:24.812
+El remedio: intercambiar con una fila de más abajo que tenga una entrada no nula en esa columna.
+
+5
+00:00:26.800 --> 00:00:30.352
+A veces el cero aparece a mitad de camino.
+
+6
+00:00:30.350 --> 00:00:38.702
+Hacemos ceros en la columna uno: a la fila dos le restamos dos veces la fila uno, y a la fila tres, una vez.
+
+7
+00:00:47.350 --> 00:00:56.782
+El pivote de la columna dos debería estar en la fila dos, pero ahí hay un cero. Debajo, en la fila tres, hay un uno.
+
+8
+00:00:56.766 --> 00:01:00.198
+Intercambiamos las filas dos y tres.
+
+9
+00:01:02.766 --> 00:01:09.606
+Tras el intercambio, la matriz ya está escalonada: no hace falta ninguna operación más.
+
+10
+00:01:19.266 --> 00:01:31.410
+La solución es uno, uno, uno, y se verifica en el original: uno más uno más uno, tres; dos más dos más uno, cinco; uno más dos más tres, seis.
+
+11
+00:01:33.400 --> 00:01:52.768
+¿Por qué el intercambio es seguro? Es una operación elemental, así que el sistema sigue siendo equivalente. No estropea ceros, porque las dos filas tienen ya un cero en las columnas trabajadas. Y se elige una fila de más abajo: las de arriba ya tienen su pivote.
+
+12
+00:01:54.766 --> 00:01:58.174
+¿Y si toda la columna es cero hacia abajo?
+
+13
+00:01:58.166 --> 00:02:09.782
+En la columna dos, de la fila dos hacia abajo, todo es cero: no hay con quién intercambiar. Esa columna se queda sin pivote, y se pasa a la siguiente.
+
+14
+00:02:09.766 --> 00:02:17.854
+El pivote de la fila dos está en la columna tres. A la fila tres le restamos un tercio de la fila dos.
+
+15
+00:02:19.266 --> 00:02:29.034
+La escalera salta la columna dos: la ye no tiene pivote. Eso produce variables libres, como veremos en la lección veintiocho.
+
+16
+00:02:31.033 --> 00:02:45.985
+Errores frecuentes: concluir que no hay solución al ver un pivote cero, sin buscar debajo; intercambiar con una fila de arriba, ya usada; e intercambiar solo los coeficientes, cuando se intercambia la fila entera, con be.
+
+17
+00:02:46.983 --> 00:02:55.527
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+18
+00:03:02.516 --> 00:03:24.836
+En resumen: si el pivote vale cero, se intercambia con una fila de más abajo que tenga una entrada no nula. El intercambio conserva las soluciones y los ceros ya conseguidos. Y si toda la columna es cero hacia abajo, no hay pivote: se pasa a la siguiente. Siguiente: filas nulas y ecuaciones redundantes.

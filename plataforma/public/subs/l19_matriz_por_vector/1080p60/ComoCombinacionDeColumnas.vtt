@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:07.240
+Lección 19 , Parte 2: Matriz por vector: combinación de columnas
+
+2
+00:00:10.233 --> 00:00:13.305
+Otra forma de ver el mismo producto.
+
+3
+00:00:13.300 --> 00:00:22.324
+Las componentes de equis son pesos para las columnas de a: dos veces la primera columna, una vez la segunda, y menos una vez la tercera.
+
+4
+00:00:22.316 --> 00:00:33.740
+El resultado es el mismo: cuatro, uno. A por equis es una combinación lineal de las columnas de a, con pesos equis uno, equis dos y equis tres.
+
+5
+00:00:35.733 --> 00:00:39.525
+En el dibujo, encadenamos las columnas.
+
+6
+00:00:39.516 --> 00:00:52.068
+Dos veces la primera columna, el uno, tres. Luego una vez la segunda, el dos, menos uno. Y menos una vez la tercera, el cero, cuatro.
+
+7
+00:00:52.066 --> 00:00:57.850
+Cada columna estirada por su peso, una tras otra, nos lleva a a por equis.
+
+8
+00:01:00.066 --> 00:01:04.386
+Por filas, cada componente es un producto escalar.
+
+9
+00:01:04.383 --> 00:01:09.591
+Por columnas, el resultado es una combinación lineal de las columnas.
+
+10
+00:01:09.583 --> 00:01:19.015
+Las dos son la misma suma, ordenada de otra manera. Por filas es más cómodo para calcular; por columnas, para entender.
+
+11
+00:01:20.000 --> 00:01:28.544
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+12
+00:01:35.533 --> 00:01:57.997
+En resumen: a por equis es equis uno por la columna uno, más equis dos por la columna dos, y así: una combinación lineal de las columnas. Por filas o por columnas se obtiene el mismo resultado. Filas para calcular; columnas para interpretar. Siguiente: lección veinte, el producto de dos matrices.

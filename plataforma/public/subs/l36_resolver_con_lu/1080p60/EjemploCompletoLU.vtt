@@ -1,0 +1,37 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:05.824
+Lección 36 , Parte 3: Un ejemplo completo
+
+2
+00:00:08.816 --> 00:00:37.688
+Un ejemplo completo. Este sistema tiene la matriz de coeficientes dos, uno, uno; cuatro, menos seis, cero; menos dos, siete, dos. Primero factorizamos. A la fila dos le restamos dos veces la fila uno: el multiplicador es dos. A la fila tres le sumamos la fila uno: menos uno. Y a la fila tres le sumamos la fila dos: menos uno.
+
+3
+00:00:37.683 --> 00:00:53.283
+Con ellos, ele tiene un dos, un menos uno y un menos uno bajo la diagonal. Y u es la matriz escalonada que queda: dos, uno, uno; cero, menos ocho, menos dos; cero, cero, uno.
+
+4
+00:00:55.283 --> 00:01:16.019
+Segundo paso: ele ye igual a be, con be igual a cinco, menos dos, nueve. Ye uno vale cinco. Dos por cinco más ye dos igual a menos dos: ye dos vale menos doce. Y menos cinco, más doce, más ye tres, igual a nueve: ye tres vale dos.
+
+5
+00:01:18.016 --> 00:01:34.408
+Tercer paso: u equis igual a ye, hacia atrás. Zeta vale dos. Menos ocho ye menos cuatro igual a menos doce: ye vale uno. Y dos equis más uno más dos igual a cinco: equis vale uno.
+
+6
+00:01:36.400 --> 00:01:50.512
+Cuarto paso, verificar en el sistema original: dos más uno más dos, cinco; cuatro menos seis, menos dos; menos dos, más siete, más cuatro, nueve. Todo correcto.
+
+7
+00:01:50.500 --> 00:01:58.660
+El proceso completo: factorizar, resolver ele ye igual a be, resolver u equis igual a ye, y verificar.
+
+8
+00:01:59.650 --> 00:02:22.666
+Ejercicio propuesto: para tres incógnitas, cuenta las multiplicaciones y divisiones de factorizar a, sin contar be, y de resolver los dos sistemas triangulares. Comprueba que, sumadas, dan lo mismo que Gauss en un solo sistema: diecisiete. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+9
+00:02:29.650 --> 00:02:52.930
+En resumen: se factoriza a igual a ele u una sola vez, anotando los multiplicadores. Después se resuelve ele ye igual a be, hacia adelante, y u equis igual a ye, hacia atrás. Y siempre se verifica en el sistema original. Siguiente: lección treinta y siete, cuando ele u falla: permutaciones.

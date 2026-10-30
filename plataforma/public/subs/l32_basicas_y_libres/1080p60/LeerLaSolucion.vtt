@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.472
+Lección 32 , Parte 1: Variables básicas y libres
+
+2
+00:00:09.466 --> 00:00:29.986
+Esta matriz aumentada está en forma reducida. Las columnas uno y tres tienen pivote: sus variables, equis uno y equis tres, son las variables básicas. Las columnas dos y cuatro no tienen pivote: sus variables, equis dos y equis cuatro, son las variables libres.
+
+3
+00:00:31.983 --> 00:00:39.447
+Para leer la solución, damos un parámetro a cada variable libre: equis dos es ese, equis cuatro es te.
+
+4
+00:00:39.433 --> 00:00:50.449
+La primera fila dice equis uno más dos equis dos menos equis cuatro igual a tres. Despejamos la básica: equis uno vale tres menos dos ese más te.
+
+5
+00:00:50.433 --> 00:00:57.945
+La segunda fila dice equis tres más cuatro equis cuatro igual a dos: equis tres vale dos menos cuatro te.
+
+6
+00:00:57.933 --> 00:01:02.517
+Y la tercera fila es cero igual a cero: no dice nada.
+
+7
+00:01:04.933 --> 00:01:18.757
+Escrita como vectores, la solución es un vector fijo más un múltiplo de un vector por cada variable libre. El vector fijo es la columna de be de la reducida: son los valores cuando las libres valen cero.
+
+8
+00:01:18.750 --> 00:01:31.446
+Y cada vector de los parámetros tiene un uno en la posición de su libre, y en las posiciones de las básicas, la columna de esa libre, cambiada de signo. Se puede leer sin hacer cuentas.
+
+9
+00:01:33.433 --> 00:01:54.361
+Verificamos con valores concretos: ese uno, te cero, da uno, uno, dos, cero; y ese cero, te uno, da cuatro, cero, menos dos, uno. Las dos ecuaciones se cumplen. Y con los parámetros generales, los términos con ese y con te se cancelan.
+
+10
+00:01:54.350 --> 00:02:01.526
+La cuenta final: cuatro incógnitas menos dos pivotes son dos variables libres, y dos parámetros.
+
+11
+00:02:02.516 --> 00:02:19.796
+Ejercicio propuesto: lleva este sistema a forma reducida, escribe la solución en forma paramétrica y vectorial, identifica las variables básicas y las libres, y verifica. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+12
+00:02:26.783 --> 00:02:52.439
+En resumen: las columnas con pivote son variables básicas, y las que no tienen pivote, variables libres. Cada libre recibe un parámetro, y cada básica se despeja de su fila. La solución es un vector fijo más un vector por cada libre. Y el número de parámetros es el de incógnitas menos el de pivotes. Siguiente: los tres finales posibles.

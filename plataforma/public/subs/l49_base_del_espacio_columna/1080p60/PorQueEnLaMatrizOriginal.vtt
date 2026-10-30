@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:06.592
+Lección 49 , Parte 2: ¿Por qué las columnas de la original?
+
+2
+00:00:09.583 --> 00:00:38.143
+Una advertencia importante. Las operaciones elementales por filas cambian el espacio columna. La columna uno de a, el vector uno, dos, uno, está en el espacio columna de a. Pero no está en el de la reducida, ere: todos los vectores del espacio columna de ere tienen la tercera componente igual a cero. Por eso las columnas de la reducida no sirven como base de a: hay que tomar las de la original.
+
+3
+00:00:40.133 --> 00:01:04.349
+Lo que sí se conserva son las relaciones entre las columnas. Reducir es multiplicar por una matriz invertible, ere igual a e por a. Entonces a por equis es cero exactamente cuando ere por equis es cero: a y ere tienen el mismo núcleo, es decir, las mismas relaciones entre sus columnas. Y las dependencias son justo lo que importa para decidir qué columnas sobran.
+
+4
+00:01:06.333 --> 00:01:36.141
+Y de ahí sale la demostración de la receta. En la reducida, las columnas pivote son los vectores e uno, e dos, hasta e erre, claramente independientes, y cada columna libre es combinación de ellas. Como a y ere tienen las mismas relaciones entre columnas, lo mismo vale en a: sus columnas pivote son independientes y generan todas las demás. Por tanto son una base del espacio columna, y la dimensión es erre, el rango.
+
+5
+00:01:37.133 --> 00:01:55.685
+Ejercicio propuesto: un estudiante toma como base del espacio columna las columnas pivote de la matriz reducida. Da un ejemplo de matriz de dos por dos en el que eso falla, y explica por qué. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+6
+00:02:02.683 --> 00:02:23.995
+En resumen: las operaciones por filas cambian el espacio columna, pero no las relaciones entre las columnas; por eso se toman las columnas pivote de la matriz original. Los dos espacios columna tienen la misma dimensión, pero no son iguales. Siguiente: lección cincuenta, el teorema del rango y la nulidad.

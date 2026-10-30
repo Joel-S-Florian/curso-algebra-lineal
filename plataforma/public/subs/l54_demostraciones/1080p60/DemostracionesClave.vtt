@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:07.504
+Lección 54 , Parte 3: Las demostraciones clave, de un vistazo
+
+2
+00:00:10.500 --> 00:00:21.468
+Cinco teoremas del curso, cada uno con su idea central. Los tienes con la demostración completa en el banco de ejercicios, en la familia de demostraciones.
+
+3
+00:00:21.466 --> 00:00:40.786
+Uno, Rouché-Frobenius. El sistema es compatible si y solo si el rango de a es el de la aumentada, y es único si ese rango es ene. La idea: al escalonar la aumentada, el rango sube solo si aparece una fila cero igual a ce distinto de cero, la ecuación imposible.
+
+4
+00:00:42.783 --> 00:00:59.559
+Dos, la estructura de las soluciones. Si equis pe es solución, las soluciones son equis pe más el núcleo. La idea: a por equis menos equis pe es be menos be, cero; y al revés, a por equis pe más ene es be.
+
+5
+00:01:01.550 --> 00:01:16.622
+Tres, rango más nulidad igual a ene. La idea: de las ene columnas, erre tienen pivote, y son una base del espacio columna; las otras ene menos erre son las variables libres, que dan una base del núcleo.
+
+6
+00:01:18.616 --> 00:01:30.736
+Cuatro, las columnas pivote de a son una base del espacio columna. La idea: a y su reducida tienen las mismas relaciones entre columnas, porque tienen el mismo núcleo.
+
+7
+00:01:32.733 --> 00:01:45.477
+Y cinco, a por equis igual a be tiene solución si y solo si be está en el espacio columna. La idea: a por equis es una combinación de las columnas de a, con coeficientes equis.
+
+8
+00:01:49.466 --> 00:02:13.682
+Cómo se estudia una demostración. Uno: escribe el enunciado con tus palabras y con un ejemplo de dos por dos. Dos: identifica la idea en una frase; los cálculos son su desarrollo. Tres: comprueba cada paso con la definición exacta. Y cuatro: prueba el caso contrario, ¿dónde falla si quitas una hipótesis?
+
+9
+00:02:14.666 --> 00:02:27.818
+Ejercicio propuesto: escribe la demostración del teorema de Rouché-Frobenius y la del teorema del rango y la nulidad. Pausa el video e inténtalo; las demostraciones están en el solucionario.
+
+10
+00:02:34.816 --> 00:02:50.200
+En resumen: cinco teoremas, cada uno con una idea central: los pivotes, la diferencia de soluciones, las relaciones entre columnas. Siguiente: lección cincuenta y cinco, repaso final y mapa del curso.
