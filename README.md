@@ -1,6 +1,98 @@
-# Curso visual de Sistemas de Ecuaciones Lineales (Python + Manim)
+<div align="center">
 
-Carpeta del proyecto: `C:\Users\Joel S. Florian\Documents\Desarrollo\Algebra Lineal`
+# Álgebra lineal, vista y comprendida
+
+**Un curso universitario de sistemas de ecuaciones lineales, explicado desde cero con animaciones, voz y 665 ejercicios resueltos.**
+
+![Videos](https://img.shields.io/badge/videos-142-4c9be8?style=for-the-badge)
+![Ejercicios](https://img.shields.io/badge/ejercicios-665-2ecc71?style=for-the-badge)
+![Unidades](https://img.shields.io/badge/unidades-10-ffd84d?style=for-the-badge&labelColor=333)
+![Manim](https://img.shields.io/badge/hecho%20con-Manim%20%2B%20Python-c792ea?style=for-the-badge)
+![Idioma](https://img.shields.io/badge/idioma-espa%C3%B1ol-ff5c5c?style=for-the-badge)
+
+<img src="docs/img/mapa.png" alt="Mapa del curso: todo gira alrededor de A x = b" width="860">
+
+*El mapa del curso (video L55): todo gira alrededor de $A\mathbf{x} = \mathbf{b}$, y los pivotes lo conectan todo.*
+
+</div>
+
+---
+
+## La idea en cuatro líneas
+
+Un sistema lineal $A\mathbf{x} = \mathbf{b}$ puede no tener solución, tener una o tener infinitas. Este curso enseña a **decidirlo, resolverlo y describirlo**, con una sola herramienta: los pivotes.
+
+$$\boxed{\,A\mathbf{x} = \mathbf{b}\ \text{es compatible} \iff \operatorname{rg}(A) = \operatorname{rg}[A \mid \mathbf{b}]\,}\qquad\text{(Rouché-Frobenius)}$$
+
+$$\operatorname{rg}(A) + \operatorname{nul}(A) = n \qquad\qquad \mathbf{x} = \mathbf{x}_p + \ker A \qquad\qquad A = LU$$
+
+## Qué contiene
+
+| Unidad | Tema | Lecciones | Videos |
+|---|---|---|---|
+| 0 | Preliminares | L00–L04 | 16 |
+| 1 | Fundamentos de las ecuaciones lineales | L05–L12 | 24 |
+| 2 | Métodos elementales: sustitución, igualación, reducción | L13–L15 | 8 |
+| 3 | Matrices, vectores y $A\mathbf{x} = \mathbf{b}$ | L16–L23 | 18 |
+| 4 | Eliminación de Gauss | L24–L30 | 14 |
+| 5 | Gauss-Jordan | L31–L33 | 7 |
+| 6 | Factorización $LU$ y $PA = LU$ | L34–L38 | 13 |
+| 7 | Rango y teorema de Rouché-Frobenius | L39–L42 | 10 |
+| 8 | Núcleo, espacio columna y rango-nulidad | L43–L50 | 17 |
+| 9 | Síntesis: elegir método, problemas integradores, demostraciones | L51–L55 | 15 |
+
+Cada video lleva **voz en español** (voz neuronal sintética) y **subtítulos `.srt`**, y termina con un ejercicio propuesto. Además:
+
+- **665 ejercicios** en 17 familias y 5 niveles, con pistas progresivas y solución justificada (`ejercicios/`, índice en `ejercicios/BANCO.md`).
+- **Solucionario completo** (`solucionario/`), **formulario** y **árbol de decisión de métodos** (`material/`), **plan de estudio de 12 semanas** y una **prueba final integradora** de 2 horas y 100 puntos (`prueba_final/`).
+- Todos los resultados numéricos están **comprobados con aritmética exacta** (fracciones, nunca decimales redondeados) y los ejercicios generados se contrastan con SymPy.
+
+## Un vistazo
+
+<table>
+<tr>
+<td width="50%"><img src="docs/img/transformacion.png" alt="Una transformación aplasta el núcleo"><br><sub><b>Rango y nulidad.</b> Una matriz aplasta su núcleo al origen y la imagen sobrevive: 1 + 1 = 2.</sub></td>
+<td width="50%"><img src="docs/img/arbol.png" alt="Árbol de decisión de métodos"><br><sub><b>Elegir el método.</b> Primero la pregunta, después la herramienta.</sub></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="docs/img/parabola.png" alt="Parábola por tres puntos" width="50%"><br><sub><b>Problemas integradores.</b> Una parábola por tres puntos es un sistema $3 \times 3$ en sus coeficientes.</sub></td>
+</tr>
+</table>
+
+## Las ideas que recorre el curso
+
+1. Una ecuación lineal es una recta, un plano o un hiperplano; un sistema tiene $0$, $1$ o infinitas soluciones.
+2. Las operaciones elementales no cambian las soluciones: **Gauss** escalona, **Gauss-Jordan** reduce, **$LU$** factoriza una vez y resuelve muchas.
+3. El **rango** es el número de pivotes y decide la clasificación (**Rouché-Frobenius**).
+4. La solución general es una particular más el **núcleo**, y $A\mathbf{x} = \mathbf{b}$ tiene solución si y solo si $\mathbf{b}$ está en el **espacio columna**.
+
+## Cómo estudiar
+
+1. Sigue el [plan de estudio de 12 semanas](material/plan_de_estudio.md).
+2. Ve cada video sin tomar apuntes, haz su ejercicio propuesto y practica con el [banco de ejercicios](ejercicios/BANCO.md); comprueba en el [solucionario](solucionario/README.md).
+3. Repasa con el [formulario](material/formulario.md) y los [métodos](material/metodos.md).
+4. Al final, la [prueba final](prueba_final/PRUEBA_FINAL.md) y su [solución](prueba_final/SOLUCION_PRUEBA_FINAL.md).
+
+## Ver los videos en una plataforma web (sin abrir carpetas)
+
+La carpeta [`plataforma/`](plataforma/) es una web local que reúne los videos por unidades y lecciones, con subtítulos, guiones, ejercicios, progreso y búsqueda. Requiere Node 18 o superior:
+
+```
+git clone https://github.com/Joel-S-Florian/curso-algebra-lineal.git
+cd curso-algebra-lineal/plataforma
+npm install
+npm start
+```
+
+Luego abre `http://127.0.0.1:5173`. Detalles en [`plataforma/README.md`](plataforma/README.md).
+
+## Regenerar los videos (opcional)
+
+Los videos ya están en `videos/` (carpeta `1080p60`). Para regenerarlos hacen falta Python 3.13, [Manim Community](https://www.manim.community/) 0.22 y LaTeX (MiKTeX): ver [`docs/02_plan_tecnico.md`](docs/02_plan_tecnico.md). Las escenas están en `escenas/` y la narración, en el propio código de cada escena.
+
+---
+
+## Índice de videos y archivos del curso
 
 ## Dónde está cada cosa
 
