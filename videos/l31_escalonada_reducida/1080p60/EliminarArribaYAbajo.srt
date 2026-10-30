@@ -1,0 +1,60 @@
+1
+00:00:01,000 --> 00:00:06,112
+Lección 31 , Parte 2: Gauss-Jordan paso a paso
+
+2
+00:00:09,100 --> 00:00:23,620
+Tomemos el sistema de la lección quince: equis más ye más zeta igual a seis; equis menos ye más zeta igual a dos; y equis más ye menos zeta igual a cero. Primero hacemos Gauss: ceros debajo del pivote.
+
+3
+00:00:23,616 --> 00:00:27,120
+A la fila dos le restamos la fila uno.
+
+4
+00:00:32,116 --> 00:00:35,092
+Y a la fila tres, también.
+
+5
+00:00:40,616 --> 00:00:52,304
+La matriz ya está escalonada: hasta aquí llega Gauss. En la lección veintiséis ahora sustituíamos hacia atrás; en Gauss-Jordan, seguimos operando con las filas.
+
+6
+00:00:53,300 --> 00:01:01,340
+Segundo paso: hacer que cada pivote valga uno. Multiplicamos la fila dos por menos un medio.
+
+7
+00:01:01,800 --> 00:01:04,752
+Y la fila tres, también.
+
+8
+00:01:11,300 --> 00:01:21,404
+Tercer paso: ceros encima de los pivotes, empezando por el último, el de la derecha. A la fila uno le restamos la fila tres.
+
+9
+00:01:21,400 --> 00:01:24,208
+Y le restamos la fila dos.
+
+10
+00:01:29,900 --> 00:01:38,564
+Ya está en forma reducida. La solución se lee directamente: equis uno, ye dos, zeta tres.
+
+11
+00:01:40,550 --> 00:02:02,558
+El algoritmo de Gauss-Jordan, entonces. Uno: eliminación hacia adelante, hasta la forma escalonada. Dos: dividir cada fila no nula por su pivote. Tres: ceros encima de cada pivote, de derecha a izquierda. Y cuatro: leer la solución en la matriz reducida.
+
+12
+00:02:02,550 --> 00:02:09,198
+Cada cero de arriba es un paso de la sustitución hacia atrás, hecho directamente sobre la matriz.
+
+13
+00:02:11,183 --> 00:02:24,287
+¿Por qué de derecha a izquierda? Porque la fila de un pivote tiene ceros a su izquierda: al usarla, solo cambian su propia columna y las de su derecha, y los ceros ya conseguidos no se estropean.
+
+14
+00:02:25,283 --> 00:02:40,259
+Ejercicio propuesto: resuelve este sistema por Gauss-Jordan, escribiendo cada operación, y verifica la solución en el sistema original. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+15
+00:02:47,250 --> 00:03:07,914
+En resumen: en Gauss-Jordan se escalona, se llevan los pivotes a uno, y se hacen ceros encima de ellos, de derecha a izquierda. La solución se lee en la última columna de la matriz reducida. Y siempre se verifica en el sistema original. Siguiente: la forma reducida es única.
+

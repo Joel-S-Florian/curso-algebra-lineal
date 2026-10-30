@@ -1,0 +1,24 @@
+1
+00:00:01,000 --> 00:00:07,096
+Lección 39 , Parte 3: El rango no es el número de ecuaciones
+
+2
+00:00:10,096 --> 00:00:25,648
+Tres ecuaciones no significan rango tres. En este sistema, la tercera ecuación es la suma de las otras dos. Al reducir, queda una fila de ceros: el rango de la matriz aumentada es dos, no tres.
+
+3
+00:00:27,646 --> 00:00:48,862
+Con cuatro ecuaciones y tres incógnitas, el rango es como mucho tres. Con dos ecuaciones y cinco incógnitas, como mucho dos, y quedan al menos tres columnas sin pivote. Dos filas proporcionales, o una fila que es suma de otras, bajan el rango. Y una fila de ceros no cuenta.
+
+4
+00:00:50,846 --> 00:01:08,510
+El rango mide el número de ecuaciones realmente independientes. Cada ecuación aporta información nueva solo si trae un pivote nuevo. En la lección diez dijimos que cada ecuación quita un grado de libertad: las que sobran no lo quitan, y el rango cuenta las que sí.
+
+5
+00:01:09,496 --> 00:01:24,472
+Ejercicio propuesto: sin resolver, di cuál es el rango de la matriz aumentada de este sistema de cuatro ecuaciones, y qué ecuaciones sobran. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+6
+00:01:31,462 --> 00:01:51,382
+En resumen: el rango no es el número de ecuaciones, sino el de ecuaciones independientes. Sobran las filas que son combinación de otras. Y el rango es menor o igual que el mínimo entre filas y columnas. Siguiente: lección cuarenta, el teorema de Rouché-Frobenius.
+

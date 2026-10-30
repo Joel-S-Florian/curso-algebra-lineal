@@ -1,0 +1,36 @@
+1
+00:00:01,000 --> 00:00:06,064
+Lección 30 , Parte 2: Verificar siempre (y bien)
+
+2
+00:00:09,050 --> 00:00:18,722
+Un error que el sistema escalonado no delata. A la izquierda, la eliminación con el error de signo; a la derecha, bien hecha.
+
+3
+00:00:18,716 --> 00:00:37,628
+La solución equivocada, diecinueve quintos, dos quintos, cumple el sistema escalonado equivocado. Pero en el original, tres equis menos cuatro ye da cuarenta y nueve quintos, no cinco. La buena, menos uno, menos dos, cumple las dos ecuaciones.
+
+4
+00:00:37,616 --> 00:00:41,096
+Solo el sistema original delata el error.
+
+5
+00:00:45,616 --> 00:00:54,064
+Es la misma comprobación escrita como a por equis igual a be: cada fila de la matriz original por la solución debe dar su término de be.
+
+6
+00:00:56,050 --> 00:01:17,266
+Cómo se verifica cada tipo de resultado. Con una solución, se sustituye en todas las ecuaciones originales. Con infinitas, se sustituye la fórmula con te general, y los términos en te deben cancelarse. Y si no hay solución, se muestra la combinación de ecuaciones que da cero igual a ce.
+
+7
+00:01:19,250 --> 00:01:36,626
+Lista de control: escribe cada operación antes de hacerla; una operación por paso; toda la fila, con be, y cuentas con paréntesis; fracciones exactas; con parámetros, separa los casos antes de dividir; y comprueba siempre en el sistema original.
+
+8
+00:01:37,616 --> 00:01:46,160
+Ejercicio propuesto. Pausa el video e inténtalo; las pistas y la solución están en el banco de ejercicios.
+
+9
+00:01:53,150 --> 00:02:20,126
+En resumen: un error de cuentas produce un sistema escalonado coherente, pero falso. Por eso se verifica en el original, o con a equis igual a be, nunca en el escalonado. Con infinitas soluciones, se verifica con te general; sin solución, se muestra la combinación que da cero igual a ce. Siguiente: unidad cinco, lección treinta y uno, la forma escalonada reducida.
+

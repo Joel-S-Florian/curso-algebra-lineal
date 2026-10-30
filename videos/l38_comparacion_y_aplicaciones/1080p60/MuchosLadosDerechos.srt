@@ -1,0 +1,32 @@
+1
+00:00:01,000 --> 00:00:07,168
+Lección 38 , Parte 1: Factorizar una vez, resolver muchas
+
+2
+00:00:10,166 --> 00:00:28,166
+Hay problemas en los que la matriz a es siempre la misma, pero el lado derecho cambia: por ejemplo, una estructura con la misma rigidez, y muchas cargas distintas. Hay que resolver a equis uno igual a be uno, a equis dos igual a be dos, y así, hasta ka sistemas.
+
+3
+00:00:30,150 --> 00:00:47,718
+Con Gauss, habría que rehacer toda la eliminación para cada lado derecho: unas ene cubo entre tres operaciones cada vez. Con ele u, factorizamos una sola vez, y para cada be solo hacen falta las dos sustituciones: ene cuadrado operaciones.
+
+4
+00:00:49,716 --> 00:01:22,524
+Con la factorización de nuestro ejemplo, resolvemos tres lados derechos. Menos tres, uno, dos: ye es menos tres, siete, veinte, y la solución, uno, menos uno, dos. Cero, uno, menos tres: la solución es dos, menos uno, cero. Y dos, cinco, uno: ye es dos, uno, seis, y la solución, uno, cuatro quintos, tres quintos. Ele y u no han cambiado.
+
+5
+00:01:24,516 --> 00:01:51,492
+¿Cuánto se ahorra? Con ele u, factorizar cuesta ene cubo menos ene, entre tres, una vez, más ene cuadrado por cada uno de los ka lados derechos. Gauss repetido cuesta ka veces ene cubo más tres ene cuadrado menos ene, entre tres. La diferencia es ka menos uno, por ene cubo menos ene, entre tres: nunca es negativa, y con un solo lado derecho, es cero.
+
+6
+00:01:51,483 --> 00:02:05,427
+Con un sistema de cien por cien y cincuenta lados derechos, ele u hace ochocientas treinta y tres mil trescientas operaciones, frente a diecisiete millones ciento sesenta y cinco mil de Gauss repetido: unas veintiuna veces menos.
+
+7
+00:02:06,416 --> 00:02:27,608
+Ejercicio propuesto: con estos ele y u, de la matriz a igual a dos, uno, seis, siete, resuelve a equis igual a be para be uno igual a tres, trece, y para be dos igual a uno, menos tres, sin volver a eliminar. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+8
+00:02:34,600 --> 00:03:01,456
+En resumen: con la misma matriz y ka lados derechos, se factoriza una vez y se resuelve ka veces. Ele u cuesta ene cubo menos ene, entre tres, más ka ene cuadrado; Gauss repetido, ka veces ene cubo más tres ene cuadrado menos ene, entre tres. Con ka igual a uno cuestan igual, y con ka mayor, ele u gana. Siguiente: una tabla para elegir método.
+

@@ -1,0 +1,36 @@
+1
+00:00:01,000 --> 00:00:06,040
+Lección 34 , Parte 2: Matrices triangulares
+
+2
+00:00:09,033 --> 00:00:18,921
+Una matriz es triangular superior si todo lo que hay debajo de la diagonal son ceros. Y triangular inferior si son ceros todo lo que hay por encima.
+
+3
+00:00:20,916 --> 00:00:32,676
+Un sistema con matriz triangular superior se resuelve sin eliminar nada: la última ecuación tiene una sola incógnita. Diez zeta igual a veinte: zeta vale dos.
+
+4
+00:00:32,666 --> 00:00:45,482
+Sustituyendo hacia atrás: menos ye más seis igual a siete, ye vale menos uno. Y equis más dos por menos uno, menos dos, igual a menos tres: equis vale uno.
+
+5
+00:00:47,466 --> 00:00:57,234
+Si la matriz es triangular inferior, se hace al revés: la primera ecuación tiene una sola incógnita. Ye uno vale menos tres.
+
+6
+00:00:57,233 --> 00:01:07,577
+Con ella, la segunda da ye dos igual a siete. Y la tercera, ye tres igual a veinte. Es la sustitución hacia adelante.
+
+7
+00:01:09,566 --> 00:01:31,190
+Tres hechos que usaremos. Resolver un sistema triangular de ene por ene cuesta unas ene cuadrado entre dos multiplicaciones: mucho menos que ene cubo entre tres. El producto de dos triangulares inferiores es triangular inferior. Y una triangular inferior con unos en la diagonal tiene inversa, que es del mismo tipo.
+
+8
+00:01:32,183 --> 00:01:46,799
+Ejercicio propuesto: resuelve estos dos sistemas triangulares por sustitución, diciendo en cada caso si es hacia adelante o hacia atrás. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+9
+00:01:53,783 --> 00:02:14,207
+En resumen: una matriz triangular superior tiene ceros debajo de la diagonal, y una inferior, encima. Los sistemas con matriz superior se resuelven hacia atrás, y con matriz inferior, hacia adelante, con unas ene cuadrado entre dos multiplicaciones. Siguiente: las matrices elementales.
+

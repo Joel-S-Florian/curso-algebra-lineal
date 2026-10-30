@@ -1,0 +1,36 @@
+1
+00:00:01,000 --> 00:00:05,872
+Lección 34 , Parte 1: ¿Qué es factorizar?
+
+2
+00:00:08,866 --> 00:00:21,418
+Factorizar es escribir algo como un producto de piezas más simples. Doce es tres por cuatro. Equis al cuadrado menos uno es equis menos uno, por equis más uno.
+
+3
+00:00:21,416 --> 00:00:30,104
+¿Y se puede hacer con una matriz? Sí: y la factorización que veremos viene directamente de la eliminación de Gauss.
+
+4
+00:00:32,100 --> 00:00:42,444
+Esta es la matriz de coeficientes del sistema de la lección veintiséis. Se puede escribir como el producto de dos matrices triangulares: ele, y u.
+
+5
+00:00:42,433 --> 00:00:52,537
+Ele es triangular inferior, con unos en la diagonal. U es triangular superior: es, ni más ni menos, la forma escalonada de a.
+
+6
+00:00:53,533 --> 00:01:10,213
+Comprobemos una entrada. La fila tres de ele por la columna dos de u: menos uno por dos, más menos tres por menos uno, más uno por cero. Menos dos, más tres: uno. Es la entrada tres dos de a.
+
+7
+00:01:10,200 --> 00:01:19,992
+Los números violetas de ele no son casualidad: son los multiplicadores de la eliminación de Gauss. Lo veremos en la próxima lección.
+
+8
+00:01:20,983 --> 00:01:33,463
+Ejercicio propuesto: comprueba que esta matriz es el producto de ele por u, calculando el producto. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+9
+00:01:40,450 --> 00:02:03,730
+En resumen: factorizar es escribir como producto de piezas simples. A igual a ele u, con ele triangular inferior, de unos en la diagonal, y u triangular superior. U es la forma escalonada, y los números de ele son los multiplicadores de Gauss. Siguiente: las matrices triangulares, y por qué son tan cómodas.
+

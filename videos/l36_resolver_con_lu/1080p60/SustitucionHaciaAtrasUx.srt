@@ -1,0 +1,28 @@
+1
+00:00:01,000 --> 00:00:06,808
+Lección 36 , Parte 2: Después: U x = y
+
+2
+00:00:09,800 --> 00:00:27,152
+Ahora resolvemos u equis igual a ye, con el ye que acabamos de calcular: menos tres, siete, veinte. Como u es triangular superior, sustituimos hacia atrás. La última fila dice diez zeta igual a veinte: zeta vale dos.
+
+3
+00:00:27,150 --> 00:00:44,646
+La segunda: menos ye más tres zeta igual a siete. Ye vale seis menos siete: menos uno. Y la primera: equis más dos ye menos zeta igual a menos tres. Equis vale menos tres, más dos, más dos: uno.
+
+4
+00:00:46,633 --> 00:00:59,377
+Y siempre verificamos en el sistema original: a por la solución da menos tres, uno, dos, que es be. Es la misma solución que obtuvimos con Gauss en la lección veintiséis.
+
+5
+00:01:01,366 --> 00:01:24,238
+Los costes. El sistema con ele, que tiene unos en la diagonal, cuesta ene por ene menos uno, entre dos multiplicaciones. El de u, ene por ene más uno, entre dos. En total, ene cuadrado por cada be. Factorizar a cuesta ene cubo menos ene, entre tres, pero solo una vez.
+
+6
+00:01:25,233 --> 00:01:47,001
+Ejercicio propuesto: con ele y u de la lección, resuelve a equis igual a be, para be igual a cero, uno, menos tres. Resuelve primero ele ye igual a be, después u equis igual a ye, y verifica en el sistema original. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+7
+00:01:54,000 --> 00:02:15,024
+En resumen: u equis igual a ye se resuelve hacia atrás, con el ye de ele ye igual a be. Siempre se verifica en la matriz a original. Y cada be nueva cuesta ene cuadrado operaciones, mientras que factorizar a se hace una sola vez. Siguiente: un ejemplo completo de principio a fin.
+

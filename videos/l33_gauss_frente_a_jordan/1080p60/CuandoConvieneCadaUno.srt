@@ -1,0 +1,44 @@
+1
+00:00:01,000 --> 00:00:06,256
+Lección 33 , Parte 2: ¿Cuándo conviene cada uno?
+
+2
+00:00:08,250 --> 00:00:18,378
+Comparemos los dos métodos. Gauss con sustitución hace menos operaciones, unas ene cubo entre tres, frente a ene cubo entre dos.
+
+3
+00:00:18,366 --> 00:00:31,902
+Gauss deja una forma escalonada, de la que se lee la solución sustituyendo hacia atrás. Gauss-Jordan deja la forma reducida, que además es única, y de la que la solución se lee directamente.
+
+4
+00:00:31,900 --> 00:00:38,836
+Con variables libres, la reducida da la solución paramétrica leyendo las filas, sin sustituir.
+
+5
+00:00:40,833 --> 00:00:49,761
+A mano, con sistemas pequeños, conviene Gauss-Jordan: hay pocas operaciones de más, y la solución se lee sin sustituir.
+
+6
+00:00:49,750 --> 00:00:58,006
+Para un sistema grande en un ordenador, conviene Gauss con sustitución hacia atrás: hace un tercio menos de operaciones.
+
+7
+00:00:58,000 --> 00:01:05,104
+Para comparar sistemas, o saber si dos son equivalentes, conviene la reducida, porque es única.
+
+8
+00:01:05,100 --> 00:01:14,988
+Y si hay muchos lados derechos con la misma matriz, ni uno ni otro: la factorización ele u, de la unidad seis, reutiliza la eliminación.
+
+9
+00:01:16,983 --> 00:01:30,879
+Lo que no cambia: los dos usan las mismas tres operaciones elementales, dan el mismo conjunto solución y las mismas posiciones de pivote. Y los dos terminan igual: verificando en el sistema original.
+
+10
+00:01:31,866 --> 00:01:56,970
+Ejercicio propuesto: elige y justifica el método más adecuado en cada caso. Uno: un sistema de dos por dos resuelto a mano en un examen. Dos: un sistema de dos mil por dos mil en un ordenador. Y tres: decidir si dos sistemas son equivalentes. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+11
+00:02:03,966 --> 00:02:29,766
+En resumen: a mano, con sistemas pequeños, conviene Gauss-Jordan, por su lectura directa. Para sistemas grandes, Gauss con sustitución hacia atrás, que hace menos operaciones. Para comparar sistemas, la reducida, porque es única. Y con muchos lados derechos, la factorización ele u. Siguiente: unidad seis, factorización ele u.
+

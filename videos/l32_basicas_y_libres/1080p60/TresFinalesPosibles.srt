@@ -1,0 +1,32 @@
+1
+00:00:01,000 --> 00:00:06,184
+Lección 32 , Parte 2: Tres finales posibles
+
+2
+00:00:09,183 --> 00:00:23,583
+Primer final: hay un pivote en cada columna de las incógnitas, y ninguno en la columna de be. La reducida da el valor de cada incógnita: una única solución. Es compatible determinado.
+
+3
+00:00:23,566 --> 00:00:37,174
+Segundo final: alguna incógnita no tiene pivote, y tampoco hay pivote en la columna de be. Esa incógnita es libre: hay infinitas soluciones. Es compatible indeterminado.
+
+4
+00:00:37,166 --> 00:00:46,526
+Tercer final: hay un pivote en la columna de be. La última fila dice cero igual a uno: el sistema es incompatible.
+
+5
+00:00:48,516 --> 00:01:17,916
+El criterio se resume en tres preguntas. Primera: ¿hay un pivote en la columna de be? Si es así, es incompatible, y se acabó. Segunda: si no, ¿hay un pivote en cada columna de las incógnitas? Entonces hay una única solución. Y tercera: si no, alguna incógnita queda libre: infinitas soluciones, con ene menos erre parámetros, donde erre es el número de pivotes.
+
+6
+00:01:19,916 --> 00:01:47,444
+Los pivotes lo explican todo. Hay a lo sumo un pivote por fila, así que el número de pivotes no supera ni al de ecuaciones ni al de incógnitas. Si hay menos ecuaciones que incógnitas, siempre queda alguna libre, y nunca hay una única solución. Una fila de ceros no cuenta: importan los pivotes, no las ecuaciones. Y ese número de pivotes se llamará rango, en la unidad siete.
+
+7
+00:01:48,433 --> 00:02:08,185
+Ejercicio propuesto: clasifica cada uno de estos sistemas, compatible determinado, indeterminado o incompatible, mirando solo su matriz reducida. Si es compatible, da la solución. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+8
+00:02:15,183 --> 00:02:35,319
+En resumen: un pivote en la columna de be significa que el sistema es incompatible. Si no, un pivote en cada columna de incógnitas da una única solución, y si no, infinitas, con ene menos erre parámetros. Siguiente: lección treinta y tres, Gauss frente a Gauss-Jordan.
+

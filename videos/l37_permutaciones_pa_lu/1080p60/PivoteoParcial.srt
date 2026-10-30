@@ -1,0 +1,32 @@
+1
+00:00:01,000 --> 00:00:05,872
+Lección 37 , Parte 3: Pivoteo parcial
+
+2
+00:00:08,866 --> 00:00:33,274
+Hay otra razón para intercambiar filas, aunque el pivote no sea cero. Con pivoteo parcial, en cada columna elegimos como pivote la entrada de mayor valor absoluto, intercambiando filas. Así, todos los multiplicadores valen, en valor absoluto, uno como máximo. Se evitan los pivotes cero, y también los pivotes muy pequeños.
+
+3
+00:00:35,266 --> 00:00:58,666
+Veamos qué pasa con un pivote pequeño. Este sistema, cero coma cero cero cero uno equis más ye igual a uno, y equis más ye igual a dos, tiene por solución equis aproximadamente uno coma cero cero cero uno, y ye, cero coma nueve nueve nueve nueve. Resolvámoslo con una calculadora que solo guarda tres cifras significativas.
+
+4
+00:01:00,666 --> 00:01:34,410
+Sin intercambiar, el pivote es cero coma cero cero cero uno, y el multiplicador, diez mil. Al restar, la ye de la segunda fila queda uno menos diez mil, que son menos nueve mil novecientos noventa y nueve: con tres cifras, menos uno por diez a la cuatro. El término independiente, igual. Sale ye igual a uno, y entonces equis es uno menos uno, entre cero coma cero cero cero uno: cero. Pero la solución exacta es equis casi uno: el error es total.
+
+5
+00:01:36,400 --> 00:02:02,080
+Con pivoteo parcial, intercambiamos las dos filas: el pivote es uno, y el multiplicador, cero coma cero cero cero uno. La ye queda uno menos cero coma cero cero cero uno, que con tres cifras es uno; el término independiente, también uno. Entonces ye es uno, y equis es dos menos uno: uno. El resultado es correcto con tres cifras.
+
+6
+00:02:04,066 --> 00:02:29,146
+La moraleja: dividir entre un pivote muy pequeño amplifica los errores de redondeo. Con pivoteo parcial, los multiplicadores no superan a uno, y los errores no se disparan. Por eso los programas de álgebra numérica resuelven con pe a igual a ele u, con pivoteo parcial. A mano, con fracciones exactas, no hay redondeo: basta con evitar el cero.
+
+7
+00:02:30,133 --> 00:02:45,373
+Ejercicio propuesto: resuelve este sistema con tres cifras significativas, sin y con intercambio de filas, y compara con la solución exacta. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+8
+00:02:52,366 --> 00:03:13,702
+En resumen: el pivoteo parcial elige el pivote de mayor valor absoluto, y los multiplicadores no superan a uno. Evita el cero y los pivotes muy pequeños, que amplifican el redondeo. Y el resultado numérico estándar es pe a igual a ele u. Siguiente: lección treinta y ocho, comparación y aplicaciones.
+

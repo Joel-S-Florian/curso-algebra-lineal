@@ -1,0 +1,28 @@
+1
+00:00:01,000 --> 00:00:05,752
+Lección 38 , Parte 2: ¿Qué método elegir?
+
+2
+00:00:08,750 --> 00:00:26,126
+Esta es la tabla de todos los métodos que hemos visto. Sustitución e igualación: para dos o tres incógnitas, a mano. Reducción, que es Gauss: un solo sistema, a mano o en máquina, con unas ene cubo entre tres operaciones.
+
+3
+00:00:26,116 --> 00:00:44,116
+Gauss-Jordan: a mano, con lectura directa de la solución, y para comparar sistemas, con unas ene cubo entre dos. Y ele u, con pivoteo: la misma matriz con muchos lados derechos, con ene cubo entre tres una sola vez, más ene cuadrado por cada be.
+
+4
+00:00:46,116 --> 00:01:08,316
+Qué comparten. Todos se basan en las tres operaciones elementales, o equivalen a ellas. Todos dan el mismo conjunto solución. Todos exigen verificar en el sistema original. Y ninguno resuelve lo que el sistema no tiene: que no haya solución, o que haya infinitas, se detecta por los pivotes.
+
+5
+00:01:10,316 --> 00:01:30,308
+Hasta ahora hemos resuelto sistemas. ¿Podemos clasificarlos sin resolver? El número de pivotes tiene nombre: el rango. En la unidad siete veremos el teorema de Rouché-Frobenius, que decide si un sistema es incompatible, determinado o indeterminado, usando el rango.
+
+6
+00:01:31,300 --> 00:01:55,636
+Ejercicio propuesto: elige el método más adecuado y justifica la elección. Uno: una matriz fija y doscientos lados derechos distintos. Dos: un sistema de dos por dos en un examen. Tres: saber si dos sistemas son equivalentes. Pausa el video e inténtalo; la solución está en el banco de ejercicios.
+
+7
+00:02:02,633 --> 00:02:26,273
+En resumen: con pocas incógnitas, a mano, sustitución, igualación o Gauss-Jordan. Para un sistema grande, Gauss; y con la misma matriz y muchos lados derechos, pe a igual a ele u. En todos, verificar en el sistema original. Siguiente: unidad siete, rango y teorema de Rouché-Frobenius.
+
